@@ -4,7 +4,7 @@ target-version = ['py27']
 
 [tool.poetry]
 name = "e2voc"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["Andreas Oberritter <obi@saftware.de>"]
 license = "MIT"
