@@ -1,0 +1,1580 @@
+[
+    {
+        "conference": "rC3 NOWHERE",
+        "slug": "rc3",
+        "author": "CCC",
+        "description": "Live streaming from the Remote Chaos Experience",
+        "keywords": "rC3, Hacking, Chaos Computer Club, Video, Music, Podcast, Media, Streaming, Hacker, Internet",
+        "schedule": "https://data.c3voc.de/rC3_21/streams.schedule.xml",
+        "startsAt": "2021-12-27T05:00:00+0000",
+        "endsAt": "2021-12-31T02:00:00+0000",
+        "isCurrentlyStreaming": true,
+        "groups": [
+            {
+                "group": "Channels",
+                "rooms": [
+                    {
+                        "slug": "cbase",
+                        "schedulename": "c-base",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/cbase/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/cbase/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/cbase",
+                        "display": "c-base",
+                        "stream": "cbase",
+                        "talks": {
+                            "current": {
+                                "fstart": "2021-12-27T21:00:00+01:00",
+                                "fend": "2021-12-27T23:00:00+01:00",
+                                "tstart": "21:00",
+                                "tend": "23:00",
+                                "start": 1640635200,
+                                "end": 1640642400,
+                                "offset": 3600,
+                                "duration": 7200,
+                                "title": "Émission echstraordinaire - echs the hechs",
+                                "speaker": "Antiverschwurbelte Aktion",
+                                "room_known": true,
+                                "optout": false
+                            },
+                            "next": {
+                                "fstart": "2021-12-27T23:00:00+01:00",
+                                "fend": "2021-12-27T23:45:00+01:00",
+                                "tstart": "23:00",
+                                "tend": "23:45",
+                                "start": 1640642400,
+                                "end": 1640645100,
+                                "offset": 3600,
+                                "duration": 2700,
+                                "title": "Apparent Magnitude",
+                                "speaker": "penta, DD",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "hls-native",
+                                "display": "c-base ",
+                                "type": "hls",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "c-base Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "AAC, VBR",
+                                        "url": "https://cdn.c3voc.de/hls/cbase/segment_Native.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "c-base FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/cbase/native_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "cwtv",
+                        "schedulename": "Chaos-West TV",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/cwtv/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/cwtv/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/cwtv",
+                        "display": "Chaos-West TV",
+                        "stream": "cwtv",
+                        "talks": {
+                            "current": {
+                                "fstart": "2021-12-27T20:40:00+01:00",
+                                "fend": "2021-12-28T03:37:00+01:00",
+                                "tstart": "20:40",
+                                "tend": "03:37",
+                                "start": 1640634000,
+                                "end": 1640659020,
+                                "offset": 3600,
+                                "duration": 25020,
+                                "special": "gap"
+                            },
+                            "next": {
+                                "fstart": "2021-12-28T12:30:00+01:00",
+                                "fend": "2021-12-28T13:10:00+01:00",
+                                "tstart": "12:30",
+                                "tend": "13:10",
+                                "start": 1640691000,
+                                "end": 1640693400,
+                                "offset": 3600,
+                                "duration": 2400,
+                                "title": "Lets review code together - einfach mal machen",
+                                "speaker": "khaleesi, paldium",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "hls-native",
+                                "display": "Chaos-West TV ",
+                                "type": "hls",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "Chaos-West TV Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "AAC, VBR",
+                                        "url": "https://cdn.c3voc.de/hls/cwtv/segment_Native.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "Chaos-West TV FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/cwtv/native_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "r3s",
+                        "schedulename": "r3s - Monheim/Rhein",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/r3s/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/r3s/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/r3s",
+                        "display": "Remote Rhein Ruhr Stage",
+                        "stream": "r3s",
+                        "talks": {
+                            "current": {
+                                "fstart": "2021-12-27T21:00:00+01:00",
+                                "fend": "2021-12-27T22:00:00+01:00",
+                                "tstart": "21:00",
+                                "tend": "22:00",
+                                "start": 1640635200,
+                                "end": 1640638800,
+                                "offset": 3600,
+                                "duration": 3600,
+                                "title": "ADS-B & AIS - Open Data is in the air",
+                                "speaker": "JJX, Skymaker",
+                                "room_known": true,
+                                "optout": false
+                            },
+                            "next": {
+                                "fstart": "2021-12-27T23:00:00+01:00",
+                                "fend": "2021-12-28T00:00:00+01:00",
+                                "tstart": "23:00",
+                                "tend": "00:00",
+                                "start": 1640642400,
+                                "end": 1640646000,
+                                "offset": 3600,
+                                "duration": 3600,
+                                "title": "Lightning Talks 1",
+                                "speaker": "Erklärhaj",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "hls-native",
+                                "display": "Remote Rhein Ruhr Stage ",
+                                "type": "hls",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "hls-translated",
+                                "display": "Remote Rhein Ruhr Stage  (Translated1)",
+                                "type": "hls",
+                                "isTranslated": true,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "hls-translated-2",
+                                "display": "Remote Rhein Ruhr Stage  (Translated2)",
+                                "type": "hls",
+                                "isTranslated": true,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "Remote Rhein Ruhr Stage Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "AAC, VBR",
+                                        "url": "https://cdn.c3voc.de/hls/r3s/segment_Native.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-translated",
+                                "display": "Remote Rhein Ruhr Stage Audio (Translated1)",
+                                "type": "audio",
+                                "isTranslated": true,
+                                "videoSize": null,
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "AAC, VBR",
+                                        "url": "https://cdn.c3voc.de/hls/r3s/segment_Translated.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-translated-2",
+                                "display": "Remote Rhein Ruhr Stage Audio (Translated2)",
+                                "type": "audio",
+                                "isTranslated": true,
+                                "videoSize": null,
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "AAC, VBR",
+                                        "url": "https://cdn.c3voc.de/hls/r3s/segment_Translated-2.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "Remote Rhein Ruhr Stage FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/r3s/native_hd.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-translated",
+                                "display": "Remote Rhein Ruhr Stage FullHD Video (Translated1)",
+                                "type": "video",
+                                "isTranslated": true,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/r3s/translated_hd.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-translated-2",
+                                "display": "Remote Rhein Ruhr Stage FullHD Video (Translated2)",
+                                "type": "video",
+                                "isTranslated": true,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/r3s/translated-2_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "csh",
+                        "schedulename": "Chaosstudio Hamburg",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/csh/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/csh/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/csh",
+                        "display": "ChaosStudio Hamburg",
+                        "stream": "csh",
+                        "talks": {
+                            "current": {
+                                "fstart": "2021-12-27T21:00:00+01:00",
+                                "fend": "2021-12-27T21:45:00+01:00",
+                                "tstart": "21:00",
+                                "tend": "21:45",
+                                "start": 1640635200,
+                                "end": 1640637900,
+                                "offset": 3600,
+                                "duration": 2700,
+                                "title": "Auf der Suche nach einer neuen Erde",
+                                "speaker": "Knud Henke",
+                                "room_known": true,
+                                "optout": false
+                            },
+                            "next": {
+                                "fstart": "2021-12-27T22:00:00+01:00",
+                                "fend": "2021-12-27T22:45:00+01:00",
+                                "tstart": "22:00",
+                                "tend": "22:45",
+                                "start": 1640638800,
+                                "end": 1640641500,
+                                "offset": 3600,
+                                "duration": 2700,
+                                "title": "Die neue Sternkammer Lübeck - Wiederentdeckung und digitale Erweiterung des ältesten Schulplanetariums der Welt",
+                                "speaker": "Ralph Heinsohn",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "hls-native",
+                                "display": "ChaosStudio Hamburg ",
+                                "type": "hls",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "hls-translated",
+                                "display": "ChaosStudio Hamburg  (Translated1)",
+                                "type": "hls",
+                                "isTranslated": true,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "hls-translated-2",
+                                "display": "ChaosStudio Hamburg  (Translated2)",
+                                "type": "hls",
+                                "isTranslated": true,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "ChaosStudio Hamburg Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "AAC, VBR",
+                                        "url": "https://cdn.c3voc.de/hls/csh/segment_Native.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-translated",
+                                "display": "ChaosStudio Hamburg Audio (Translated1)",
+                                "type": "audio",
+                                "isTranslated": true,
+                                "videoSize": null,
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "AAC, VBR",
+                                        "url": "https://cdn.c3voc.de/hls/csh/segment_Translated.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-translated-2",
+                                "display": "ChaosStudio Hamburg Audio (Translated2)",
+                                "type": "audio",
+                                "isTranslated": true,
+                                "videoSize": null,
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "AAC, VBR",
+                                        "url": "https://cdn.c3voc.de/hls/csh/segment_Translated-2.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "ChaosStudio Hamburg FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/csh/native_hd.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-translated",
+                                "display": "ChaosStudio Hamburg FullHD Video (Translated1)",
+                                "type": "video",
+                                "isTranslated": true,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/csh/translated_hd.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-translated-2",
+                                "display": "ChaosStudio Hamburg FullHD Video (Translated2)",
+                                "type": "video",
+                                "isTranslated": true,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/csh/translated-2_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "chaoszone",
+                        "schedulename": "ChaosZone TV",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/chaoszone/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/chaoszone/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/chaoszone",
+                        "display": "ChaosZone TV",
+                        "stream": "chaoszone",
+                        "talks": {
+                            "current": {
+                                "fstart": "2021-12-27T21:00:00+01:00",
+                                "fend": "2021-12-27T21:30:00+01:00",
+                                "tstart": "21:00",
+                                "tend": "21:30",
+                                "start": 1640635200,
+                                "end": 1640637000,
+                                "offset": 3600,
+                                "duration": 1800,
+                                "special": "pause",
+                                "title": "30 minutes pause",
+                                "room_known": true
+                            },
+                            "next": {
+                                "fstart": "2021-12-27T21:30:00+01:00",
+                                "fend": "2021-12-27T21:50:00+01:00",
+                                "tstart": "21:30",
+                                "tend": "21:50",
+                                "start": 1640637000,
+                                "end": 1640638200,
+                                "offset": 3600,
+                                "duration": 1200,
+                                "title": "Local Emission Framework - Klimaschutz vor deiner Haustür",
+                                "speaker": "Niklas Stein",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "hls-native",
+                                "display": "ChaosZone TV ",
+                                "type": "hls",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "hls-translated",
+                                "display": "ChaosZone TV  (Translated1)",
+                                "type": "hls",
+                                "isTranslated": true,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "hls-translated-2",
+                                "display": "ChaosZone TV  (Translated2)",
+                                "type": "hls",
+                                "isTranslated": true,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "ChaosZone TV Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "AAC, VBR",
+                                        "url": "https://cdn.c3voc.de/hls/chaoszone/segment_Native.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-translated",
+                                "display": "ChaosZone TV Audio (Translated1)",
+                                "type": "audio",
+                                "isTranslated": true,
+                                "videoSize": null,
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "AAC, VBR",
+                                        "url": "https://cdn.c3voc.de/hls/chaoszone/segment_Translated.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-translated-2",
+                                "display": "ChaosZone TV Audio (Translated2)",
+                                "type": "audio",
+                                "isTranslated": true,
+                                "videoSize": null,
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "AAC, VBR",
+                                        "url": "https://cdn.c3voc.de/hls/chaoszone/segment_Translated-2.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "ChaosZone TV FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/chaoszone/native_hd.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-translated",
+                                "display": "ChaosZone TV FullHD Video (Translated1)",
+                                "type": "video",
+                                "isTranslated": true,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/chaoszone/translated_hd.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-translated-2",
+                                "display": "ChaosZone TV FullHD Video (Translated2)",
+                                "type": "video",
+                                "isTranslated": true,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/chaoszone/translated-2_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "fem",
+                        "schedulename": "FeM Channel",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/fem/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/fem/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/fem",
+                        "display": "FeM",
+                        "stream": "fem",
+                        "talks": {
+                            "current": {
+                                "fstart": "2021-12-27T20:55:00+01:00",
+                                "fend": "2021-12-27T22:00:00+01:00",
+                                "tstart": "20:55",
+                                "tend": "22:00",
+                                "start": 1640634900,
+                                "end": 1640638800,
+                                "offset": 3600,
+                                "duration": 3900,
+                                "special": "pause",
+                                "title": "65 minutes pause",
+                                "room_known": true
+                            },
+                            "next": {
+                                "fstart": "2021-12-27T22:00:00+01:00",
+                                "fend": "2021-12-27T23:00:00+01:00",
+                                "tstart": "22:00",
+                                "tend": "23:00",
+                                "start": 1640638800,
+                                "end": 1640642400,
+                                "offset": 3600,
+                                "duration": 3600,
+                                "title": "Frisson Waves - Augmenting Aesthetic Chills in Music Perfromances",
+                                "speaker": "Kai Kunze",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "hls-native",
+                                "display": "FeM ",
+                                "type": "hls",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "FeM Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "AAC, VBR",
+                                        "url": "https://cdn.c3voc.de/hls/fem/segment_Native.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "FeM FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/fem/native_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "franconiannet",
+                        "schedulename": "franconian.net",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/franconiannet/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/franconiannet/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/franconiannet",
+                        "display": "franconian.net",
+                        "stream": "franconiannet",
+                        "talks": {
+                            "current": {
+                                "fstart": "2021-12-27T20:55:00+01:00",
+                                "fend": "2021-12-28T03:37:00+01:00",
+                                "tstart": "20:55",
+                                "tend": "03:37",
+                                "start": 1640634900,
+                                "end": 1640659020,
+                                "offset": 3600,
+                                "duration": 24120,
+                                "special": "gap"
+                            },
+                            "next": {
+                                "fstart": "2021-12-28T16:00:00+01:00",
+                                "fend": "2021-12-28T16:40:00+01:00",
+                                "tstart": "16:00",
+                                "tend": "16:40",
+                                "start": 1640703600,
+                                "end": 1640706000,
+                                "offset": 3600,
+                                "duration": 2400,
+                                "title": "Infraschallmessung bei Schaffenburg",
+                                "speaker": "Hendi",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "hls-native",
+                                "display": "franconian.net ",
+                                "type": "hls",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "franconian.net Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "AAC, VBR",
+                                        "url": "https://cdn.c3voc.de/hls/franconiannet/segment_Native.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "franconian.net FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/franconiannet/native_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "aboutfuture",
+                        "schedulename": "about:future stage",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/aboutfuture/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/aboutfuture/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/aboutfuture",
+                        "display": "about:future",
+                        "stream": "aboutfuture",
+                        "talks": {
+                            "current": {
+                                "fstart": "2021-12-27T20:00:00+01:00",
+                                "fend": "2021-12-27T21:30:00+01:00",
+                                "tstart": "20:00",
+                                "tend": "21:30",
+                                "start": 1640631600,
+                                "end": 1640637000,
+                                "offset": 3600,
+                                "duration": 5400,
+                                "title": "Zauberberge von Crêpes",
+                                "speaker": "Lukas aka. Zauberberg",
+                                "room_known": true,
+                                "optout": false
+                            },
+                            "next": {
+                                "fstart": "2021-12-28T11:30:00+01:00",
+                                "fend": "2021-12-28T12:00:00+01:00",
+                                "tstart": "11:30",
+                                "tend": "12:00",
+                                "start": 1640687400,
+                                "end": 1640689200,
+                                "offset": 3600,
+                                "duration": 1800,
+                                "title": "Do-It-Yourself Heizenergie-Optimierung mit einem Neuronalen Netzwerk",
+                                "speaker": "Jens Dorfmüller",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "hls-native",
+                                "display": "about:future ",
+                                "type": "hls",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "about:future Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "AAC, VBR",
+                                        "url": "https://cdn.c3voc.de/hls/aboutfuture/segment_Native.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "about:future FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/aboutfuture/native_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "sendezentrum",
+                        "schedulename": "Sendezentrum Bühne",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/sendezentrum/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/sendezentrum/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/sendezentrum",
+                        "display": "Sendezentrum",
+                        "stream": "sendezentrum",
+                        "talks": {
+                            "current": {
+                                "fstart": "2021-12-27T21:00:00+01:00",
+                                "fend": "2021-12-27T21:45:00+01:00",
+                                "tstart": "21:00",
+                                "tend": "21:45",
+                                "start": 1640635200,
+                                "end": 1640637900,
+                                "offset": 3600,
+                                "duration": 2700,
+                                "title": "Bleepy Toys - Ambienter Synthesizer Live Jam",
+                                "speaker": "Bleepy Toys",
+                                "room_known": true,
+                                "optout": false
+                            },
+                            "next": {
+                                "fstart": "2021-12-28T13:00:00+01:00",
+                                "fend": "2021-12-28T13:45:00+01:00",
+                                "tstart": "13:00",
+                                "tend": "13:45",
+                                "start": 1640692800,
+                                "end": 1640695500,
+                                "offset": 3600,
+                                "duration": 2700,
+                                "title": "Podcasting lernen mit dem lernOS Podcasting Leitfaden",
+                                "speaker": "Simon Dückert",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "hls-native",
+                                "display": "Sendezentrum ",
+                                "type": "hls",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "Sendezentrum Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "AAC, VBR",
+                                        "url": "https://cdn.c3voc.de/hls/sendezentrum/segment_Native.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "Sendezentrum FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/sendezentrum/native_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "haecksen",
+                        "schedulename": "Haecksen Stream",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/haecksen/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/haecksen/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/haecksen",
+                        "display": "Haecksen",
+                        "stream": "haecksen",
+                        "talks": {
+                            "current": {
+                                "fstart": "2021-12-27T21:00:00+01:00",
+                                "fend": "2021-12-27T21:30:00+01:00",
+                                "tstart": "21:00",
+                                "tend": "21:30",
+                                "start": 1640635200,
+                                "end": 1640637000,
+                                "offset": 3600,
+                                "duration": 1800,
+                                "special": "pause",
+                                "title": "30 minutes pause",
+                                "room_known": true
+                            },
+                            "next": {
+                                "fstart": "2021-12-27T21:30:00+01:00",
+                                "fend": "2021-12-27T22:30:00+01:00",
+                                "tstart": "21:30",
+                                "tend": "22:30",
+                                "start": 1640637000,
+                                "end": 1640640600,
+                                "offset": 3600,
+                                "duration": 3600,
+                                "title": "Operation Mindfuck Vol. 5",
+                                "speaker": "blinry, bleeptrack",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "hls-native",
+                                "display": "Haecksen ",
+                                "type": "hls",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "hls-translated",
+                                "display": "Haecksen  (Translated1)",
+                                "type": "hls",
+                                "isTranslated": true,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "hls-translated-2",
+                                "display": "Haecksen  (Translated2)",
+                                "type": "hls",
+                                "isTranslated": true,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "Haecksen Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "AAC, VBR",
+                                        "url": "https://cdn.c3voc.de/hls/haecksen/segment_Native.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-translated",
+                                "display": "Haecksen Audio (Translated1)",
+                                "type": "audio",
+                                "isTranslated": true,
+                                "videoSize": null,
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "AAC, VBR",
+                                        "url": "https://cdn.c3voc.de/hls/haecksen/segment_Translated.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-translated-2",
+                                "display": "Haecksen Audio (Translated2)",
+                                "type": "audio",
+                                "isTranslated": true,
+                                "videoSize": null,
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "AAC, VBR",
+                                        "url": "https://cdn.c3voc.de/hls/haecksen/segment_Translated-2.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "Haecksen FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/haecksen/native_hd.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-translated",
+                                "display": "Haecksen FullHD Video (Translated1)",
+                                "type": "video",
+                                "isTranslated": true,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/haecksen/translated_hd.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-translated-2",
+                                "display": "Haecksen FullHD Video (Translated2)",
+                                "type": "video",
+                                "isTranslated": true,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/haecksen/translated-2_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "gehacktesfromhell",
+                        "schedulename": "Bierscheune",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/gehacktes/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/gehacktes/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/gehacktesfromhell",
+                        "display": "Gehacktes from Hell / Bierscheune",
+                        "stream": "gehacktes",
+                        "talks": {
+                            "current": {
+                                "fstart": "2021-12-27T21:00:00+01:00",
+                                "fend": "2021-12-28T03:37:00+01:00",
+                                "tstart": "21:00",
+                                "tend": "03:37",
+                                "start": 1640635200,
+                                "end": 1640659020,
+                                "offset": 3600,
+                                "duration": 23820,
+                                "special": "gap"
+                            },
+                            "next": {
+                                "fstart": "2021-12-28T16:00:00+01:00",
+                                "fend": "2021-12-28T16:30:00+01:00",
+                                "tstart": "16:00",
+                                "tend": "16:30",
+                                "start": 1640703600,
+                                "end": 1640705400,
+                                "offset": 3600,
+                                "duration": 1800,
+                                "title": "Klimawandel, Weidemanagement und CO2",
+                                "speaker": "Daniel Diehl, Svenja",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "hls-native",
+                                "display": "Gehacktes from Hell / Bierscheune ",
+                                "type": "hls",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "hls-translated",
+                                "display": "Gehacktes from Hell / Bierscheune  (Translated1)",
+                                "type": "hls",
+                                "isTranslated": true,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "hls-translated-2",
+                                "display": "Gehacktes from Hell / Bierscheune  (Translated2)",
+                                "type": "hls",
+                                "isTranslated": true,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "Gehacktes from Hell / Bierscheune Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "AAC, VBR",
+                                        "url": "https://cdn.c3voc.de/hls/gehacktes/segment_Native.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-translated",
+                                "display": "Gehacktes from Hell / Bierscheune Audio (Translated1)",
+                                "type": "audio",
+                                "isTranslated": true,
+                                "videoSize": null,
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "AAC, VBR",
+                                        "url": "https://cdn.c3voc.de/hls/gehacktes/segment_Translated.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-translated-2",
+                                "display": "Gehacktes from Hell / Bierscheune Audio (Translated2)",
+                                "type": "audio",
+                                "isTranslated": true,
+                                "videoSize": null,
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "AAC, VBR",
+                                        "url": "https://cdn.c3voc.de/hls/gehacktes/segment_Translated-2.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "Gehacktes from Hell / Bierscheune FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/gehacktes/native_hd.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-translated",
+                                "display": "Gehacktes from Hell / Bierscheune FullHD Video (Translated1)",
+                                "type": "video",
+                                "isTranslated": true,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/gehacktes/translated_hd.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-translated-2",
+                                "display": "Gehacktes from Hell / Bierscheune FullHD Video (Translated2)",
+                                "type": "video",
+                                "isTranslated": true,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/gehacktes/translated-2_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "xhain",
+                        "schedulename": "Lichtung",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/xhain/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/xhain/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/xhain",
+                        "display": "xHain Lichtung",
+                        "stream": "xhain",
+                        "talks": {
+                            "current": {
+                                "fstart": "2021-12-27T21:00:00+01:00",
+                                "fend": "2021-12-27T22:00:00+01:00",
+                                "tstart": "21:00",
+                                "tend": "22:00",
+                                "start": 1640635200,
+                                "end": 1640638800,
+                                "offset": 3600,
+                                "duration": 3600,
+                                "special": "pause",
+                                "title": "60 minutes pause",
+                                "room_known": true
+                            },
+                            "next": {
+                                "fstart": "2021-12-27T22:00:00+01:00",
+                                "fend": "2021-12-27T22:45:00+01:00",
+                                "tstart": "22:00",
+                                "tend": "22:45",
+                                "start": 1640638800,
+                                "end": 1640641500,
+                                "offset": 3600,
+                                "duration": 2700,
+                                "title": "16bit:wolf",
+                                "speaker": "clx",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "hls-native",
+                                "display": "xHain Lichtung ",
+                                "type": "hls",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "xHain Lichtung Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "AAC, VBR",
+                                        "url": "https://cdn.c3voc.de/hls/xhain/segment_Native.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "xHain Lichtung FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/xhain/native_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "group": "Info",
+                "rooms": [
+                    {
+                        "slug": "infobeamer",
+                        "schedulename": "Infobeamer",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/infobeamer/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/infobeamer/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/infobeamer",
+                        "display": "Infobeamer",
+                        "stream": "infobeamer",
+                        "talks": {
+                            "current": null,
+                            "next": null
+                        },
+                        "streams": [
+                            {
+                                "slug": "hls-native",
+                                "display": "Infobeamer ",
+                                "type": "hls",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "Infobeamer Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "AAC, VBR",
+                                        "url": "https://cdn.c3voc.de/hls/infobeamer/segment_Native.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "Infobeamer FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/infobeamer/native_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "group": "Music",
+                "rooms": [
+                    {
+                        "slug": "c3lounge",
+                        "schedulename": "rC3 Lounge",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/c3lounge/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/c3lounge/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/c3lounge",
+                        "display": "rC3 Lounge",
+                        "stream": "c3lounge",
+                        "talks": {
+                            "current": {
+                                "fstart": "2021-12-27T21:00:00+01:00",
+                                "fend": "2021-12-27T22:00:00+01:00",
+                                "tstart": "21:00",
+                                "tend": "22:00",
+                                "start": 1640635200,
+                                "end": 1640638800,
+                                "offset": 3600,
+                                "duration": 3600,
+                                "title": "Stage War (Trash Metal)",
+                                "speaker": "",
+                                "room_known": true,
+                                "optout": false
+                            },
+                            "next": {
+                                "fstart": "2021-12-27T22:00:00+01:00",
+                                "fend": "2021-12-28T00:00:00+01:00",
+                                "tstart": "22:00",
+                                "tend": "00:00",
+                                "start": 1640638800,
+                                "end": 1640646000,
+                                "offset": 3600,
+                                "duration": 7200,
+                                "title": "Khrysalis",
+                                "speaker": "",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "hls-native",
+                                "display": "rC3 Lounge ",
+                                "type": "hls",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "rC3 Lounge Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "AAC, VBR",
+                                        "url": "https://cdn.c3voc.de/hls/c3lounge/segment_Native.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "rC3 Lounge FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/c3lounge/native_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "abchillgleis",
+                        "schedulename": "Abchillgleis",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/abchillgleis/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/abchillgleis/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/abchillgleis",
+                        "display": "Abchillgleis",
+                        "stream": "abchillgleis",
+                        "talks": {
+                            "current": {
+                                "fstart": "2021-12-27T20:00:00+01:00",
+                                "fend": "2021-12-27T22:00:00+01:00",
+                                "tstart": "20:00",
+                                "tend": "22:00",
+                                "start": 1640631600,
+                                "end": 1640638800,
+                                "offset": 3600,
+                                "duration": 7200,
+                                "special": "pause",
+                                "title": "120 minutes pause",
+                                "room_known": true
+                            },
+                            "next": {
+                                "fstart": "2021-12-27T22:00:00+01:00",
+                                "fend": "2021-12-27T23:30:00+01:00",
+                                "tstart": "22:00",
+                                "tend": "23:30",
+                                "start": 1640638800,
+                                "end": 1640644200,
+                                "offset": 3600,
+                                "duration": 5400,
+                                "title": "DJ Cee (AlHaca Soundsystem)",
+                                "speaker": "",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "hls-native",
+                                "display": "Abchillgleis ",
+                                "type": "hls",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "Abchillgleis Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "AAC, VBR",
+                                        "url": "https://cdn.c3voc.de/hls/abchillgleis/segment_Native.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "Abchillgleis FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/abchillgleis/native_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

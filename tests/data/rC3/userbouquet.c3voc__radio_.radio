@@ -1,0 +1,153 @@
+#NAME c3voc (Radio)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::rC1 - Live - rC3
+#DESCRIPTION rC1 - Live - rC3
+#SERVICE 4097:256:0:3221:9e89:e6a5:5b1b984f:0:0:0:https%3a//cdn.c3voc.de/rc1_native.mp3:rC1 Audio (MP3)
+#DESCRIPTION rC1 Audio (MP3)
+#SERVICE 4097:256:0:3221:9e89:e6a5:5b1b984f:0:0:0:https%3a//cdn.c3voc.de/rc1_native.opus:rC1 Audio (Opus)
+#DESCRIPTION rC1 Audio (Opus)
+#SERVICE 4097:256:0:3221:9e89:e6a5:5b1b984f:0:0:0:https%3a//cdn.c3voc.de/rc1_translated.mp3:rC1 Audio (Translated1) (MP3)
+#DESCRIPTION rC1 Audio (Translated1) (MP3)
+#SERVICE 4097:256:0:3221:9e89:e6a5:5b1b984f:0:0:0:https%3a//cdn.c3voc.de/rc1_translated.opus:rC1 Audio (Translated1) (Opus)
+#DESCRIPTION rC1 Audio (Translated1) (Opus)
+#SERVICE 4097:256:0:3221:9e89:e6a5:5b1b984f:0:0:0:https%3a//cdn.c3voc.de/rc1_translated-2.mp3:rC1 Audio (Translated2) (MP3)
+#DESCRIPTION rC1 Audio (Translated2) (MP3)
+#SERVICE 4097:256:0:3221:9e89:e6a5:5b1b984f:0:0:0:https%3a//cdn.c3voc.de/rc1_translated-2.opus:rC1 Audio (Translated2) (Opus)
+#DESCRIPTION rC1 Audio (Translated2) (Opus)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::rC2 - Live - rC3
+#DESCRIPTION rC2 - Live - rC3
+#SERVICE 4097:256:0:17c1:c767:bc87:c17cf416:0:0:0:https%3a//cdn.c3voc.de/rc2_native.mp3:rC2 Audio (MP3)
+#DESCRIPTION rC2 Audio (MP3)
+#SERVICE 4097:256:0:17c1:c767:bc87:c17cf416:0:0:0:https%3a//cdn.c3voc.de/rc2_native.opus:rC2 Audio (Opus)
+#DESCRIPTION rC2 Audio (Opus)
+#SERVICE 4097:256:0:17c1:c767:bc87:c17cf416:0:0:0:https%3a//cdn.c3voc.de/rc2_translated.mp3:rC2 Audio (Translated1) (MP3)
+#DESCRIPTION rC2 Audio (Translated1) (MP3)
+#SERVICE 4097:256:0:17c1:c767:bc87:c17cf416:0:0:0:https%3a//cdn.c3voc.de/rc2_translated.opus:rC2 Audio (Translated1) (Opus)
+#DESCRIPTION rC2 Audio (Translated1) (Opus)
+#SERVICE 4097:256:0:17c1:c767:bc87:c17cf416:0:0:0:https%3a//cdn.c3voc.de/rc2_translated-2.mp3:rC2 Audio (Translated2) (MP3)
+#DESCRIPTION rC2 Audio (Translated2) (MP3)
+#SERVICE 4097:256:0:17c1:c767:bc87:c17cf416:0:0:0:https%3a//cdn.c3voc.de/rc2_translated-2.opus:rC2 Audio (Translated2) (Opus)
+#DESCRIPTION rC2 Audio (Translated2) (Opus)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Bitwäscherei - Assemblies Live - rC3
+#DESCRIPTION Bitwäscherei - Assemblies Live - rC3
+#SERVICE 4097:256:0:f41b:2077:8f1a:7469bc38:0:0:0:https%3a//cdn.c3voc.de/bitwaescherei_native.mp3:Bitwäscherei Audio (MP3)
+#DESCRIPTION Bitwäscherei Audio (MP3)
+#SERVICE 4097:256:0:f41b:2077:8f1a:7469bc38:0:0:0:https%3a//cdn.c3voc.de/bitwaescherei_native.opus:Bitwäscherei Audio (Opus)
+#DESCRIPTION Bitwäscherei Audio (Opus)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::c-base - Assemblies Live - rC3
+#DESCRIPTION c-base - Assemblies Live - rC3
+#SERVICE 4097:256:0:4621:2212:668b:c088130c:0:0:0:https%3a//cdn.c3voc.de/cbase_native.mp3:c-base Audio (MP3)
+#DESCRIPTION c-base Audio (MP3)
+#SERVICE 4097:256:0:4621:2212:668b:c088130c:0:0:0:https%3a//cdn.c3voc.de/cbase_native.opus:c-base Audio (Opus)
+#DESCRIPTION c-base Audio (Opus)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::ChaosStudio Hamburg - Assemblies Live - rC3
+#DESCRIPTION ChaosStudio Hamburg - Assemblies Live - rC3
+#SERVICE 4097:256:0:eb29:d8e8:267b:d908c576:0:0:0:https%3a//cdn.c3voc.de/csh_native.mp3:ChaosStudio Hamburg Audio (MP3)
+#DESCRIPTION ChaosStudio Hamburg Audio (MP3)
+#SERVICE 4097:256:0:eb29:d8e8:267b:d908c576:0:0:0:https%3a//cdn.c3voc.de/csh_native.opus:ChaosStudio Hamburg Audio (Opus)
+#DESCRIPTION ChaosStudio Hamburg Audio (Opus)
+#SERVICE 4097:256:0:eb29:d8e8:267b:d908c576:0:0:0:https%3a//cdn.c3voc.de/csh_translated.mp3:ChaosStudio Hamburg Audio (Translated1) (MP3)
+#DESCRIPTION ChaosStudio Hamburg Audio (Translated1) (MP3)
+#SERVICE 4097:256:0:eb29:d8e8:267b:d908c576:0:0:0:https%3a//cdn.c3voc.de/csh_translated.opus:ChaosStudio Hamburg Audio (Translated1) (Opus)
+#DESCRIPTION ChaosStudio Hamburg Audio (Translated1) (Opus)
+#SERVICE 4097:256:0:eb29:d8e8:267b:d908c576:0:0:0:https%3a//cdn.c3voc.de/csh_translated-2.mp3:ChaosStudio Hamburg Audio (Translated2) (MP3)
+#DESCRIPTION ChaosStudio Hamburg Audio (Translated2) (MP3)
+#SERVICE 4097:256:0:eb29:d8e8:267b:d908c576:0:0:0:https%3a//cdn.c3voc.de/csh_translated-2.opus:ChaosStudio Hamburg Audio (Translated2) (Opus)
+#DESCRIPTION ChaosStudio Hamburg Audio (Translated2) (Opus)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::ChaosTrawler Stubnitz/Gängeviertel - Assemblies Live - rC3
+#DESCRIPTION ChaosTrawler Stubnitz/Gängeviertel - Assemblies Live - rC3
+#SERVICE 4097:256:0:6a05:55ac:7ac6:43d9a98e:0:0:0:https%3a//cdn.c3voc.de/chaostrawler_native.mp3:ChaosTrawler Stubnitz/Gängeviertel Audio (MP3)
+#DESCRIPTION ChaosTrawler Stubnitz/Gängeviertel Audio (MP3)
+#SERVICE 4097:256:0:6a05:55ac:7ac6:43d9a98e:0:0:0:https%3a//cdn.c3voc.de/chaostrawler_native.opus:ChaosTrawler Stubnitz/Gängeviertel Audio (Opus)
+#DESCRIPTION ChaosTrawler Stubnitz/Gängeviertel Audio (Opus)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::ChaosZone TV - Assemblies Live - rC3
+#DESCRIPTION ChaosZone TV - Assemblies Live - rC3
+#SERVICE 4097:256:0:7d91:baae:919e:54182377:0:0:0:https%3a//cdn.c3voc.de/chaoszone_native.mp3:ChaosZone TV Audio (MP3)
+#DESCRIPTION ChaosZone TV Audio (MP3)
+#SERVICE 4097:256:0:7d91:baae:919e:54182377:0:0:0:https%3a//cdn.c3voc.de/chaoszone_native.opus:ChaosZone TV Audio (Opus)
+#DESCRIPTION ChaosZone TV Audio (Opus)
+#SERVICE 4097:256:0:7d91:baae:919e:54182377:0:0:0:https%3a//cdn.c3voc.de/chaoszone_translated.mp3:ChaosZone TV Audio (Translated1) (MP3)
+#DESCRIPTION ChaosZone TV Audio (Translated1) (MP3)
+#SERVICE 4097:256:0:7d91:baae:919e:54182377:0:0:0:https%3a//cdn.c3voc.de/chaoszone_translated.opus:ChaosZone TV Audio (Translated1) (Opus)
+#DESCRIPTION ChaosZone TV Audio (Translated1) (Opus)
+#SERVICE 4097:256:0:7d91:baae:919e:54182377:0:0:0:https%3a//cdn.c3voc.de/chaoszone_translated-2.mp3:ChaosZone TV Audio (Translated2) (MP3)
+#DESCRIPTION ChaosZone TV Audio (Translated2) (MP3)
+#SERVICE 4097:256:0:7d91:baae:919e:54182377:0:0:0:https%3a//cdn.c3voc.de/chaoszone_translated-2.opus:ChaosZone TV Audio (Translated2) (Opus)
+#DESCRIPTION ChaosZone TV Audio (Translated2) (Opus)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Chaos-West TV - Assemblies Live - rC3
+#DESCRIPTION Chaos-West TV - Assemblies Live - rC3
+#SERVICE 4097:256:0:55ef:7529:12f0:5dbae5ad:0:0:0:https%3a//cdn.c3voc.de/cwtv2_native.mp3:Chaos-West TV Audio (MP3)
+#DESCRIPTION Chaos-West TV Audio (MP3)
+#SERVICE 4097:256:0:55ef:7529:12f0:5dbae5ad:0:0:0:https%3a//cdn.c3voc.de/cwtv2_native.opus:Chaos-West TV Audio (Opus)
+#DESCRIPTION Chaos-West TV Audio (Opus)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::franconian.net - Assemblies Live - rC3
+#DESCRIPTION franconian.net - Assemblies Live - rC3
+#SERVICE 4097:256:0:6f3:86a2:5e95:2686d611:0:0:0:https%3a//cdn.c3voc.de/franconiannet_native.mp3:franconian.net Audio (MP3)
+#DESCRIPTION franconian.net Audio (MP3)
+#SERVICE 4097:256:0:6f3:86a2:5e95:2686d611:0:0:0:https%3a//cdn.c3voc.de/franconiannet_native.opus:franconian.net Audio (Opus)
+#DESCRIPTION franconian.net Audio (Opus)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::about%3afuture - Assemblies Live - rC3
+#DESCRIPTION about:future - Assemblies Live - rC3
+#SERVICE 4097:256:0:cd64:85e1:73c:437a0c1a:0:0:0:https%3a//cdn.c3voc.de/hacc_native.mp3:about%3afuture Audio (MP3)
+#DESCRIPTION about:future Audio (MP3)
+#SERVICE 4097:256:0:cd64:85e1:73c:437a0c1a:0:0:0:https%3a//cdn.c3voc.de/hacc_native.opus:about%3afuture Audio (Opus)
+#DESCRIPTION about:future Audio (Opus)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::KreaturWorks - Assemblies Live - rC3
+#DESCRIPTION KreaturWorks - Assemblies Live - rC3
+#SERVICE 4097:256:0:e15e:2da2:427b:21c923f7:0:0:0:https%3a//cdn.c3voc.de/kreaturworks_native.mp3:KreaturWorks Audio (MP3)
+#DESCRIPTION KreaturWorks Audio (MP3)
+#SERVICE 4097:256:0:e15e:2da2:427b:21c923f7:0:0:0:https%3a//cdn.c3voc.de/kreaturworks_native.opus:KreaturWorks Audio (Opus)
+#DESCRIPTION KreaturWorks Audio (Opus)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::OpenInfrastructureOrbit - Assemblies Live - rC3
+#DESCRIPTION OpenInfrastructureOrbit - Assemblies Live - rC3
+#SERVICE 4097:256:0:63f9:7efa:450e:6f834b54:0:0:0:https%3a//cdn.c3voc.de/oio_native.mp3:OpenInfrastructureOrbit Audio (MP3)
+#DESCRIPTION OpenInfrastructureOrbit Audio (MP3)
+#SERVICE 4097:256:0:63f9:7efa:450e:6f834b54:0:0:0:https%3a//cdn.c3voc.de/oio_native.opus:OpenInfrastructureOrbit Audio (Opus)
+#DESCRIPTION OpenInfrastructureOrbit Audio (Opus)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Remote Rhein Ruhr Stage - Assemblies Live - rC3
+#DESCRIPTION Remote Rhein Ruhr Stage - Assemblies Live - rC3
+#SERVICE 4097:256:0:a54f:81f5:4139:924703f6:0:0:0:https%3a//cdn.c3voc.de/r3s_native.mp3:Remote Rhein Ruhr Stage Audio (MP3)
+#DESCRIPTION Remote Rhein Ruhr Stage Audio (MP3)
+#SERVICE 4097:256:0:a54f:81f5:4139:924703f6:0:0:0:https%3a//cdn.c3voc.de/r3s_native.opus:Remote Rhein Ruhr Stage Audio (Opus)
+#DESCRIPTION Remote Rhein Ruhr Stage Audio (Opus)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Restrealitaet - Assemblies Live - rC3
+#DESCRIPTION Restrealitaet - Assemblies Live - rC3
+#SERVICE 4097:256:0:19df:f835:ba61:f6df2733:0:0:0:https%3a//cdn.c3voc.de/restrealitaet_native.mp3:Restrealitaet Audio (MP3)
+#DESCRIPTION Restrealitaet Audio (MP3)
+#SERVICE 4097:256:0:19df:f835:ba61:f6df2733:0:0:0:https%3a//cdn.c3voc.de/restrealitaet_native.opus:Restrealitaet Audio (Opus)
+#DESCRIPTION Restrealitaet Audio (Opus)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Sendezentrum - Assemblies Live - rC3
+#DESCRIPTION Sendezentrum - Assemblies Live - rC3
+#SERVICE 4097:256:0:1e6f:5980:d724:c3eae1e8:0:0:0:https%3a//cdn.c3voc.de/sendezentrum_native.mp3:Sendezentrum Audio (MP3)
+#DESCRIPTION Sendezentrum Audio (MP3)
+#SERVICE 4097:256:0:1e6f:5980:d724:c3eae1e8:0:0:0:https%3a//cdn.c3voc.de/sendezentrum_native.opus:Sendezentrum Audio (Opus)
+#DESCRIPTION Sendezentrum Audio (Opus)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Wikipaka - Assemblies Live - rC3
+#DESCRIPTION Wikipaka - Assemblies Live - rC3
+#SERVICE 4097:256:0:59a1:eafa:50ff:5ea25e9a:0:0:0:https%3a//cdn.c3voc.de/wikipaka_native.mp3:Wikipaka Audio (MP3)
+#DESCRIPTION Wikipaka Audio (MP3)
+#SERVICE 4097:256:0:59a1:eafa:50ff:5ea25e9a:0:0:0:https%3a//cdn.c3voc.de/wikipaka_native.opus:Wikipaka Audio (Opus)
+#DESCRIPTION Wikipaka Audio (Opus)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::xHain - Assemblies Live - rC3
+#DESCRIPTION xHain - Assemblies Live - rC3
+#SERVICE 4097:256:0:64d5:e7a0:a766:5677d8c:0:0:0:https%3a//cdn.c3voc.de/xhain_native.mp3:xHain Audio (MP3)
+#DESCRIPTION xHain Audio (MP3)
+#SERVICE 4097:256:0:64d5:e7a0:a766:5677d8c:0:0:0:https%3a//cdn.c3voc.de/xhain_native.opus:xHain Audio (Opus)
+#DESCRIPTION xHain Audio (Opus)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Infobeamer - Assemblies Live - rC3
+#DESCRIPTION Infobeamer - Assemblies Live - rC3
+#SERVICE 4097:256:0:e0a0:c190:782b:c2095fd:0:0:0:https%3a//cdn.c3voc.de/infobeamer_native.mp3:Infobeamer Audio (MP3)
+#DESCRIPTION Infobeamer Audio (MP3)
+#SERVICE 4097:256:0:e0a0:c190:782b:c2095fd:0:0:0:https%3a//cdn.c3voc.de/infobeamer_native.opus:Infobeamer Audio (Opus)
+#DESCRIPTION Infobeamer Audio (Opus)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::FeM Congress Classics - Assemblies Live - rC3
+#DESCRIPTION FeM Congress Classics - Assemblies Live - rC3
+#SERVICE 4097:256:0:3f99:f3ce:4199:4ae773fe:0:0:0:https%3a//cdn.c3voc.de/classics_native.mp3:FeM Congress Classics Audio (MP3)
+#DESCRIPTION FeM Congress Classics Audio (MP3)
+#SERVICE 4097:256:0:3f99:f3ce:4199:4ae773fe:0:0:0:https%3a//cdn.c3voc.de/classics_native.opus:FeM Congress Classics Audio (Opus)
+#DESCRIPTION FeM Congress Classics Audio (Opus)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Lounge - Music Live - rC3
+#DESCRIPTION Lounge - Music Live - rC3
+#SERVICE 4097:256:0:52de:88fd:2968:48397156:0:0:0:https%3a//cdn.c3voc.de/c3lounge_native.mp3:Lounge Audio (MP3)
+#DESCRIPTION Lounge Audio (MP3)
+#SERVICE 4097:256:0:52de:88fd:2968:48397156:0:0:0:https%3a//cdn.c3voc.de/c3lounge_native.opus:Lounge Audio (Opus)
+#DESCRIPTION Lounge Audio (Opus)

@@ -1,0 +1,39 @@
+#NAME c3voc (Radio)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Vortragssaal - Für die Glupscher - Easterhegg 2017
+#DESCRIPTION Vortragssaal - Für die Glupscher - Easterhegg 2017
+#SERVICE 4097:256:0:340d:3380:3d1c:e57b9914:0:0:0:http%3a//cdn.c3voc.de/s6_native.mp3:Vortragssaal Audio (MP3)
+#DESCRIPTION Vortragssaal Audio (MP3)
+#SERVICE 4097:256:0:340d:3380:3d1c:e57b9914:0:0:0:http%3a//cdn.c3voc.de/s6_native.opus:Vortragssaal Audio (Opus)
+#DESCRIPTION Vortragssaal Audio (Opus)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Großes Kolleg - Für die Glupscher - Easterhegg 2017
+#DESCRIPTION Großes Kolleg - Für die Glupscher - Easterhegg 2017
+#SERVICE 4097:256:0:358e:e3cc:d9a5:fb9d139d:0:0:0:http%3a//cdn.c3voc.de/s4_native.mp3:Großes Kolleg Audio (MP3)
+#DESCRIPTION Großes Kolleg Audio (MP3)
+#SERVICE 4097:256:0:358e:e3cc:d9a5:fb9d139d:0:0:0:http%3a//cdn.c3voc.de/s4_native.opus:Großes Kolleg Audio (Opus)
+#DESCRIPTION Großes Kolleg Audio (Opus)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Lounge - Auf die Lauscher - Easterhegg 2017
+#DESCRIPTION Lounge - Auf die Lauscher - Easterhegg 2017
+#SERVICE 4097:256:0:1cff:2b9:cde9:4631d209:0:0:0:http%3a//cdn.c3voc.de/lounge.mp3:Lounge Radio (MP3)
+#DESCRIPTION Lounge Radio (MP3)
+#SERVICE 4097:256:0:1cff:2b9:cde9:4631d209:0:0:0:http%3a//cdn.c3voc.de/lounge.opus:Lounge Radio (Opus)
+#DESCRIPTION Lounge Radio (Opus)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Saal 1 - Live - 33C3
+#DESCRIPTION Saal 1 - Live - 33C3
+#SERVICE 4097:256:0:45e8:fa57:bc3:f50399e:0:0:0:http%3a//cdn.c3voc.de/s1_native.mp3:Saal 1 Audio (MP3)
+#DESCRIPTION Saal 1 Audio (MP3)
+#SERVICE 4097:256:0:45e8:fa57:bc3:f50399e:0:0:0:http%3a//cdn.c3voc.de/s1_native.opus:Saal 1 Audio (Opus)
+#DESCRIPTION Saal 1 Audio (Opus)
+#SERVICE 4097:256:0:45e8:fa57:bc3:f50399e:0:0:0:http%3a//cdn.c3voc.de/s1_translated.mp3:Saal 1 Audio (Translated1) (MP3)
+#DESCRIPTION Saal 1 Audio (Translated1) (MP3)
+#SERVICE 4097:256:0:45e8:fa57:bc3:f50399e:0:0:0:http%3a//cdn.c3voc.de/s1_translated.opus:Saal 1 Audio (Translated1) (Opus)
+#DESCRIPTION Saal 1 Audio (Translated1) (Opus)
+#SERVICE 4097:256:0:45e8:fa57:bc3:f50399e:0:0:0:http%3a//cdn.c3voc.de/s1_translated2.mp3:Saal 1 Audio (Translated2) (MP3)
+#DESCRIPTION Saal 1 Audio (Translated2) (MP3)
+#SERVICE 4097:256:0:45e8:fa57:bc3:f50399e:0:0:0:http%3a//cdn.c3voc.de/s1_translated2.opus:Saal 1 Audio (Translated2) (Opus)
+#DESCRIPTION Saal 1 Audio (Translated2) (Opus)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::S1 - Lecture Rooms - DASHconf
+#DESCRIPTION S1 - Lecture Rooms - DASHconf
+#SERVICE 4097:256:0:3696:ad59:777e:9d5f2da:0:0:0:https%3a//cdn.c3voc.de/s1_native.mp3:S1 Audio (MP3)
+#DESCRIPTION S1 Audio (MP3)
+#SERVICE 4097:256:0:3696:ad59:777e:9d5f2da:0:0:0:https%3a//cdn.c3voc.de/s1_native.opus:S1 Audio (Opus)
+#DESCRIPTION S1 Audio (Opus)

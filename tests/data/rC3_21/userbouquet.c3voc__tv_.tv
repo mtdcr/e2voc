@@ -1,0 +1,81 @@
+#NAME c3voc (TV)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::c-base - Channels - rC3 NOWHERE
+#DESCRIPTION c-base - Channels - rC3 NOWHERE
+#SERVICE 8739:256:0:1f0:d5f0:cc88:9cf8c059:0:0:0:https%3a//cdn.c3voc.de/hls/cbase/native_hd.m3u8:c-base FullHD Video (HLS)
+#DESCRIPTION c-base FullHD Video (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Chaos-West TV - Channels - rC3 NOWHERE
+#DESCRIPTION Chaos-West TV - Channels - rC3 NOWHERE
+#SERVICE 8739:256:0:55ef:7529:12f0:5dbae5ad:0:0:0:https%3a//cdn.c3voc.de/hls/cwtv/native_hd.m3u8:Chaos-West TV FullHD Video (HLS)
+#DESCRIPTION Chaos-West TV FullHD Video (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Remote Rhein Ruhr Stage - Channels - rC3 NOWHERE
+#DESCRIPTION Remote Rhein Ruhr Stage - Channels - rC3 NOWHERE
+#SERVICE 8739:256:0:a54f:81f5:4139:924703f6:0:0:0:https%3a//cdn.c3voc.de/hls/r3s/native_hd.m3u8:Remote Rhein Ruhr Stage FullHD Video (HLS)
+#DESCRIPTION Remote Rhein Ruhr Stage FullHD Video (HLS)
+#SERVICE 8739:256:0:a54f:81f5:4139:924703f6:0:0:0:https%3a//cdn.c3voc.de/hls/r3s/translated_hd.m3u8:Remote Rhein Ruhr Stage FullHD Video (Translated1) (HLS)
+#DESCRIPTION Remote Rhein Ruhr Stage FullHD Video (Translated1) (HLS)
+#SERVICE 8739:256:0:a54f:81f5:4139:924703f6:0:0:0:https%3a//cdn.c3voc.de/hls/r3s/translated-2_hd.m3u8:Remote Rhein Ruhr Stage FullHD Video (Translated2) (HLS)
+#DESCRIPTION Remote Rhein Ruhr Stage FullHD Video (Translated2) (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::ChaosStudio Hamburg - Channels - rC3 NOWHERE
+#DESCRIPTION ChaosStudio Hamburg - Channels - rC3 NOWHERE
+#SERVICE 8739:256:0:34ac:6f43:3a3d:96ff0bf8:0:0:0:https%3a//cdn.c3voc.de/hls/csh/native_hd.m3u8:ChaosStudio Hamburg FullHD Video (HLS)
+#DESCRIPTION ChaosStudio Hamburg FullHD Video (HLS)
+#SERVICE 8739:256:0:34ac:6f43:3a3d:96ff0bf8:0:0:0:https%3a//cdn.c3voc.de/hls/csh/translated_hd.m3u8:ChaosStudio Hamburg FullHD Video (Translated1) (HLS)
+#DESCRIPTION ChaosStudio Hamburg FullHD Video (Translated1) (HLS)
+#SERVICE 8739:256:0:34ac:6f43:3a3d:96ff0bf8:0:0:0:https%3a//cdn.c3voc.de/hls/csh/translated-2_hd.m3u8:ChaosStudio Hamburg FullHD Video (Translated2) (HLS)
+#DESCRIPTION ChaosStudio Hamburg FullHD Video (Translated2) (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::ChaosZone TV - Channels - rC3 NOWHERE
+#DESCRIPTION ChaosZone TV - Channels - rC3 NOWHERE
+#SERVICE 8739:256:0:5a54:a780:31df:940a405:0:0:0:https%3a//cdn.c3voc.de/hls/chaoszone/native_hd.m3u8:ChaosZone TV FullHD Video (HLS)
+#DESCRIPTION ChaosZone TV FullHD Video (HLS)
+#SERVICE 8739:256:0:5a54:a780:31df:940a405:0:0:0:https%3a//cdn.c3voc.de/hls/chaoszone/translated_hd.m3u8:ChaosZone TV FullHD Video (Translated1) (HLS)
+#DESCRIPTION ChaosZone TV FullHD Video (Translated1) (HLS)
+#SERVICE 8739:256:0:5a54:a780:31df:940a405:0:0:0:https%3a//cdn.c3voc.de/hls/chaoszone/translated-2_hd.m3u8:ChaosZone TV FullHD Video (Translated2) (HLS)
+#DESCRIPTION ChaosZone TV FullHD Video (Translated2) (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::FeM - Channels - rC3 NOWHERE
+#DESCRIPTION FeM - Channels - rC3 NOWHERE
+#SERVICE 8739:256:0:6574:f96e:4b4a:ff5cc7f:0:0:0:https%3a//cdn.c3voc.de/hls/fem/native_hd.m3u8:FeM FullHD Video (HLS)
+#DESCRIPTION FeM FullHD Video (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::franconian.net - Channels - rC3 NOWHERE
+#DESCRIPTION franconian.net - Channels - rC3 NOWHERE
+#SERVICE 8739:256:0:6f3:86a2:5e95:2686d611:0:0:0:https%3a//cdn.c3voc.de/hls/franconiannet/native_hd.m3u8:franconian.net FullHD Video (HLS)
+#DESCRIPTION franconian.net FullHD Video (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::about%3afuture - Channels - rC3 NOWHERE
+#DESCRIPTION about:future - Channels - rC3 NOWHERE
+#SERVICE 8739:256:0:be2c:9173:e764:dd70b5ef:0:0:0:https%3a//cdn.c3voc.de/hls/aboutfuture/native_hd.m3u8:about%3afuture FullHD Video (HLS)
+#DESCRIPTION about:future FullHD Video (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Sendezentrum - Channels - rC3 NOWHERE
+#DESCRIPTION Sendezentrum - Channels - rC3 NOWHERE
+#SERVICE 8739:256:0:e8f0:60b3:7494:b4ae119a:0:0:0:https%3a//cdn.c3voc.de/hls/sendezentrum/native_hd.m3u8:Sendezentrum FullHD Video (HLS)
+#DESCRIPTION Sendezentrum FullHD Video (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Haecksen - Channels - rC3 NOWHERE
+#DESCRIPTION Haecksen - Channels - rC3 NOWHERE
+#SERVICE 8739:256:0:6282:461b:f292:8c3fddc2:0:0:0:https%3a//cdn.c3voc.de/hls/haecksen/native_hd.m3u8:Haecksen FullHD Video (HLS)
+#DESCRIPTION Haecksen FullHD Video (HLS)
+#SERVICE 8739:256:0:6282:461b:f292:8c3fddc2:0:0:0:https%3a//cdn.c3voc.de/hls/haecksen/translated_hd.m3u8:Haecksen FullHD Video (Translated1) (HLS)
+#DESCRIPTION Haecksen FullHD Video (Translated1) (HLS)
+#SERVICE 8739:256:0:6282:461b:f292:8c3fddc2:0:0:0:https%3a//cdn.c3voc.de/hls/haecksen/translated-2_hd.m3u8:Haecksen FullHD Video (Translated2) (HLS)
+#DESCRIPTION Haecksen FullHD Video (Translated2) (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Gehacktes from Hell / Bierscheune - Channels - rC3 NOWHERE
+#DESCRIPTION Gehacktes from Hell / Bierscheune - Channels - rC3 NOWHERE
+#SERVICE 8739:256:0:8774:5751:363:7b4e16b1:0:0:0:https%3a//cdn.c3voc.de/hls/gehacktes/native_hd.m3u8:Gehacktes from Hell / Bierscheune FullHD Video (HLS)
+#DESCRIPTION Gehacktes from Hell / Bierscheune FullHD Video (HLS)
+#SERVICE 8739:256:0:8774:5751:363:7b4e16b1:0:0:0:https%3a//cdn.c3voc.de/hls/gehacktes/translated_hd.m3u8:Gehacktes from Hell / Bierscheune FullHD Video (Translated1) (HLS)
+#DESCRIPTION Gehacktes from Hell / Bierscheune FullHD Video (Translated1) (HLS)
+#SERVICE 8739:256:0:8774:5751:363:7b4e16b1:0:0:0:https%3a//cdn.c3voc.de/hls/gehacktes/translated-2_hd.m3u8:Gehacktes from Hell / Bierscheune FullHD Video (Translated2) (HLS)
+#DESCRIPTION Gehacktes from Hell / Bierscheune FullHD Video (Translated2) (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::xHain Lichtung - Channels - rC3 NOWHERE
+#DESCRIPTION xHain Lichtung - Channels - rC3 NOWHERE
+#SERVICE 8739:256:0:f2e3:acbd:c429:c533de64:0:0:0:https%3a//cdn.c3voc.de/hls/xhain/native_hd.m3u8:xHain Lichtung FullHD Video (HLS)
+#DESCRIPTION xHain Lichtung FullHD Video (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Infobeamer - Info - rC3 NOWHERE
+#DESCRIPTION Infobeamer - Info - rC3 NOWHERE
+#SERVICE 8739:256:0:e0a0:c190:782b:c2095fd:0:0:0:https%3a//cdn.c3voc.de/hls/infobeamer/native_hd.m3u8:Infobeamer FullHD Video (HLS)
+#DESCRIPTION Infobeamer FullHD Video (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::rC3 Lounge - Music - rC3 NOWHERE
+#DESCRIPTION rC3 Lounge - Music - rC3 NOWHERE
+#SERVICE 8739:256:0:d10b:7947:49d4:51609f2e:0:0:0:https%3a//cdn.c3voc.de/hls/c3lounge/native_hd.m3u8:rC3 Lounge FullHD Video (HLS)
+#DESCRIPTION rC3 Lounge FullHD Video (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Abchillgleis - Music - rC3 NOWHERE
+#DESCRIPTION Abchillgleis - Music - rC3 NOWHERE
+#SERVICE 8739:256:0:cc1f:2e28:f9b3:3e366e18:0:0:0:https%3a//cdn.c3voc.de/hls/abchillgleis/native_hd.m3u8:Abchillgleis FullHD Video (HLS)
+#DESCRIPTION Abchillgleis FullHD Video (HLS)

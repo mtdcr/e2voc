@@ -1,0 +1,193 @@
+#NAME c3voc (TV)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::rC1 - Live - rC3
+#DESCRIPTION rC1 - Live - rC3
+#SERVICE 8739:256:0:3221:9e89:e6a5:5b1b984f:0:0:0:https%3a//cdn.c3voc.de/dash/rc1/manifest.mpd:rC1  (DASH, baby)
+#DESCRIPTION rC1  (DASH, baby)
+#SERVICE 8739:256:0:3221:9e89:e6a5:5b1b984f:0:0:0:https%3a//cdn.c3voc.de/rc1_native_hd.webm:rC1 FullHD Video (WebM)
+#DESCRIPTION rC1 FullHD Video (WebM)
+#SERVICE 8739:256:0:3221:9e89:e6a5:5b1b984f:0:0:0:https%3a//cdn.c3voc.de/hls/rc1_native_hd.m3u8:rC1 FullHD Video (HLS)
+#DESCRIPTION rC1 FullHD Video (HLS)
+#SERVICE 8739:256:0:3221:9e89:e6a5:5b1b984f:0:0:0:https%3a//cdn.c3voc.de/rc1_translated_hd.webm:rC1 FullHD Video (Translated1) (WebM)
+#DESCRIPTION rC1 FullHD Video (Translated1) (WebM)
+#SERVICE 8739:256:0:3221:9e89:e6a5:5b1b984f:0:0:0:https%3a//cdn.c3voc.de/hls/rc1_translated_hd.m3u8:rC1 FullHD Video (Translated1) (HLS)
+#DESCRIPTION rC1 FullHD Video (Translated1) (HLS)
+#SERVICE 8739:256:0:3221:9e89:e6a5:5b1b984f:0:0:0:https%3a//cdn.c3voc.de/rc1_translated-2_hd.webm:rC1 FullHD Video (Translated2) (WebM)
+#DESCRIPTION rC1 FullHD Video (Translated2) (WebM)
+#SERVICE 8739:256:0:3221:9e89:e6a5:5b1b984f:0:0:0:https%3a//cdn.c3voc.de/hls/rc1_translated-2_hd.m3u8:rC1 FullHD Video (Translated2) (HLS)
+#DESCRIPTION rC1 FullHD Video (Translated2) (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::rC2 - Live - rC3
+#DESCRIPTION rC2 - Live - rC3
+#SERVICE 8739:256:0:17c1:c767:bc87:c17cf416:0:0:0:https%3a//cdn.c3voc.de/dash/rc2/manifest.mpd:rC2  (DASH, baby)
+#DESCRIPTION rC2  (DASH, baby)
+#SERVICE 8739:256:0:17c1:c767:bc87:c17cf416:0:0:0:https%3a//cdn.c3voc.de/rc2_native_hd.webm:rC2 FullHD Video (WebM)
+#DESCRIPTION rC2 FullHD Video (WebM)
+#SERVICE 8739:256:0:17c1:c767:bc87:c17cf416:0:0:0:https%3a//cdn.c3voc.de/hls/rc2_native_hd.m3u8:rC2 FullHD Video (HLS)
+#DESCRIPTION rC2 FullHD Video (HLS)
+#SERVICE 8739:256:0:17c1:c767:bc87:c17cf416:0:0:0:https%3a//cdn.c3voc.de/rc2_translated_hd.webm:rC2 FullHD Video (Translated1) (WebM)
+#DESCRIPTION rC2 FullHD Video (Translated1) (WebM)
+#SERVICE 8739:256:0:17c1:c767:bc87:c17cf416:0:0:0:https%3a//cdn.c3voc.de/hls/rc2_translated_hd.m3u8:rC2 FullHD Video (Translated1) (HLS)
+#DESCRIPTION rC2 FullHD Video (Translated1) (HLS)
+#SERVICE 8739:256:0:17c1:c767:bc87:c17cf416:0:0:0:https%3a//cdn.c3voc.de/rc2_translated-2_hd.webm:rC2 FullHD Video (Translated2) (WebM)
+#DESCRIPTION rC2 FullHD Video (Translated2) (WebM)
+#SERVICE 8739:256:0:17c1:c767:bc87:c17cf416:0:0:0:https%3a//cdn.c3voc.de/hls/rc2_translated-2_hd.m3u8:rC2 FullHD Video (Translated2) (HLS)
+#DESCRIPTION rC2 FullHD Video (Translated2) (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Bitwäscherei - Assemblies Live - rC3
+#DESCRIPTION Bitwäscherei - Assemblies Live - rC3
+#SERVICE 8739:256:0:f41b:2077:8f1a:7469bc38:0:0:0:https%3a//cdn.c3voc.de/dash/bitwaescherei/manifest.mpd:Bitwäscherei  (DASH, baby)
+#DESCRIPTION Bitwäscherei  (DASH, baby)
+#SERVICE 8739:256:0:f41b:2077:8f1a:7469bc38:0:0:0:https%3a//cdn.c3voc.de/bitwaescherei_native_hd.webm:Bitwäscherei FullHD Video (WebM)
+#DESCRIPTION Bitwäscherei FullHD Video (WebM)
+#SERVICE 8739:256:0:f41b:2077:8f1a:7469bc38:0:0:0:https%3a//cdn.c3voc.de/hls/bitwaescherei_native_hd.m3u8:Bitwäscherei FullHD Video (HLS)
+#DESCRIPTION Bitwäscherei FullHD Video (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::c-base - Assemblies Live - rC3
+#DESCRIPTION c-base - Assemblies Live - rC3
+#SERVICE 8739:256:0:4621:2212:668b:c088130c:0:0:0:https%3a//cdn.c3voc.de/dash/cbase/manifest.mpd:c-base  (DASH, baby)
+#DESCRIPTION c-base  (DASH, baby)
+#SERVICE 8739:256:0:4621:2212:668b:c088130c:0:0:0:https%3a//cdn.c3voc.de/cbase_native_hd.webm:c-base FullHD Video (WebM)
+#DESCRIPTION c-base FullHD Video (WebM)
+#SERVICE 8739:256:0:4621:2212:668b:c088130c:0:0:0:https%3a//cdn.c3voc.de/hls/cbase_native_hd.m3u8:c-base FullHD Video (HLS)
+#DESCRIPTION c-base FullHD Video (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::ChaosStudio Hamburg - Assemblies Live - rC3
+#DESCRIPTION ChaosStudio Hamburg - Assemblies Live - rC3
+#SERVICE 8739:256:0:eb29:d8e8:267b:d908c576:0:0:0:https%3a//cdn.c3voc.de/dash/csh/manifest.mpd:ChaosStudio Hamburg  (DASH, baby)
+#DESCRIPTION ChaosStudio Hamburg  (DASH, baby)
+#SERVICE 8739:256:0:eb29:d8e8:267b:d908c576:0:0:0:https%3a//cdn.c3voc.de/csh_native_hd.webm:ChaosStudio Hamburg FullHD Video (WebM)
+#DESCRIPTION ChaosStudio Hamburg FullHD Video (WebM)
+#SERVICE 8739:256:0:eb29:d8e8:267b:d908c576:0:0:0:https%3a//cdn.c3voc.de/hls/csh_native_hd.m3u8:ChaosStudio Hamburg FullHD Video (HLS)
+#DESCRIPTION ChaosStudio Hamburg FullHD Video (HLS)
+#SERVICE 8739:256:0:eb29:d8e8:267b:d908c576:0:0:0:https%3a//cdn.c3voc.de/csh_translated_hd.webm:ChaosStudio Hamburg FullHD Video (Translated1) (WebM)
+#DESCRIPTION ChaosStudio Hamburg FullHD Video (Translated1) (WebM)
+#SERVICE 8739:256:0:eb29:d8e8:267b:d908c576:0:0:0:https%3a//cdn.c3voc.de/hls/csh_translated_hd.m3u8:ChaosStudio Hamburg FullHD Video (Translated1) (HLS)
+#DESCRIPTION ChaosStudio Hamburg FullHD Video (Translated1) (HLS)
+#SERVICE 8739:256:0:eb29:d8e8:267b:d908c576:0:0:0:https%3a//cdn.c3voc.de/csh_translated-2_hd.webm:ChaosStudio Hamburg FullHD Video (Translated2) (WebM)
+#DESCRIPTION ChaosStudio Hamburg FullHD Video (Translated2) (WebM)
+#SERVICE 8739:256:0:eb29:d8e8:267b:d908c576:0:0:0:https%3a//cdn.c3voc.de/hls/csh_translated-2_hd.m3u8:ChaosStudio Hamburg FullHD Video (Translated2) (HLS)
+#DESCRIPTION ChaosStudio Hamburg FullHD Video (Translated2) (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::ChaosTrawler Stubnitz/Gängeviertel - Assemblies Live - rC3
+#DESCRIPTION ChaosTrawler Stubnitz/Gängeviertel - Assemblies Live - rC3
+#SERVICE 8739:256:0:6a05:55ac:7ac6:43d9a98e:0:0:0:https%3a//cdn.c3voc.de/dash/chaostrawler/manifest.mpd:ChaosTrawler Stubnitz/Gängeviertel  (DASH, baby)
+#DESCRIPTION ChaosTrawler Stubnitz/Gängeviertel  (DASH, baby)
+#SERVICE 8739:256:0:6a05:55ac:7ac6:43d9a98e:0:0:0:https%3a//cdn.c3voc.de/chaostrawler_native_hd.webm:ChaosTrawler Stubnitz/Gängeviertel FullHD Video (WebM)
+#DESCRIPTION ChaosTrawler Stubnitz/Gängeviertel FullHD Video (WebM)
+#SERVICE 8739:256:0:6a05:55ac:7ac6:43d9a98e:0:0:0:https%3a//cdn.c3voc.de/hls/chaostrawler_native_hd.m3u8:ChaosTrawler Stubnitz/Gängeviertel FullHD Video (HLS)
+#DESCRIPTION ChaosTrawler Stubnitz/Gängeviertel FullHD Video (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::ChaosZone TV - Assemblies Live - rC3
+#DESCRIPTION ChaosZone TV - Assemblies Live - rC3
+#SERVICE 8739:256:0:7d91:baae:919e:54182377:0:0:0:https%3a//cdn.c3voc.de/dash/chaoszone/manifest.mpd:ChaosZone TV  (DASH, baby)
+#DESCRIPTION ChaosZone TV  (DASH, baby)
+#SERVICE 8739:256:0:7d91:baae:919e:54182377:0:0:0:https%3a//cdn.c3voc.de/chaoszone_native_hd.webm:ChaosZone TV FullHD Video (WebM)
+#DESCRIPTION ChaosZone TV FullHD Video (WebM)
+#SERVICE 8739:256:0:7d91:baae:919e:54182377:0:0:0:https%3a//cdn.c3voc.de/hls/chaoszone_native_hd.m3u8:ChaosZone TV FullHD Video (HLS)
+#DESCRIPTION ChaosZone TV FullHD Video (HLS)
+#SERVICE 8739:256:0:7d91:baae:919e:54182377:0:0:0:https%3a//cdn.c3voc.de/chaoszone_translated_hd.webm:ChaosZone TV FullHD Video (Translated1) (WebM)
+#DESCRIPTION ChaosZone TV FullHD Video (Translated1) (WebM)
+#SERVICE 8739:256:0:7d91:baae:919e:54182377:0:0:0:https%3a//cdn.c3voc.de/hls/chaoszone_translated_hd.m3u8:ChaosZone TV FullHD Video (Translated1) (HLS)
+#DESCRIPTION ChaosZone TV FullHD Video (Translated1) (HLS)
+#SERVICE 8739:256:0:7d91:baae:919e:54182377:0:0:0:https%3a//cdn.c3voc.de/chaoszone_translated-2_hd.webm:ChaosZone TV FullHD Video (Translated2) (WebM)
+#DESCRIPTION ChaosZone TV FullHD Video (Translated2) (WebM)
+#SERVICE 8739:256:0:7d91:baae:919e:54182377:0:0:0:https%3a//cdn.c3voc.de/hls/chaoszone_translated-2_hd.m3u8:ChaosZone TV FullHD Video (Translated2) (HLS)
+#DESCRIPTION ChaosZone TV FullHD Video (Translated2) (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Chaos-West TV - Assemblies Live - rC3
+#DESCRIPTION Chaos-West TV - Assemblies Live - rC3
+#SERVICE 8739:256:0:55ef:7529:12f0:5dbae5ad:0:0:0:https%3a//cdn.c3voc.de/dash/cwtv2/manifest.mpd:Chaos-West TV  (DASH, baby)
+#DESCRIPTION Chaos-West TV  (DASH, baby)
+#SERVICE 8739:256:0:55ef:7529:12f0:5dbae5ad:0:0:0:https%3a//cdn.c3voc.de/cwtv2_native_hd.webm:Chaos-West TV FullHD Video (WebM)
+#DESCRIPTION Chaos-West TV FullHD Video (WebM)
+#SERVICE 8739:256:0:55ef:7529:12f0:5dbae5ad:0:0:0:https%3a//cdn.c3voc.de/hls/cwtv2_native_hd.m3u8:Chaos-West TV FullHD Video (HLS)
+#DESCRIPTION Chaos-West TV FullHD Video (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::franconian.net - Assemblies Live - rC3
+#DESCRIPTION franconian.net - Assemblies Live - rC3
+#SERVICE 8739:256:0:6f3:86a2:5e95:2686d611:0:0:0:https%3a//cdn.c3voc.de/dash/franconiannet/manifest.mpd:franconian.net  (DASH, baby)
+#DESCRIPTION franconian.net  (DASH, baby)
+#SERVICE 8739:256:0:6f3:86a2:5e95:2686d611:0:0:0:https%3a//cdn.c3voc.de/franconiannet_native_hd.webm:franconian.net FullHD Video (WebM)
+#DESCRIPTION franconian.net FullHD Video (WebM)
+#SERVICE 8739:256:0:6f3:86a2:5e95:2686d611:0:0:0:https%3a//cdn.c3voc.de/hls/franconiannet_native_hd.m3u8:franconian.net FullHD Video (HLS)
+#DESCRIPTION franconian.net FullHD Video (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::about%3afuture - Assemblies Live - rC3
+#DESCRIPTION about:future - Assemblies Live - rC3
+#SERVICE 8739:256:0:cd64:85e1:73c:437a0c1a:0:0:0:https%3a//cdn.c3voc.de/dash/hacc/manifest.mpd:about%3afuture  (DASH, baby)
+#DESCRIPTION about:future  (DASH, baby)
+#SERVICE 8739:256:0:cd64:85e1:73c:437a0c1a:0:0:0:https%3a//cdn.c3voc.de/hacc_native_hd.webm:about%3afuture FullHD Video (WebM)
+#DESCRIPTION about:future FullHD Video (WebM)
+#SERVICE 8739:256:0:cd64:85e1:73c:437a0c1a:0:0:0:https%3a//cdn.c3voc.de/hls/hacc_native_hd.m3u8:about%3afuture FullHD Video (HLS)
+#DESCRIPTION about:future FullHD Video (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::KreaturWorks - Assemblies Live - rC3
+#DESCRIPTION KreaturWorks - Assemblies Live - rC3
+#SERVICE 8739:256:0:e15e:2da2:427b:21c923f7:0:0:0:https%3a//cdn.c3voc.de/dash/kreaturworks/manifest.mpd:KreaturWorks  (DASH, baby)
+#DESCRIPTION KreaturWorks  (DASH, baby)
+#SERVICE 8739:256:0:e15e:2da2:427b:21c923f7:0:0:0:https%3a//cdn.c3voc.de/kreaturworks_native_hd.webm:KreaturWorks FullHD Video (WebM)
+#DESCRIPTION KreaturWorks FullHD Video (WebM)
+#SERVICE 8739:256:0:e15e:2da2:427b:21c923f7:0:0:0:https%3a//cdn.c3voc.de/hls/kreaturworks_native_hd.m3u8:KreaturWorks FullHD Video (HLS)
+#DESCRIPTION KreaturWorks FullHD Video (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::OpenInfrastructureOrbit - Assemblies Live - rC3
+#DESCRIPTION OpenInfrastructureOrbit - Assemblies Live - rC3
+#SERVICE 8739:256:0:63f9:7efa:450e:6f834b54:0:0:0:https%3a//cdn.c3voc.de/dash/oio/manifest.mpd:OpenInfrastructureOrbit  (DASH, baby)
+#DESCRIPTION OpenInfrastructureOrbit  (DASH, baby)
+#SERVICE 8739:256:0:63f9:7efa:450e:6f834b54:0:0:0:https%3a//cdn.c3voc.de/oio_native_hd.webm:OpenInfrastructureOrbit FullHD Video (WebM)
+#DESCRIPTION OpenInfrastructureOrbit FullHD Video (WebM)
+#SERVICE 8739:256:0:63f9:7efa:450e:6f834b54:0:0:0:https%3a//cdn.c3voc.de/hls/oio_native_hd.m3u8:OpenInfrastructureOrbit FullHD Video (HLS)
+#DESCRIPTION OpenInfrastructureOrbit FullHD Video (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Remote Rhein Ruhr Stage - Assemblies Live - rC3
+#DESCRIPTION Remote Rhein Ruhr Stage - Assemblies Live - rC3
+#SERVICE 8739:256:0:a54f:81f5:4139:924703f6:0:0:0:https%3a//cdn.c3voc.de/dash/r3s/manifest.mpd:Remote Rhein Ruhr Stage  (DASH, baby)
+#DESCRIPTION Remote Rhein Ruhr Stage  (DASH, baby)
+#SERVICE 8739:256:0:a54f:81f5:4139:924703f6:0:0:0:https%3a//cdn.c3voc.de/r3s_native_hd.webm:Remote Rhein Ruhr Stage FullHD Video (WebM)
+#DESCRIPTION Remote Rhein Ruhr Stage FullHD Video (WebM)
+#SERVICE 8739:256:0:a54f:81f5:4139:924703f6:0:0:0:https%3a//cdn.c3voc.de/hls/r3s_native_hd.m3u8:Remote Rhein Ruhr Stage FullHD Video (HLS)
+#DESCRIPTION Remote Rhein Ruhr Stage FullHD Video (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Restrealitaet - Assemblies Live - rC3
+#DESCRIPTION Restrealitaet - Assemblies Live - rC3
+#SERVICE 8739:256:0:19df:f835:ba61:f6df2733:0:0:0:https%3a//cdn.c3voc.de/dash/restrealitaet/manifest.mpd:Restrealitaet  (DASH, baby)
+#DESCRIPTION Restrealitaet  (DASH, baby)
+#SERVICE 8739:256:0:19df:f835:ba61:f6df2733:0:0:0:https%3a//cdn.c3voc.de/restrealitaet_native_hd.webm:Restrealitaet FullHD Video (WebM)
+#DESCRIPTION Restrealitaet FullHD Video (WebM)
+#SERVICE 8739:256:0:19df:f835:ba61:f6df2733:0:0:0:https%3a//cdn.c3voc.de/hls/restrealitaet_native_hd.m3u8:Restrealitaet FullHD Video (HLS)
+#DESCRIPTION Restrealitaet FullHD Video (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Sendezentrum - Assemblies Live - rC3
+#DESCRIPTION Sendezentrum - Assemblies Live - rC3
+#SERVICE 8739:256:0:1e6f:5980:d724:c3eae1e8:0:0:0:https%3a//cdn.c3voc.de/dash/sendezentrum/manifest.mpd:Sendezentrum  (DASH, baby)
+#DESCRIPTION Sendezentrum  (DASH, baby)
+#SERVICE 8739:256:0:1e6f:5980:d724:c3eae1e8:0:0:0:https%3a//cdn.c3voc.de/sendezentrum_native_hd.webm:Sendezentrum FullHD Video (WebM)
+#DESCRIPTION Sendezentrum FullHD Video (WebM)
+#SERVICE 8739:256:0:1e6f:5980:d724:c3eae1e8:0:0:0:https%3a//cdn.c3voc.de/hls/sendezentrum_native_hd.m3u8:Sendezentrum FullHD Video (HLS)
+#DESCRIPTION Sendezentrum FullHD Video (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Wikipaka - Assemblies Live - rC3
+#DESCRIPTION Wikipaka - Assemblies Live - rC3
+#SERVICE 8739:256:0:59a1:eafa:50ff:5ea25e9a:0:0:0:https%3a//cdn.c3voc.de/dash/wikipaka/manifest.mpd:Wikipaka  (DASH, baby)
+#DESCRIPTION Wikipaka  (DASH, baby)
+#SERVICE 8739:256:0:59a1:eafa:50ff:5ea25e9a:0:0:0:https%3a//cdn.c3voc.de/wikipaka_native_hd.webm:Wikipaka FullHD Video (WebM)
+#DESCRIPTION Wikipaka FullHD Video (WebM)
+#SERVICE 8739:256:0:59a1:eafa:50ff:5ea25e9a:0:0:0:https%3a//cdn.c3voc.de/hls/wikipaka_native_hd.m3u8:Wikipaka FullHD Video (HLS)
+#DESCRIPTION Wikipaka FullHD Video (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::xHain - Assemblies Live - rC3
+#DESCRIPTION xHain - Assemblies Live - rC3
+#SERVICE 8739:256:0:64d5:e7a0:a766:5677d8c:0:0:0:https%3a//cdn.c3voc.de/dash/xhain/manifest.mpd:xHain  (DASH, baby)
+#DESCRIPTION xHain  (DASH, baby)
+#SERVICE 8739:256:0:64d5:e7a0:a766:5677d8c:0:0:0:https%3a//cdn.c3voc.de/xhain_native_hd.webm:xHain FullHD Video (WebM)
+#DESCRIPTION xHain FullHD Video (WebM)
+#SERVICE 8739:256:0:64d5:e7a0:a766:5677d8c:0:0:0:https%3a//cdn.c3voc.de/hls/xhain_native_hd.m3u8:xHain FullHD Video (HLS)
+#DESCRIPTION xHain FullHD Video (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Infobeamer - Assemblies Live - rC3
+#DESCRIPTION Infobeamer - Assemblies Live - rC3
+#SERVICE 8739:256:0:e0a0:c190:782b:c2095fd:0:0:0:https%3a//cdn.c3voc.de/dash/infobeamer/manifest.mpd:Infobeamer  (DASH, baby)
+#DESCRIPTION Infobeamer  (DASH, baby)
+#SERVICE 8739:256:0:e0a0:c190:782b:c2095fd:0:0:0:https%3a//cdn.c3voc.de/infobeamer_native_hd.webm:Infobeamer FullHD Video (WebM)
+#DESCRIPTION Infobeamer FullHD Video (WebM)
+#SERVICE 8739:256:0:e0a0:c190:782b:c2095fd:0:0:0:https%3a//cdn.c3voc.de/hls/infobeamer_native_hd.m3u8:Infobeamer FullHD Video (HLS)
+#DESCRIPTION Infobeamer FullHD Video (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::FeM Congress Classics - Assemblies Live - rC3
+#DESCRIPTION FeM Congress Classics - Assemblies Live - rC3
+#SERVICE 8739:256:0:3f99:f3ce:4199:4ae773fe:0:0:0:https%3a//cdn.c3voc.de/dash/classics/manifest.mpd:FeM Congress Classics  (DASH, baby)
+#DESCRIPTION FeM Congress Classics  (DASH, baby)
+#SERVICE 8739:256:0:3f99:f3ce:4199:4ae773fe:0:0:0:https%3a//cdn.c3voc.de/classics_native_hd.webm:FeM Congress Classics FullHD Video (WebM)
+#DESCRIPTION FeM Congress Classics FullHD Video (WebM)
+#SERVICE 8739:256:0:3f99:f3ce:4199:4ae773fe:0:0:0:https%3a//cdn.c3voc.de/hls/classics_native_hd.m3u8:FeM Congress Classics FullHD Video (HLS)
+#DESCRIPTION FeM Congress Classics FullHD Video (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Lounge - Music Live - rC3
+#DESCRIPTION Lounge - Music Live - rC3
+#SERVICE 8739:256:0:52de:88fd:2968:48397156:0:0:0:https%3a//cdn.c3voc.de/dash/c3lounge/manifest.mpd:Lounge  (DASH, baby)
+#DESCRIPTION Lounge  (DASH, baby)
+#SERVICE 8739:256:0:52de:88fd:2968:48397156:0:0:0:https%3a//cdn.c3voc.de/c3lounge_native_hd.webm:Lounge FullHD Video (WebM)
+#DESCRIPTION Lounge FullHD Video (WebM)
+#SERVICE 8739:256:0:52de:88fd:2968:48397156:0:0:0:https%3a//cdn.c3voc.de/hls/c3lounge_native_hd.m3u8:Lounge FullHD Video (HLS)
+#DESCRIPTION Lounge FullHD Video (HLS)

@@ -1,0 +1,2182 @@
+[
+    {
+        "conference": "rC3",
+        "slug": "rc3",
+        "author": "CCC",
+        "description": "Live streaming from the Remote Chaos Experience",
+        "keywords": "rC3, Hacking, Chaos Computer Club, Video, Music, Podcast, Media, Streaming, Hacker, Internet",
+        "schedule": "https://data.c3voc.de/rC3/channels.schedule.xml",
+        "startsAt": "2020-12-27T05:00:00+0000",
+        "endsAt": "2020-12-30T19:00:00+0000",
+        "isCurrentlyStreaming": true,
+        "groups": [
+            {
+                "group": "Live",
+                "rooms": [
+                    {
+                        "slug": "one",
+                        "schedulename": "rC1",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/rc1/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/rc1/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/one",
+                        "display": "rC1",
+                        "stream": "rc1",
+                        "talks": {
+                            "current": {
+                                "fstart": "2020-12-27T13:00:00+01:00",
+                                "fend": "2020-12-27T13:40:00+01:00",
+                                "tstart": "13:00",
+                                "tend": "13:40",
+                                "start": 1609070400,
+                                "end": 1609072800,
+                                "offset": 3600,
+                                "duration": 2400,
+                                "title": "The Mission of the MV Louise Michel",
+                                "speaker": "MVLouise Michel",
+                                "room_known": true,
+                                "optout": false
+                            },
+                            "next": {
+                                "fstart": "2020-12-27T14:00:00+01:00",
+                                "fend": "2020-12-27T14:40:00+01:00",
+                                "tstart": "14:00",
+                                "tend": "14:40",
+                                "start": 1609074000,
+                                "end": 1609076400,
+                                "offset": 3600,
+                                "duration": 2400,
+                                "title": "CIA vs. Wikileaks",
+                                "speaker": "andy",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "dash-native",
+                                "display": "rC1 ",
+                                "type": "dash",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "dash": {
+                                        "display": "DASH, baby",
+                                        "tech": "Adaptive multi-format-multi-bitrate-Stream to rule the World!!1elf",
+                                        "url": "https://cdn.c3voc.de/dash/rc1/manifest.mpd"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "rC1 Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "mp3": {
+                                        "display": "MP3",
+                                        "tech": "MP3-Audio, 96 kBit/s",
+                                        "url": "https://cdn.c3voc.de/rc1_native.mp3"
+                                    },
+                                    "opus": {
+                                        "display": "Opus",
+                                        "tech": "Opus-Audio, 64 kBit/s",
+                                        "url": "https://cdn.c3voc.de/rc1_native.opus"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-translated",
+                                "display": "rC1 Audio (Translated1)",
+                                "type": "audio",
+                                "isTranslated": true,
+                                "videoSize": null,
+                                "urls": {
+                                    "mp3": {
+                                        "display": "MP3",
+                                        "tech": "MP3-Audio, 96 kBit/s",
+                                        "url": "https://cdn.c3voc.de/rc1_translated.mp3"
+                                    },
+                                    "opus": {
+                                        "display": "Opus",
+                                        "tech": "Opus-Audio, 64 kBit/s",
+                                        "url": "https://cdn.c3voc.de/rc1_translated.opus"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-translated-2",
+                                "display": "rC1 Audio (Translated2)",
+                                "type": "audio",
+                                "isTranslated": true,
+                                "videoSize": null,
+                                "urls": {
+                                    "mp3": {
+                                        "display": "MP3",
+                                        "tech": "MP3-Audio, 96 kBit/s",
+                                        "url": "https://cdn.c3voc.de/rc1_translated-2.mp3"
+                                    },
+                                    "opus": {
+                                        "display": "Opus",
+                                        "tech": "Opus-Audio, 64 kBit/s",
+                                        "url": "https://cdn.c3voc.de/rc1_translated-2.opus"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "rC1 FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "webm": {
+                                        "display": "WebM",
+                                        "tech": "1920x1080, VP9+Opus in WebM, 3.5 MBit/s",
+                                        "url": "https://cdn.c3voc.de/rc1_native_hd.webm"
+                                    },
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/rc1_native_hd.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-translated",
+                                "display": "rC1 FullHD Video (Translated1)",
+                                "type": "video",
+                                "isTranslated": true,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "webm": {
+                                        "display": "WebM",
+                                        "tech": "1920x1080, VP9+Opus in WebM, 3.5 MBit/s",
+                                        "url": "https://cdn.c3voc.de/rc1_translated_hd.webm"
+                                    },
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/rc1_translated_hd.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-translated-2",
+                                "display": "rC1 FullHD Video (Translated2)",
+                                "type": "video",
+                                "isTranslated": true,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "webm": {
+                                        "display": "WebM",
+                                        "tech": "1920x1080, VP9+Opus in WebM, 3.5 MBit/s",
+                                        "url": "https://cdn.c3voc.de/rc1_translated-2_hd.webm"
+                                    },
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/rc1_translated-2_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "two",
+                        "schedulename": "rC2",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/rc2/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/rc2/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/two",
+                        "display": "rC2",
+                        "stream": "rc2",
+                        "talks": {
+                            "current": {
+                                "fstart": "2020-12-27T13:00:00+01:00",
+                                "fend": "2020-12-27T13:40:00+01:00",
+                                "tstart": "13:00",
+                                "tend": "13:40",
+                                "start": 1609070400,
+                                "end": 1609072800,
+                                "offset": 3600,
+                                "duration": 2400,
+                                "title": "Boiling Mind",
+                                "speaker": "Kai Kunze",
+                                "room_known": true,
+                                "optout": false
+                            },
+                            "next": {
+                                "fstart": "2020-12-27T14:00:00+01:00",
+                                "fend": "2020-12-27T14:40:00+01:00",
+                                "tstart": "14:00",
+                                "tend": "14:40",
+                                "start": 1609074000,
+                                "end": 1609076400,
+                                "offset": 3600,
+                                "duration": 2400,
+                                "title": "Tracking Ransomware End-to-end",
+                                "speaker": "Max Aliapoulios",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "dash-native",
+                                "display": "rC2 ",
+                                "type": "dash",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "dash": {
+                                        "display": "DASH, baby",
+                                        "tech": "Adaptive multi-format-multi-bitrate-Stream to rule the World!!1elf",
+                                        "url": "https://cdn.c3voc.de/dash/rc2/manifest.mpd"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "rC2 Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "mp3": {
+                                        "display": "MP3",
+                                        "tech": "MP3-Audio, 96 kBit/s",
+                                        "url": "https://cdn.c3voc.de/rc2_native.mp3"
+                                    },
+                                    "opus": {
+                                        "display": "Opus",
+                                        "tech": "Opus-Audio, 64 kBit/s",
+                                        "url": "https://cdn.c3voc.de/rc2_native.opus"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-translated",
+                                "display": "rC2 Audio (Translated1)",
+                                "type": "audio",
+                                "isTranslated": true,
+                                "videoSize": null,
+                                "urls": {
+                                    "mp3": {
+                                        "display": "MP3",
+                                        "tech": "MP3-Audio, 96 kBit/s",
+                                        "url": "https://cdn.c3voc.de/rc2_translated.mp3"
+                                    },
+                                    "opus": {
+                                        "display": "Opus",
+                                        "tech": "Opus-Audio, 64 kBit/s",
+                                        "url": "https://cdn.c3voc.de/rc2_translated.opus"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-translated-2",
+                                "display": "rC2 Audio (Translated2)",
+                                "type": "audio",
+                                "isTranslated": true,
+                                "videoSize": null,
+                                "urls": {
+                                    "mp3": {
+                                        "display": "MP3",
+                                        "tech": "MP3-Audio, 96 kBit/s",
+                                        "url": "https://cdn.c3voc.de/rc2_translated-2.mp3"
+                                    },
+                                    "opus": {
+                                        "display": "Opus",
+                                        "tech": "Opus-Audio, 64 kBit/s",
+                                        "url": "https://cdn.c3voc.de/rc2_translated-2.opus"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "rC2 FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "webm": {
+                                        "display": "WebM",
+                                        "tech": "1920x1080, VP9+Opus in WebM, 3.5 MBit/s",
+                                        "url": "https://cdn.c3voc.de/rc2_native_hd.webm"
+                                    },
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/rc2_native_hd.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-translated",
+                                "display": "rC2 FullHD Video (Translated1)",
+                                "type": "video",
+                                "isTranslated": true,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "webm": {
+                                        "display": "WebM",
+                                        "tech": "1920x1080, VP9+Opus in WebM, 3.5 MBit/s",
+                                        "url": "https://cdn.c3voc.de/rc2_translated_hd.webm"
+                                    },
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/rc2_translated_hd.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-translated-2",
+                                "display": "rC2 FullHD Video (Translated2)",
+                                "type": "video",
+                                "isTranslated": true,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "webm": {
+                                        "display": "WebM",
+                                        "tech": "1920x1080, VP9+Opus in WebM, 3.5 MBit/s",
+                                        "url": "https://cdn.c3voc.de/rc2_translated-2_hd.webm"
+                                    },
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/rc2_translated-2_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "group": "Assemblies Live",
+                "rooms": [
+                    {
+                        "slug": "bitwaescherei",
+                        "schedulename": "Bitwäscherei Zürich",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/bitwaescherei/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/bitwaescherei/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/bitwaescherei",
+                        "display": "Bitwäscherei",
+                        "stream": "bitwaescherei",
+                        "talks": {
+                            "current": {
+                                "fstart": "2020-12-27T11:00:00+01:00",
+                                "fend": "2020-12-27T17:00:00+01:00",
+                                "tstart": "11:00",
+                                "tend": "17:00",
+                                "start": 1609063200,
+                                "end": 1609084800,
+                                "offset": 3600,
+                                "duration": 21600,
+                                "special": "gap",
+                                "room_known": true
+                            },
+                            "next": {
+                                "fstart": "2020-12-27T17:00:00+01:00",
+                                "fend": "2020-12-27T17:30:00+01:00",
+                                "tstart": "17:00",
+                                "tend": "17:30",
+                                "start": 1609084800,
+                                "end": 1609086600,
+                                "offset": 3600,
+                                "duration": 1800,
+                                "title": "Bitwäscherei - Programm Announcement",
+                                "speaker": "Marc Dusseiller",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "dash-native",
+                                "display": "Bitwäscherei ",
+                                "type": "dash",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "dash": {
+                                        "display": "DASH, baby",
+                                        "tech": "Adaptive multi-format-multi-bitrate-Stream to rule the World!!1elf",
+                                        "url": "https://cdn.c3voc.de/dash/bitwaescherei/manifest.mpd"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "Bitwäscherei Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "mp3": {
+                                        "display": "MP3",
+                                        "tech": "MP3-Audio, 96 kBit/s",
+                                        "url": "https://cdn.c3voc.de/bitwaescherei_native.mp3"
+                                    },
+                                    "opus": {
+                                        "display": "Opus",
+                                        "tech": "Opus-Audio, 64 kBit/s",
+                                        "url": "https://cdn.c3voc.de/bitwaescherei_native.opus"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "Bitwäscherei FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "webm": {
+                                        "display": "WebM",
+                                        "tech": "1920x1080, VP9+Opus in WebM, 3.5 MBit/s",
+                                        "url": "https://cdn.c3voc.de/bitwaescherei_native_hd.webm"
+                                    },
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/bitwaescherei_native_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "cbase",
+                        "schedulename": "c-base Berlin",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/cbase/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/cbase/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/cbase",
+                        "display": "c-base",
+                        "stream": "cbase",
+                        "talks": {
+                            "current": {
+                                "fstart": "2020-12-27T13:00:00+01:00",
+                                "fend": "2020-12-27T13:45:00+01:00",
+                                "tstart": "13:00",
+                                "tend": "13:45",
+                                "start": 1609070400,
+                                "end": 1609073100,
+                                "offset": 3600,
+                                "duration": 2700,
+                                "title": "Nichts ist unmöglich ...",
+                                "speaker": "Peter Hollitzer",
+                                "room_known": true,
+                                "optout": false
+                            },
+                            "next": {
+                                "fstart": "2020-12-27T14:00:00+01:00",
+                                "fend": "2020-12-27T14:40:00+01:00",
+                                "tstart": "14:00",
+                                "tend": "14:40",
+                                "start": 1609074000,
+                                "end": 1609076400,
+                                "offset": 3600,
+                                "duration": 2400,
+                                "title": "Wie werde ich meine Welt verbessern?!",
+                                "speaker": "atoll",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "dash-native",
+                                "display": "c-base ",
+                                "type": "dash",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "dash": {
+                                        "display": "DASH, baby",
+                                        "tech": "Adaptive multi-format-multi-bitrate-Stream to rule the World!!1elf",
+                                        "url": "https://cdn.c3voc.de/dash/cbase/manifest.mpd"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "c-base Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "mp3": {
+                                        "display": "MP3",
+                                        "tech": "MP3-Audio, 96 kBit/s",
+                                        "url": "https://cdn.c3voc.de/cbase_native.mp3"
+                                    },
+                                    "opus": {
+                                        "display": "Opus",
+                                        "tech": "Opus-Audio, 64 kBit/s",
+                                        "url": "https://cdn.c3voc.de/cbase_native.opus"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "c-base FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "webm": {
+                                        "display": "WebM",
+                                        "tech": "1920x1080, VP9+Opus in WebM, 3.5 MBit/s",
+                                        "url": "https://cdn.c3voc.de/cbase_native_hd.webm"
+                                    },
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/cbase_native_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "chaosstudio-hamburg",
+                        "schedulename": "chaosstudio-hamburg",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/csh/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/csh/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/chaosstudio-hamburg",
+                        "display": "ChaosStudio Hamburg",
+                        "stream": "csh",
+                        "talks": {
+                            "current": {
+                                "fstart": "2020-12-27T11:00:00+01:00",
+                                "fend": "2020-12-27T14:00:00+01:00",
+                                "tstart": "11:00",
+                                "tend": "14:00",
+                                "start": 1609063200,
+                                "end": 1609074000,
+                                "offset": 3600,
+                                "duration": 10800,
+                                "special": "gap",
+                                "room_known": true
+                            },
+                            "next": {
+                                "fstart": "2020-12-27T14:00:00+01:00",
+                                "fend": "2020-12-27T14:40:00+01:00",
+                                "tstart": "14:00",
+                                "tend": "14:40",
+                                "start": 1609074000,
+                                "end": 1609076400,
+                                "offset": 3600,
+                                "duration": 2400,
+                                "title": "Bulgaria Protests 2020",
+                                "speaker": "m, Rosen, Sabina Hilaiel, Radka",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "dash-native",
+                                "display": "ChaosStudio Hamburg ",
+                                "type": "dash",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "dash": {
+                                        "display": "DASH, baby",
+                                        "tech": "Adaptive multi-format-multi-bitrate-Stream to rule the World!!1elf",
+                                        "url": "https://cdn.c3voc.de/dash/csh/manifest.mpd"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "ChaosStudio Hamburg Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "mp3": {
+                                        "display": "MP3",
+                                        "tech": "MP3-Audio, 96 kBit/s",
+                                        "url": "https://cdn.c3voc.de/csh_native.mp3"
+                                    },
+                                    "opus": {
+                                        "display": "Opus",
+                                        "tech": "Opus-Audio, 64 kBit/s",
+                                        "url": "https://cdn.c3voc.de/csh_native.opus"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-translated",
+                                "display": "ChaosStudio Hamburg Audio (Translated1)",
+                                "type": "audio",
+                                "isTranslated": true,
+                                "videoSize": null,
+                                "urls": {
+                                    "mp3": {
+                                        "display": "MP3",
+                                        "tech": "MP3-Audio, 96 kBit/s",
+                                        "url": "https://cdn.c3voc.de/csh_translated.mp3"
+                                    },
+                                    "opus": {
+                                        "display": "Opus",
+                                        "tech": "Opus-Audio, 64 kBit/s",
+                                        "url": "https://cdn.c3voc.de/csh_translated.opus"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-translated-2",
+                                "display": "ChaosStudio Hamburg Audio (Translated2)",
+                                "type": "audio",
+                                "isTranslated": true,
+                                "videoSize": null,
+                                "urls": {
+                                    "mp3": {
+                                        "display": "MP3",
+                                        "tech": "MP3-Audio, 96 kBit/s",
+                                        "url": "https://cdn.c3voc.de/csh_translated-2.mp3"
+                                    },
+                                    "opus": {
+                                        "display": "Opus",
+                                        "tech": "Opus-Audio, 64 kBit/s",
+                                        "url": "https://cdn.c3voc.de/csh_translated-2.opus"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "ChaosStudio Hamburg FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "webm": {
+                                        "display": "WebM",
+                                        "tech": "1920x1080, VP9+Opus in WebM, 3.5 MBit/s",
+                                        "url": "https://cdn.c3voc.de/csh_native_hd.webm"
+                                    },
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/csh_native_hd.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-translated",
+                                "display": "ChaosStudio Hamburg FullHD Video (Translated1)",
+                                "type": "video",
+                                "isTranslated": true,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "webm": {
+                                        "display": "WebM",
+                                        "tech": "1920x1080, VP9+Opus in WebM, 3.5 MBit/s",
+                                        "url": "https://cdn.c3voc.de/csh_translated_hd.webm"
+                                    },
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/csh_translated_hd.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-translated-2",
+                                "display": "ChaosStudio Hamburg FullHD Video (Translated2)",
+                                "type": "video",
+                                "isTranslated": true,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "webm": {
+                                        "display": "WebM",
+                                        "tech": "1920x1080, VP9+Opus in WebM, 3.5 MBit/s",
+                                        "url": "https://cdn.c3voc.de/csh_translated-2_hd.webm"
+                                    },
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/csh_translated-2_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "chaostrawler",
+                        "schedulename": "ChaosTrawler",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/chaostrawler/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/chaostrawler/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/chaostrawler",
+                        "display": "ChaosTrawler Stubnitz/Gängeviertel",
+                        "stream": "chaostrawler",
+                        "talks": {
+                            "current": {
+                                "fstart": "2020-12-27T11:00:00+01:00",
+                                "fend": "2020-12-27T22:00:00+01:00",
+                                "tstart": "11:00",
+                                "tend": "22:00",
+                                "start": 1609063200,
+                                "end": 1609102800,
+                                "offset": 3600,
+                                "duration": 39600,
+                                "special": "gap",
+                                "room_known": true
+                            },
+                            "next": {
+                                "fstart": "2020-12-27T22:00:00+01:00",
+                                "fend": "2020-12-28T02:00:00+01:00",
+                                "tstart": "22:00",
+                                "tend": "02:00",
+                                "start": 1609102800,
+                                "end": 1609117200,
+                                "offset": 3600,
+                                "duration": 14400,
+                                "title": "C3-Teleshop",
+                                "speaker": "(DJ) Arnold,  Karin,  Expert*innen u. a. Prof. Dr. Dr. Groupon und Radolf-Rafgier von Schleich",
+                                "room_known": true,
+                                "optout": true
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "dash-native",
+                                "display": "ChaosTrawler Stubnitz/Gängeviertel ",
+                                "type": "dash",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "dash": {
+                                        "display": "DASH, baby",
+                                        "tech": "Adaptive multi-format-multi-bitrate-Stream to rule the World!!1elf",
+                                        "url": "https://cdn.c3voc.de/dash/chaostrawler/manifest.mpd"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "ChaosTrawler Stubnitz/Gängeviertel Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "mp3": {
+                                        "display": "MP3",
+                                        "tech": "MP3-Audio, 96 kBit/s",
+                                        "url": "https://cdn.c3voc.de/chaostrawler_native.mp3"
+                                    },
+                                    "opus": {
+                                        "display": "Opus",
+                                        "tech": "Opus-Audio, 64 kBit/s",
+                                        "url": "https://cdn.c3voc.de/chaostrawler_native.opus"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "ChaosTrawler Stubnitz/Gängeviertel FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "webm": {
+                                        "display": "WebM",
+                                        "tech": "1920x1080, VP9+Opus in WebM, 3.5 MBit/s",
+                                        "url": "https://cdn.c3voc.de/chaostrawler_native_hd.webm"
+                                    },
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/chaostrawler_native_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "chaoszone",
+                        "schedulename": "ChaosZone TV Stream",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/chaoszone/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/chaoszone/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/chaoszone",
+                        "display": "ChaosZone TV",
+                        "stream": "chaoszone",
+                        "talks": {
+                            "current": {
+                                "fstart": "2020-12-27T13:00:00+01:00",
+                                "fend": "2020-12-27T13:40:00+01:00",
+                                "tstart": "13:00",
+                                "tend": "13:40",
+                                "start": 1609070400,
+                                "end": 1609072800,
+                                "offset": 3600,
+                                "duration": 2400,
+                                "title": "ChaosZone Opening",
+                                "speaker": "nilo, honky, bigalex",
+                                "room_known": true,
+                                "optout": false
+                            },
+                            "next": {
+                                "fstart": "2020-12-27T14:15:00+01:00",
+                                "fend": "2020-12-27T15:15:00+01:00",
+                                "tstart": "14:15",
+                                "tend": "15:15",
+                                "start": 1609074900,
+                                "end": 1609078500,
+                                "offset": 3600,
+                                "duration": 3600,
+                                "title": "als gemeinschaft stark durch krisen",
+                                "speaker": "uwe premium",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "dash-native",
+                                "display": "ChaosZone TV ",
+                                "type": "dash",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "dash": {
+                                        "display": "DASH, baby",
+                                        "tech": "Adaptive multi-format-multi-bitrate-Stream to rule the World!!1elf",
+                                        "url": "https://cdn.c3voc.de/dash/chaoszone/manifest.mpd"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "ChaosZone TV Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "mp3": {
+                                        "display": "MP3",
+                                        "tech": "MP3-Audio, 96 kBit/s",
+                                        "url": "https://cdn.c3voc.de/chaoszone_native.mp3"
+                                    },
+                                    "opus": {
+                                        "display": "Opus",
+                                        "tech": "Opus-Audio, 64 kBit/s",
+                                        "url": "https://cdn.c3voc.de/chaoszone_native.opus"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-translated",
+                                "display": "ChaosZone TV Audio (Translated1)",
+                                "type": "audio",
+                                "isTranslated": true,
+                                "videoSize": null,
+                                "urls": {
+                                    "mp3": {
+                                        "display": "MP3",
+                                        "tech": "MP3-Audio, 96 kBit/s",
+                                        "url": "https://cdn.c3voc.de/chaoszone_translated.mp3"
+                                    },
+                                    "opus": {
+                                        "display": "Opus",
+                                        "tech": "Opus-Audio, 64 kBit/s",
+                                        "url": "https://cdn.c3voc.de/chaoszone_translated.opus"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-translated-2",
+                                "display": "ChaosZone TV Audio (Translated2)",
+                                "type": "audio",
+                                "isTranslated": true,
+                                "videoSize": null,
+                                "urls": {
+                                    "mp3": {
+                                        "display": "MP3",
+                                        "tech": "MP3-Audio, 96 kBit/s",
+                                        "url": "https://cdn.c3voc.de/chaoszone_translated-2.mp3"
+                                    },
+                                    "opus": {
+                                        "display": "Opus",
+                                        "tech": "Opus-Audio, 64 kBit/s",
+                                        "url": "https://cdn.c3voc.de/chaoszone_translated-2.opus"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "ChaosZone TV FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "webm": {
+                                        "display": "WebM",
+                                        "tech": "1920x1080, VP9+Opus in WebM, 3.5 MBit/s",
+                                        "url": "https://cdn.c3voc.de/chaoszone_native_hd.webm"
+                                    },
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/chaoszone_native_hd.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-translated",
+                                "display": "ChaosZone TV FullHD Video (Translated1)",
+                                "type": "video",
+                                "isTranslated": true,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "webm": {
+                                        "display": "WebM",
+                                        "tech": "1920x1080, VP9+Opus in WebM, 3.5 MBit/s",
+                                        "url": "https://cdn.c3voc.de/chaoszone_translated_hd.webm"
+                                    },
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/chaoszone_translated_hd.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-translated-2",
+                                "display": "ChaosZone TV FullHD Video (Translated2)",
+                                "type": "video",
+                                "isTranslated": true,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "webm": {
+                                        "display": "WebM",
+                                        "tech": "1920x1080, VP9+Opus in WebM, 3.5 MBit/s",
+                                        "url": "https://cdn.c3voc.de/chaoszone_translated-2_hd.webm"
+                                    },
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/chaoszone_translated-2_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "cwtv",
+                        "schedulename": "Chaos-West TV",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/cwtv2/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/cwtv2/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/cwtv",
+                        "display": "Chaos-West TV",
+                        "stream": "cwtv2",
+                        "talks": {
+                            "current": {
+                                "fstart": "2020-12-27T13:00:00+01:00",
+                                "fend": "2020-12-27T14:20:00+01:00",
+                                "tstart": "13:00",
+                                "tend": "14:20",
+                                "start": 1609070400,
+                                "end": 1609075200,
+                                "offset": 3600,
+                                "duration": 4800,
+                                "title": "Die Geschichte der Corona-Warn-App",
+                                "speaker": "Lars Roemheld",
+                                "room_known": true,
+                                "optout": false
+                            },
+                            "next": {
+                                "fstart": "2020-12-27T14:30:00+01:00",
+                                "fend": "2020-12-27T15:50:00+01:00",
+                                "tstart": "14:30",
+                                "tend": "15:50",
+                                "start": 1609075800,
+                                "end": 1609080600,
+                                "offset": 3600,
+                                "duration": 4800,
+                                "title": "Building (less in-) accessible web sites",
+                                "speaker": "DysphoricUnicorn",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "dash-native",
+                                "display": "Chaos-West TV ",
+                                "type": "dash",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "dash": {
+                                        "display": "DASH, baby",
+                                        "tech": "Adaptive multi-format-multi-bitrate-Stream to rule the World!!1elf",
+                                        "url": "https://cdn.c3voc.de/dash/cwtv2/manifest.mpd"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "Chaos-West TV Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "mp3": {
+                                        "display": "MP3",
+                                        "tech": "MP3-Audio, 96 kBit/s",
+                                        "url": "https://cdn.c3voc.de/cwtv2_native.mp3"
+                                    },
+                                    "opus": {
+                                        "display": "Opus",
+                                        "tech": "Opus-Audio, 64 kBit/s",
+                                        "url": "https://cdn.c3voc.de/cwtv2_native.opus"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "Chaos-West TV FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "webm": {
+                                        "display": "WebM",
+                                        "tech": "1920x1080, VP9+Opus in WebM, 3.5 MBit/s",
+                                        "url": "https://cdn.c3voc.de/cwtv2_native_hd.webm"
+                                    },
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/cwtv2_native_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "franconiannet",
+                        "schedulename": "franconian.net",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/franconiannet/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/franconiannet/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/franconiannet",
+                        "display": "franconian.net",
+                        "stream": "franconiannet",
+                        "talks": {
+                            "current": {
+                                "fstart": "2020-12-27T11:00:00+01:00",
+                                "fend": "2020-12-27T13:55:00+01:00",
+                                "tstart": "11:00",
+                                "tend": "13:55",
+                                "start": 1609063200,
+                                "end": 1609073700,
+                                "offset": 3600,
+                                "duration": 10500,
+                                "special": "gap",
+                                "room_known": true
+                            },
+                            "next": {
+                                "fstart": "2020-12-27T13:55:00+01:00",
+                                "fend": "2020-12-27T14:35:00+01:00",
+                                "tstart": "13:55",
+                                "tend": "14:35",
+                                "start": 1609073700,
+                                "end": 1609076100,
+                                "offset": 3600,
+                                "duration": 2400,
+                                "title": "Create boxes and more with a lasercutter",
+                                "speaker": "Florian Festi",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "dash-native",
+                                "display": "franconian.net ",
+                                "type": "dash",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "dash": {
+                                        "display": "DASH, baby",
+                                        "tech": "Adaptive multi-format-multi-bitrate-Stream to rule the World!!1elf",
+                                        "url": "https://cdn.c3voc.de/dash/franconiannet/manifest.mpd"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "franconian.net Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "mp3": {
+                                        "display": "MP3",
+                                        "tech": "MP3-Audio, 96 kBit/s",
+                                        "url": "https://cdn.c3voc.de/franconiannet_native.mp3"
+                                    },
+                                    "opus": {
+                                        "display": "Opus",
+                                        "tech": "Opus-Audio, 64 kBit/s",
+                                        "url": "https://cdn.c3voc.de/franconiannet_native.opus"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "franconian.net FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "webm": {
+                                        "display": "WebM",
+                                        "tech": "1920x1080, VP9+Opus in WebM, 3.5 MBit/s",
+                                        "url": "https://cdn.c3voc.de/franconiannet_native_hd.webm"
+                                    },
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/franconiannet_native_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "hacc",
+                        "schedulename": "hacc München / about:future",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/hacc/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/hacc/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/hacc",
+                        "display": "about:future",
+                        "stream": "hacc",
+                        "talks": {
+                            "current": {
+                                "fstart": "2020-12-27T13:00:00+01:00",
+                                "fend": "2020-12-27T13:40:00+01:00",
+                                "tstart": "13:00",
+                                "tend": "13:40",
+                                "start": 1609070400,
+                                "end": 1609072800,
+                                "offset": 3600,
+                                "duration": 2400,
+                                "title": "Amateurfunk hacken - die Suche nach zeitgemäßem Spaß mit Funk und Radiowellen",
+                                "speaker": "phantom",
+                                "room_known": true,
+                                "optout": false
+                            },
+                            "next": {
+                                "fstart": "2020-12-27T14:30:00+01:00",
+                                "fend": "2020-12-27T15:10:00+01:00",
+                                "tstart": "14:30",
+                                "tend": "15:10",
+                                "start": 1609075800,
+                                "end": 1609078200,
+                                "offset": 3600,
+                                "duration": 2400,
+                                "title": "Wie gründe ich eine Genossenschaft?",
+                                "speaker": "ajuvo, Manuela  estegoari",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "dash-native",
+                                "display": "about:future ",
+                                "type": "dash",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "dash": {
+                                        "display": "DASH, baby",
+                                        "tech": "Adaptive multi-format-multi-bitrate-Stream to rule the World!!1elf",
+                                        "url": "https://cdn.c3voc.de/dash/hacc/manifest.mpd"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "about:future Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "mp3": {
+                                        "display": "MP3",
+                                        "tech": "MP3-Audio, 96 kBit/s",
+                                        "url": "https://cdn.c3voc.de/hacc_native.mp3"
+                                    },
+                                    "opus": {
+                                        "display": "Opus",
+                                        "tech": "Opus-Audio, 64 kBit/s",
+                                        "url": "https://cdn.c3voc.de/hacc_native.opus"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "about:future FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "webm": {
+                                        "display": "WebM",
+                                        "tech": "1920x1080, VP9+Opus in WebM, 3.5 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hacc_native_hd.webm"
+                                    },
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/hacc_native_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "kreaturworks",
+                        "schedulename": "KreaturWorks",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/kreaturworks/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/kreaturworks/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/kreaturworks",
+                        "display": "KreaturWorks",
+                        "stream": "kreaturworks",
+                        "talks": {
+                            "current": {
+                                "fstart": "2020-12-27T11:00:00+01:00",
+                                "fend": "2020-12-27T14:00:00+01:00",
+                                "tstart": "11:00",
+                                "tend": "14:00",
+                                "start": 1609063200,
+                                "end": 1609074000,
+                                "offset": 3600,
+                                "duration": 10800,
+                                "special": "gap",
+                                "room_known": true
+                            },
+                            "next": {
+                                "fstart": "2020-12-27T14:00:00+01:00",
+                                "fend": "2020-12-27T14:30:00+01:00",
+                                "tstart": "14:00",
+                                "tend": "14:30",
+                                "start": 1609074000,
+                                "end": 1609075800,
+                                "offset": 3600,
+                                "duration": 1800,
+                                "title": "Host Intro: Solar Punk & Warm Narratives (Eugenio Battaglia)",
+                                "speaker": "euge",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "dash-native",
+                                "display": "KreaturWorks ",
+                                "type": "dash",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "dash": {
+                                        "display": "DASH, baby",
+                                        "tech": "Adaptive multi-format-multi-bitrate-Stream to rule the World!!1elf",
+                                        "url": "https://cdn.c3voc.de/dash/kreaturworks/manifest.mpd"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "KreaturWorks Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "mp3": {
+                                        "display": "MP3",
+                                        "tech": "MP3-Audio, 96 kBit/s",
+                                        "url": "https://cdn.c3voc.de/kreaturworks_native.mp3"
+                                    },
+                                    "opus": {
+                                        "display": "Opus",
+                                        "tech": "Opus-Audio, 64 kBit/s",
+                                        "url": "https://cdn.c3voc.de/kreaturworks_native.opus"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "KreaturWorks FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "webm": {
+                                        "display": "WebM",
+                                        "tech": "1920x1080, VP9+Opus in WebM, 3.5 MBit/s",
+                                        "url": "https://cdn.c3voc.de/kreaturworks_native_hd.webm"
+                                    },
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/kreaturworks_native_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "oio",
+                        "schedulename": "OIO/A:F Bühne",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/oio/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/oio/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/oio",
+                        "display": "OpenInfrastructureOrbit",
+                        "stream": "oio",
+                        "talks": {
+                            "current": {
+                                "fstart": "2020-12-27T11:00:00+01:00",
+                                "fend": "2020-12-27T15:00:00+01:00",
+                                "tstart": "11:00",
+                                "tend": "15:00",
+                                "start": 1609063200,
+                                "end": 1609077600,
+                                "offset": 3600,
+                                "duration": 14400,
+                                "special": "gap",
+                                "room_known": true
+                            },
+                            "next": {
+                                "fstart": "2020-12-27T15:00:00+01:00",
+                                "fend": "2020-12-27T15:35:00+01:00",
+                                "tstart": "15:00",
+                                "tend": "15:35",
+                                "start": 1609077600,
+                                "end": 1609079700,
+                                "offset": 3600,
+                                "duration": 2100,
+                                "title": "Opening Session",
+                                "speaker": "Andreas Bräu, Vik",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "dash-native",
+                                "display": "OpenInfrastructureOrbit ",
+                                "type": "dash",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "dash": {
+                                        "display": "DASH, baby",
+                                        "tech": "Adaptive multi-format-multi-bitrate-Stream to rule the World!!1elf",
+                                        "url": "https://cdn.c3voc.de/dash/oio/manifest.mpd"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "OpenInfrastructureOrbit Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "mp3": {
+                                        "display": "MP3",
+                                        "tech": "MP3-Audio, 96 kBit/s",
+                                        "url": "https://cdn.c3voc.de/oio_native.mp3"
+                                    },
+                                    "opus": {
+                                        "display": "Opus",
+                                        "tech": "Opus-Audio, 64 kBit/s",
+                                        "url": "https://cdn.c3voc.de/oio_native.opus"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "OpenInfrastructureOrbit FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "webm": {
+                                        "display": "WebM",
+                                        "tech": "1920x1080, VP9+Opus in WebM, 3.5 MBit/s",
+                                        "url": "https://cdn.c3voc.de/oio_native_hd.webm"
+                                    },
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/oio_native_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "r3s",
+                        "schedulename": "r3s - Monheim/Rhein",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/r3s/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/r3s/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/r3s",
+                        "display": "Remote Rhein Ruhr Stage",
+                        "stream": "r3s",
+                        "talks": {
+                            "current": {
+                                "fstart": "2020-12-27T13:00:00+01:00",
+                                "fend": "2020-12-27T14:00:00+01:00",
+                                "tstart": "13:00",
+                                "tend": "14:00",
+                                "start": 1609070400,
+                                "end": 1609074000,
+                                "offset": 3600,
+                                "duration": 3600,
+                                "title": "What have we lost?",
+                                "speaker": "Calvin Buckley, Techfury90, TQ Hirsch",
+                                "room_known": true,
+                                "optout": false
+                            },
+                            "next": {
+                                "fstart": "2020-12-27T14:30:00+01:00",
+                                "fend": "2020-12-27T15:10:00+01:00",
+                                "tstart": "14:30",
+                                "tend": "15:10",
+                                "start": 1609075800,
+                                "end": 1609078200,
+                                "offset": 3600,
+                                "duration": 2400,
+                                "title": "Elektronische Beweisführung",
+                                "speaker": "Annitiralu, Daniella Domokos",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "dash-native",
+                                "display": "Remote Rhein Ruhr Stage ",
+                                "type": "dash",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "dash": {
+                                        "display": "DASH, baby",
+                                        "tech": "Adaptive multi-format-multi-bitrate-Stream to rule the World!!1elf",
+                                        "url": "https://cdn.c3voc.de/dash/r3s/manifest.mpd"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "Remote Rhein Ruhr Stage Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "mp3": {
+                                        "display": "MP3",
+                                        "tech": "MP3-Audio, 96 kBit/s",
+                                        "url": "https://cdn.c3voc.de/r3s_native.mp3"
+                                    },
+                                    "opus": {
+                                        "display": "Opus",
+                                        "tech": "Opus-Audio, 64 kBit/s",
+                                        "url": "https://cdn.c3voc.de/r3s_native.opus"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "Remote Rhein Ruhr Stage FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "webm": {
+                                        "display": "WebM",
+                                        "tech": "1920x1080, VP9+Opus in WebM, 3.5 MBit/s",
+                                        "url": "https://cdn.c3voc.de/r3s_native_hd.webm"
+                                    },
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/r3s_native_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "restrealitaet",
+                        "schedulename": "restrealitaet",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/restrealitaet/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/restrealitaet/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/restrealitaet",
+                        "display": "Restrealitaet",
+                        "stream": "restrealitaet",
+                        "talks": {
+                            "current": {
+                                "fstart": "2020-12-27T13:00:00+01:00",
+                                "fend": "2020-12-27T14:00:00+01:00",
+                                "tstart": "13:00",
+                                "tend": "14:00",
+                                "start": 1609070400,
+                                "end": 1609074000,
+                                "offset": 3600,
+                                "duration": 3600,
+                                "title": "Restreale Technikgeschichte(n)",
+                                "speaker": "senpf, RR-Rufus",
+                                "room_known": true,
+                                "optout": false
+                            },
+                            "next": {
+                                "fstart": "2020-12-27T15:00:00+01:00",
+                                "fend": "2020-12-27T15:40:00+01:00",
+                                "tstart": "15:00",
+                                "tend": "15:40",
+                                "start": 1609077600,
+                                "end": 1609080000,
+                                "offset": 3600,
+                                "duration": 2400,
+                                "title": "Die wunderliche Welt der Netzteilhieroglyphen",
+                                "speaker": "Anoush Dehghani",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "dash-native",
+                                "display": "Restrealitaet ",
+                                "type": "dash",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "dash": {
+                                        "display": "DASH, baby",
+                                        "tech": "Adaptive multi-format-multi-bitrate-Stream to rule the World!!1elf",
+                                        "url": "https://cdn.c3voc.de/dash/restrealitaet/manifest.mpd"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "Restrealitaet Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "mp3": {
+                                        "display": "MP3",
+                                        "tech": "MP3-Audio, 96 kBit/s",
+                                        "url": "https://cdn.c3voc.de/restrealitaet_native.mp3"
+                                    },
+                                    "opus": {
+                                        "display": "Opus",
+                                        "tech": "Opus-Audio, 64 kBit/s",
+                                        "url": "https://cdn.c3voc.de/restrealitaet_native.opus"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "Restrealitaet FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "webm": {
+                                        "display": "WebM",
+                                        "tech": "1920x1080, VP9+Opus in WebM, 3.5 MBit/s",
+                                        "url": "https://cdn.c3voc.de/restrealitaet_native_hd.webm"
+                                    },
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/restrealitaet_native_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "sendezentrum",
+                        "schedulename": "SZ Bühne",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/sendezentrum/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/sendezentrum/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/sendezentrum",
+                        "display": "Sendezentrum",
+                        "stream": "sendezentrum",
+                        "talks": {
+                            "current": {
+                                "fstart": "2020-12-27T11:00:00+01:00",
+                                "fend": "2020-12-27T18:00:00+01:00",
+                                "tstart": "11:00",
+                                "tend": "18:00",
+                                "start": 1609063200,
+                                "end": 1609088400,
+                                "offset": 3600,
+                                "duration": 25200,
+                                "special": "gap",
+                                "room_known": true
+                            },
+                            "next": {
+                                "fstart": "2020-12-27T18:00:00+01:00",
+                                "fend": "2020-12-27T18:45:00+01:00",
+                                "tstart": "18:00",
+                                "tend": "18:45",
+                                "start": 1609088400,
+                                "end": 1609091100,
+                                "offset": 3600,
+                                "duration": 2700,
+                                "title": "PrivacyWeek – der Podcast",
+                                "speaker": "Klaudia Zotzmann-Koch",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "dash-native",
+                                "display": "Sendezentrum ",
+                                "type": "dash",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "dash": {
+                                        "display": "DASH, baby",
+                                        "tech": "Adaptive multi-format-multi-bitrate-Stream to rule the World!!1elf",
+                                        "url": "https://cdn.c3voc.de/dash/sendezentrum/manifest.mpd"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "Sendezentrum Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "mp3": {
+                                        "display": "MP3",
+                                        "tech": "MP3-Audio, 96 kBit/s",
+                                        "url": "https://cdn.c3voc.de/sendezentrum_native.mp3"
+                                    },
+                                    "opus": {
+                                        "display": "Opus",
+                                        "tech": "Opus-Audio, 64 kBit/s",
+                                        "url": "https://cdn.c3voc.de/sendezentrum_native.opus"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "Sendezentrum FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "webm": {
+                                        "display": "WebM",
+                                        "tech": "1920x1080, VP9+Opus in WebM, 3.5 MBit/s",
+                                        "url": "https://cdn.c3voc.de/sendezentrum_native_hd.webm"
+                                    },
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/sendezentrum_native_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "wikipaka",
+                        "schedulename": "Wikipaka",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/wikipaka/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/wikipaka/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/wikipaka",
+                        "display": "Wikipaka",
+                        "stream": "wikipaka",
+                        "talks": {
+                            "current": {
+                                "fstart": "2020-12-27T11:00:00+01:00",
+                                "fend": "2020-12-27T14:00:00+01:00",
+                                "tstart": "11:00",
+                                "tend": "14:00",
+                                "start": 1609063200,
+                                "end": 1609074000,
+                                "offset": 3600,
+                                "duration": 10800,
+                                "special": "gap",
+                                "room_known": true
+                            },
+                            "next": {
+                                "fstart": "2020-12-27T14:00:00+01:00",
+                                "fend": "2020-12-27T14:30:00+01:00",
+                                "tstart": "14:00",
+                                "tend": "14:30",
+                                "start": 1609074000,
+                                "end": 1609075800,
+                                "offset": 3600,
+                                "duration": 1800,
+                                "title": "Flutter - Introduction into performant cross-platform development",
+                                "speaker": "The one with the braid | Dфҿ mit dem Zopf",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "dash-native",
+                                "display": "Wikipaka ",
+                                "type": "dash",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "dash": {
+                                        "display": "DASH, baby",
+                                        "tech": "Adaptive multi-format-multi-bitrate-Stream to rule the World!!1elf",
+                                        "url": "https://cdn.c3voc.de/dash/wikipaka/manifest.mpd"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "Wikipaka Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "mp3": {
+                                        "display": "MP3",
+                                        "tech": "MP3-Audio, 96 kBit/s",
+                                        "url": "https://cdn.c3voc.de/wikipaka_native.mp3"
+                                    },
+                                    "opus": {
+                                        "display": "Opus",
+                                        "tech": "Opus-Audio, 64 kBit/s",
+                                        "url": "https://cdn.c3voc.de/wikipaka_native.opus"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "Wikipaka FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "webm": {
+                                        "display": "WebM",
+                                        "tech": "1920x1080, VP9+Opus in WebM, 3.5 MBit/s",
+                                        "url": "https://cdn.c3voc.de/wikipaka_native_hd.webm"
+                                    },
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/wikipaka_native_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "xhain",
+                        "schedulename": "xHain Berlin",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/xhain/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/xhain/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/xhain",
+                        "display": "xHain",
+                        "stream": "xhain",
+                        "talks": {
+                            "current": {
+                                "fstart": "2020-12-27T11:00:00+01:00",
+                                "fend": "2020-12-27T14:00:00+01:00",
+                                "tstart": "11:00",
+                                "tend": "14:00",
+                                "start": 1609063200,
+                                "end": 1609074000,
+                                "offset": 3600,
+                                "duration": 10800,
+                                "special": "gap",
+                                "room_known": true
+                            },
+                            "next": {
+                                "fstart": "2020-12-27T14:00:00+01:00",
+                                "fend": "2020-12-27T14:40:00+01:00",
+                                "tstart": "14:00",
+                                "tend": "14:40",
+                                "start": 1609074000,
+                                "end": 1609076400,
+                                "offset": 3600,
+                                "duration": 2400,
+                                "title": "Tracking Ransomware End-to-end",
+                                "speaker": "Max Aliapoulios",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "dash-native",
+                                "display": "xHain ",
+                                "type": "dash",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "dash": {
+                                        "display": "DASH, baby",
+                                        "tech": "Adaptive multi-format-multi-bitrate-Stream to rule the World!!1elf",
+                                        "url": "https://cdn.c3voc.de/dash/xhain/manifest.mpd"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "xHain Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "mp3": {
+                                        "display": "MP3",
+                                        "tech": "MP3-Audio, 96 kBit/s",
+                                        "url": "https://cdn.c3voc.de/xhain_native.mp3"
+                                    },
+                                    "opus": {
+                                        "display": "Opus",
+                                        "tech": "Opus-Audio, 64 kBit/s",
+                                        "url": "https://cdn.c3voc.de/xhain_native.opus"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "xHain FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "webm": {
+                                        "display": "WebM",
+                                        "tech": "1920x1080, VP9+Opus in WebM, 3.5 MBit/s",
+                                        "url": "https://cdn.c3voc.de/xhain_native_hd.webm"
+                                    },
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/xhain_native_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "infobeamer",
+                        "schedulename": "Infobeamer",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/infobeamer/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/infobeamer/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/infobeamer",
+                        "display": "Infobeamer",
+                        "stream": "infobeamer",
+                        "talks": {
+                            "current": null,
+                            "next": null
+                        },
+                        "streams": [
+                            {
+                                "slug": "dash-native",
+                                "display": "Infobeamer ",
+                                "type": "dash",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "dash": {
+                                        "display": "DASH, baby",
+                                        "tech": "Adaptive multi-format-multi-bitrate-Stream to rule the World!!1elf",
+                                        "url": "https://cdn.c3voc.de/dash/infobeamer/manifest.mpd"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "Infobeamer Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "mp3": {
+                                        "display": "MP3",
+                                        "tech": "MP3-Audio, 96 kBit/s",
+                                        "url": "https://cdn.c3voc.de/infobeamer_native.mp3"
+                                    },
+                                    "opus": {
+                                        "display": "Opus",
+                                        "tech": "Opus-Audio, 64 kBit/s",
+                                        "url": "https://cdn.c3voc.de/infobeamer_native.opus"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "Infobeamer FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "webm": {
+                                        "display": "WebM",
+                                        "tech": "1920x1080, VP9+Opus in WebM, 3.5 MBit/s",
+                                        "url": "https://cdn.c3voc.de/infobeamer_native_hd.webm"
+                                    },
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/infobeamer_native_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "classics",
+                        "schedulename": "FeM Congress Classics",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/classics/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/classics/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/classics",
+                        "display": "FeM Congress Classics",
+                        "stream": "classics",
+                        "talks": {
+                            "current": null,
+                            "next": null
+                        },
+                        "streams": [
+                            {
+                                "slug": "dash-native",
+                                "display": "FeM Congress Classics ",
+                                "type": "dash",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "dash": {
+                                        "display": "DASH, baby",
+                                        "tech": "Adaptive multi-format-multi-bitrate-Stream to rule the World!!1elf",
+                                        "url": "https://cdn.c3voc.de/dash/classics/manifest.mpd"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "FeM Congress Classics Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "mp3": {
+                                        "display": "MP3",
+                                        "tech": "MP3-Audio, 96 kBit/s",
+                                        "url": "https://cdn.c3voc.de/classics_native.mp3"
+                                    },
+                                    "opus": {
+                                        "display": "Opus",
+                                        "tech": "Opus-Audio, 64 kBit/s",
+                                        "url": "https://cdn.c3voc.de/classics_native.opus"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "FeM Congress Classics FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "webm": {
+                                        "display": "WebM",
+                                        "tech": "1920x1080, VP9+Opus in WebM, 3.5 MBit/s",
+                                        "url": "https://cdn.c3voc.de/classics_native_hd.webm"
+                                    },
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/classics_native_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "group": "Music Live",
+                "rooms": [
+                    {
+                        "slug": "c3lounge",
+                        "schedulename": "rc3 Lounge",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/c3lounge/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/c3lounge/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/rc3/c3lounge",
+                        "display": "Lounge",
+                        "stream": "c3lounge",
+                        "talks": {
+                            "current": null,
+                            "next": null
+                        },
+                        "streams": [
+                            {
+                                "slug": "dash-native",
+                                "display": "Lounge ",
+                                "type": "dash",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "dash": {
+                                        "display": "DASH, baby",
+                                        "tech": "Adaptive multi-format-multi-bitrate-Stream to rule the World!!1elf",
+                                        "url": "https://cdn.c3voc.de/dash/c3lounge/manifest.mpd"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "Lounge Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "mp3": {
+                                        "display": "MP3",
+                                        "tech": "MP3-Audio, 96 kBit/s",
+                                        "url": "https://cdn.c3voc.de/c3lounge_native.mp3"
+                                    },
+                                    "opus": {
+                                        "display": "Opus",
+                                        "tech": "Opus-Audio, 64 kBit/s",
+                                        "url": "https://cdn.c3voc.de/c3lounge_native.opus"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "Lounge FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "webm": {
+                                        "display": "WebM",
+                                        "tech": "1920x1080, VP9+Opus in WebM, 3.5 MBit/s",
+                                        "url": "https://cdn.c3voc.de/c3lounge_native_hd.webm"
+                                    },
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/c3lounge_native_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

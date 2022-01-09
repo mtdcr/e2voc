@@ -1,0 +1,81 @@
+#NAME c3voc (Radio)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::c-base - Channels - rC3 NOWHERE
+#DESCRIPTION c-base - Channels - rC3 NOWHERE
+#SERVICE 4097:256:0:1f0:d5f0:cc88:9cf8c059:0:0:0:https%3a//cdn.c3voc.de/hls/cbase/segment_Native.m3u8:c-base Audio (HLS)
+#DESCRIPTION c-base Audio (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Chaos-West TV - Channels - rC3 NOWHERE
+#DESCRIPTION Chaos-West TV - Channels - rC3 NOWHERE
+#SERVICE 4097:256:0:55ef:7529:12f0:5dbae5ad:0:0:0:https%3a//cdn.c3voc.de/hls/cwtv/segment_Native.m3u8:Chaos-West TV Audio (HLS)
+#DESCRIPTION Chaos-West TV Audio (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Remote Rhein Ruhr Stage - Channels - rC3 NOWHERE
+#DESCRIPTION Remote Rhein Ruhr Stage - Channels - rC3 NOWHERE
+#SERVICE 4097:256:0:a54f:81f5:4139:924703f6:0:0:0:https%3a//cdn.c3voc.de/hls/r3s/segment_Native.m3u8:Remote Rhein Ruhr Stage Audio (HLS)
+#DESCRIPTION Remote Rhein Ruhr Stage Audio (HLS)
+#SERVICE 4097:256:0:a54f:81f5:4139:924703f6:0:0:0:https%3a//cdn.c3voc.de/hls/r3s/segment_Translated.m3u8:Remote Rhein Ruhr Stage Audio (Translated1) (HLS)
+#DESCRIPTION Remote Rhein Ruhr Stage Audio (Translated1) (HLS)
+#SERVICE 4097:256:0:a54f:81f5:4139:924703f6:0:0:0:https%3a//cdn.c3voc.de/hls/r3s/segment_Translated-2.m3u8:Remote Rhein Ruhr Stage Audio (Translated2) (HLS)
+#DESCRIPTION Remote Rhein Ruhr Stage Audio (Translated2) (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::ChaosStudio Hamburg - Channels - rC3 NOWHERE
+#DESCRIPTION ChaosStudio Hamburg - Channels - rC3 NOWHERE
+#SERVICE 4097:256:0:34ac:6f43:3a3d:96ff0bf8:0:0:0:https%3a//cdn.c3voc.de/hls/csh/segment_Native.m3u8:ChaosStudio Hamburg Audio (HLS)
+#DESCRIPTION ChaosStudio Hamburg Audio (HLS)
+#SERVICE 4097:256:0:34ac:6f43:3a3d:96ff0bf8:0:0:0:https%3a//cdn.c3voc.de/hls/csh/segment_Translated.m3u8:ChaosStudio Hamburg Audio (Translated1) (HLS)
+#DESCRIPTION ChaosStudio Hamburg Audio (Translated1) (HLS)
+#SERVICE 4097:256:0:34ac:6f43:3a3d:96ff0bf8:0:0:0:https%3a//cdn.c3voc.de/hls/csh/segment_Translated-2.m3u8:ChaosStudio Hamburg Audio (Translated2) (HLS)
+#DESCRIPTION ChaosStudio Hamburg Audio (Translated2) (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::ChaosZone TV - Channels - rC3 NOWHERE
+#DESCRIPTION ChaosZone TV - Channels - rC3 NOWHERE
+#SERVICE 4097:256:0:5a54:a780:31df:940a405:0:0:0:https%3a//cdn.c3voc.de/hls/chaoszone/segment_Native.m3u8:ChaosZone TV Audio (HLS)
+#DESCRIPTION ChaosZone TV Audio (HLS)
+#SERVICE 4097:256:0:5a54:a780:31df:940a405:0:0:0:https%3a//cdn.c3voc.de/hls/chaoszone/segment_Translated.m3u8:ChaosZone TV Audio (Translated1) (HLS)
+#DESCRIPTION ChaosZone TV Audio (Translated1) (HLS)
+#SERVICE 4097:256:0:5a54:a780:31df:940a405:0:0:0:https%3a//cdn.c3voc.de/hls/chaoszone/segment_Translated-2.m3u8:ChaosZone TV Audio (Translated2) (HLS)
+#DESCRIPTION ChaosZone TV Audio (Translated2) (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::FeM - Channels - rC3 NOWHERE
+#DESCRIPTION FeM - Channels - rC3 NOWHERE
+#SERVICE 4097:256:0:6574:f96e:4b4a:ff5cc7f:0:0:0:https%3a//cdn.c3voc.de/hls/fem/segment_Native.m3u8:FeM Audio (HLS)
+#DESCRIPTION FeM Audio (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::franconian.net - Channels - rC3 NOWHERE
+#DESCRIPTION franconian.net - Channels - rC3 NOWHERE
+#SERVICE 4097:256:0:6f3:86a2:5e95:2686d611:0:0:0:https%3a//cdn.c3voc.de/hls/franconiannet/segment_Native.m3u8:franconian.net Audio (HLS)
+#DESCRIPTION franconian.net Audio (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::about%3afuture - Channels - rC3 NOWHERE
+#DESCRIPTION about:future - Channels - rC3 NOWHERE
+#SERVICE 4097:256:0:be2c:9173:e764:dd70b5ef:0:0:0:https%3a//cdn.c3voc.de/hls/aboutfuture/segment_Native.m3u8:about%3afuture Audio (HLS)
+#DESCRIPTION about:future Audio (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Sendezentrum - Channels - rC3 NOWHERE
+#DESCRIPTION Sendezentrum - Channels - rC3 NOWHERE
+#SERVICE 4097:256:0:e8f0:60b3:7494:b4ae119a:0:0:0:https%3a//cdn.c3voc.de/hls/sendezentrum/segment_Native.m3u8:Sendezentrum Audio (HLS)
+#DESCRIPTION Sendezentrum Audio (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Haecksen - Channels - rC3 NOWHERE
+#DESCRIPTION Haecksen - Channels - rC3 NOWHERE
+#SERVICE 4097:256:0:6282:461b:f292:8c3fddc2:0:0:0:https%3a//cdn.c3voc.de/hls/haecksen/segment_Native.m3u8:Haecksen Audio (HLS)
+#DESCRIPTION Haecksen Audio (HLS)
+#SERVICE 4097:256:0:6282:461b:f292:8c3fddc2:0:0:0:https%3a//cdn.c3voc.de/hls/haecksen/segment_Translated.m3u8:Haecksen Audio (Translated1) (HLS)
+#DESCRIPTION Haecksen Audio (Translated1) (HLS)
+#SERVICE 4097:256:0:6282:461b:f292:8c3fddc2:0:0:0:https%3a//cdn.c3voc.de/hls/haecksen/segment_Translated-2.m3u8:Haecksen Audio (Translated2) (HLS)
+#DESCRIPTION Haecksen Audio (Translated2) (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Gehacktes from Hell / Bierscheune - Channels - rC3 NOWHERE
+#DESCRIPTION Gehacktes from Hell / Bierscheune - Channels - rC3 NOWHERE
+#SERVICE 4097:256:0:8774:5751:363:7b4e16b1:0:0:0:https%3a//cdn.c3voc.de/hls/gehacktes/segment_Native.m3u8:Gehacktes from Hell / Bierscheune Audio (HLS)
+#DESCRIPTION Gehacktes from Hell / Bierscheune Audio (HLS)
+#SERVICE 4097:256:0:8774:5751:363:7b4e16b1:0:0:0:https%3a//cdn.c3voc.de/hls/gehacktes/segment_Translated.m3u8:Gehacktes from Hell / Bierscheune Audio (Translated1) (HLS)
+#DESCRIPTION Gehacktes from Hell / Bierscheune Audio (Translated1) (HLS)
+#SERVICE 4097:256:0:8774:5751:363:7b4e16b1:0:0:0:https%3a//cdn.c3voc.de/hls/gehacktes/segment_Translated-2.m3u8:Gehacktes from Hell / Bierscheune Audio (Translated2) (HLS)
+#DESCRIPTION Gehacktes from Hell / Bierscheune Audio (Translated2) (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::xHain Lichtung - Channels - rC3 NOWHERE
+#DESCRIPTION xHain Lichtung - Channels - rC3 NOWHERE
+#SERVICE 4097:256:0:f2e3:acbd:c429:c533de64:0:0:0:https%3a//cdn.c3voc.de/hls/xhain/segment_Native.m3u8:xHain Lichtung Audio (HLS)
+#DESCRIPTION xHain Lichtung Audio (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Infobeamer - Info - rC3 NOWHERE
+#DESCRIPTION Infobeamer - Info - rC3 NOWHERE
+#SERVICE 4097:256:0:e0a0:c190:782b:c2095fd:0:0:0:https%3a//cdn.c3voc.de/hls/infobeamer/segment_Native.m3u8:Infobeamer Audio (HLS)
+#DESCRIPTION Infobeamer Audio (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::rC3 Lounge - Music - rC3 NOWHERE
+#DESCRIPTION rC3 Lounge - Music - rC3 NOWHERE
+#SERVICE 4097:256:0:d10b:7947:49d4:51609f2e:0:0:0:https%3a//cdn.c3voc.de/hls/c3lounge/segment_Native.m3u8:rC3 Lounge Audio (HLS)
+#DESCRIPTION rC3 Lounge Audio (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Abchillgleis - Music - rC3 NOWHERE
+#DESCRIPTION Abchillgleis - Music - rC3 NOWHERE
+#SERVICE 4097:256:0:cc1f:2e28:f9b3:3e366e18:0:0:0:https%3a//cdn.c3voc.de/hls/abchillgleis/segment_Native.m3u8:Abchillgleis Audio (HLS)
+#DESCRIPTION Abchillgleis Audio (HLS)
