@@ -382,7 +382,7 @@ def service_type_for_enigma_version(dvb_service_type):
     return eServiceReference.idGST
 
 
-def update_streams_v2(url):
+def update_streams_v2(url="https://streaming.media.ccc.de/streams/v2.json"):
     changed = False
 
     streams = fetch_json(url)
