@@ -22,6 +22,7 @@ requests = "^2"
 fakenigma = "^0.1.0"
 time-machine = { version = "^2.5", python = "^3.6" }
 xmlschema = { version = "^1.9", python = "^3.6" }
+pre-commit = "1.21.0"
 
 [tool.poetry.scripts]
 c3vocupdate = "c3voc:update_streams_v2"
