@@ -2,6 +2,9 @@
 line-length = 100
 target-version = ['py27']
 
+[tool.isort]
+profile = "black"
+
 [tool.poetry]
 name = "e2voc"
 version = "0.1.1"
