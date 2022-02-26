@@ -14,6 +14,7 @@ import sqlite3
 import sys
 import tempfile
 import unittest
+from functools import partial
 from unittest.mock import Mock, patch
 from urllib.parse import urlparse
 from xml.etree import ElementTree
@@ -37,9 +38,9 @@ logging.basicConfig(level=logging.DEBUG)
 DATADIR = os.path.join(os.path.dirname(__file__), "data")
 
 
-def local_fetch_xml(url):
+def local_fetch_xml(hostname, url):
     u = urlparse(url)
-    if u.hostname == "data.c3voc.de":
+    if u.hostname == hostname:
         assert u.path.startswith("/")
         filename = os.path.join(DATADIR, u.path[1:])
 
@@ -55,7 +56,6 @@ def local_fetch_xml(url):
         return ElementTree.parse(filename).getroot()
 
 
-@patch.object(c3voc, "fetch_xml", local_fetch_xml)
 class TestUpdateStreamsV2(unittest.TestCase):
     def _test_conference(self, conference):
         conference_dir = os.path.join(DATADIR, conference)
@@ -85,8 +85,15 @@ class TestUpdateStreamsV2(unittest.TestCase):
                 for fn in errors:
                     dst = os.path.join(conference_dir, fn)
                     assert not os.path.exists(dst)
+
+                    src = os.path.join(tmpdir, fn)
+                    if not os.path.exists(src):
+                        logging.warning(f"Skipping {fn}")
+                        files.remove(fn)
+                        continue
+
                     logging.warning(f"Installing reference copy of {fn} to {dst}")
-                    shutil.copyfile(os.path.join(tmpdir, fn), dst)
+                    shutil.copyfile(src, dst)
 
                 for fn in mismatch:
                     with open(os.path.join(conference_dir, fn), "r") as fh:
@@ -96,17 +103,24 @@ class TestUpdateStreamsV2(unittest.TestCase):
                     diff = difflib.unified_diff(a, b, fromfile="a/" + fn, tofile="b/" + fn)
                     sys.stdout.writelines(diff)
 
-                assert not mismatch
+                assert not mismatch, repr(mismatch)
                 assert set(match) == files
 
+    @patch.object(c3voc, "fetch_xml", partial(local_fetch_xml, "data.c3voc.de"))
     def test_33C3(self):
         self._test_conference("33C3")
 
+    @patch.object(c3voc, "fetch_xml", partial(local_fetch_xml, "data.c3voc.de"))
     def test_rC3(self):
         self._test_conference("rC3")
 
+    @patch.object(c3voc, "fetch_xml", partial(local_fetch_xml, "data.c3voc.de"))
     def test_rC3_21(self):
         self._test_conference("rC3_21")
+
+    @patch.object(c3voc, "fetch_xml", partial(local_fetch_xml, "cfp.winterkongress.ch"))
+    def test_wk22(self):
+        self._test_conference("wk22")
 
 
 if __name__ == "__main__":

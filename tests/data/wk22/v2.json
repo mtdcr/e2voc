@@ -1,0 +1,290 @@
+[
+    {
+        "conference": "Winterkongress 2022",
+        "slug": "winterkongress2022",
+        "author": "Digitale Gesellschaft",
+        "description": "Winterkongress ist das jährliche Treffen der Digitalen Gesellschaft",
+        "keywords": "",
+        "schedule": "https://cfp.winterkongress.ch/wk22/schedule/export/schedule.xml",
+        "startsAt": "2022-02-25T17:30:00+0000",
+        "endsAt": "2022-02-26T22:30:00+0000",
+        "isCurrentlyStreaming": true,
+        "groups": [
+            {
+                "group": "Lecture Rooms",
+                "rooms": [
+                    {
+                        "slug": "aktionshalle",
+                        "schedulename": "Aktionshalle",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/winterkongress1/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/winterkongress1/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/winterkongress2022/aktionshalle",
+                        "display": "Aktionshalle",
+                        "stream": "winterkongress1",
+                        "talks": {
+                            "current": {
+                                "fstart": "2022-02-26T13:45:00+01:00",
+                                "fend": "2022-02-26T14:45:00+01:00",
+                                "tstart": "13:45",
+                                "tend": "14:45",
+                                "start": 1645879500,
+                                "end": 1645883100,
+                                "offset": 3600,
+                                "duration": 3600,
+                                "special": "pause",
+                                "title": "60 minutes pause",
+                                "room_known": true
+                            },
+                            "next": {
+                                "fstart": "2022-02-26T14:45:00+01:00",
+                                "fend": "2022-02-26T15:15:00+01:00",
+                                "tstart": "14:45",
+                                "tend": "15:15",
+                                "start": 1645883100,
+                                "end": 1645884900,
+                                "offset": 3600,
+                                "duration": 1800,
+                                "title": "E-ID: wo stehen wir ein Jahr nach dem Referendum und wo geht die Reise hin?",
+                                "speaker": "Gerhard Andrey",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "hls-native",
+                                "display": "Aktionshalle ",
+                                "type": "hls",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "hls-translated",
+                                "display": "Aktionshalle  (Translated)",
+                                "type": "hls",
+                                "isTranslated": true,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "Aktionshalle FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/winterkongress1/native_hd.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-translated",
+                                "display": "Aktionshalle FullHD Video (Translated)",
+                                "type": "video",
+                                "isTranslated": true,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/winterkongress1/translated_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "clubraum",
+                        "schedulename": "Clubraum",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/winterkongress2/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/winterkongress2/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/winterkongress2022/clubraum",
+                        "display": "Clubraum",
+                        "stream": "winterkongress2",
+                        "talks": {
+                            "current": {
+                                "fstart": "2022-02-26T13:45:00+01:00",
+                                "fend": "2022-02-26T14:45:00+01:00",
+                                "tstart": "13:45",
+                                "tend": "14:45",
+                                "start": 1645879500,
+                                "end": 1645883100,
+                                "offset": 3600,
+                                "duration": 3600,
+                                "special": "pause",
+                                "title": "60 minutes pause",
+                                "room_known": true
+                            },
+                            "next": {
+                                "fstart": "2022-02-26T14:45:00+01:00",
+                                "fend": "2022-02-26T15:15:00+01:00",
+                                "tstart": "14:45",
+                                "tend": "15:15",
+                                "start": 1645883100,
+                                "end": 1645884900,
+                                "offset": 3600,
+                                "duration": 1800,
+                                "title": "NDG: Rück- und Ausblicke zum Nachrichtendienstgesetz des Bundes",
+                                "speaker": "Valentina Stefanović",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "hls-native",
+                                "display": "Clubraum ",
+                                "type": "hls",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "hls-translated",
+                                "display": "Clubraum  (Translated)",
+                                "type": "hls",
+                                "isTranslated": true,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "Clubraum FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/winterkongress2/native_hd.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-translated",
+                                "display": "Clubraum FullHD Video (Translated)",
+                                "type": "video",
+                                "isTranslated": true,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/winterkongress2/translated_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "proberaum",
+                        "schedulename": "Proberaum",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/winterkongress3/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/winterkongress3/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/winterkongress2022/proberaum",
+                        "display": "Proberaum",
+                        "stream": "winterkongress3",
+                        "talks": {
+                            "current": {
+                                "fstart": "2022-02-26T13:45:00+01:00",
+                                "fend": "2022-02-26T14:45:00+01:00",
+                                "tstart": "13:45",
+                                "tend": "14:45",
+                                "start": 1645879500,
+                                "end": 1645883100,
+                                "offset": 3600,
+                                "duration": 3600,
+                                "special": "pause",
+                                "title": "60 minutes pause",
+                                "room_known": true
+                            },
+                            "next": {
+                                "fstart": "2022-02-26T14:45:00+01:00",
+                                "fend": "2022-02-26T15:15:00+01:00",
+                                "tstart": "14:45",
+                                "tend": "15:15",
+                                "start": 1645883100,
+                                "end": 1645884900,
+                                "offset": 3600,
+                                "duration": 1800,
+                                "title": "Ethische Aspekte von Emotional AI",
+                                "speaker": "Tanja Klankert",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "hls-native",
+                                "display": "Proberaum ",
+                                "type": "hls",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "hls-translated",
+                                "display": "Proberaum  (Translated)",
+                                "type": "hls",
+                                "isTranslated": true,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "Proberaum FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/winterkongress3/native_hd.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-translated",
+                                "display": "Proberaum FullHD Video (Translated)",
+                                "type": "video",
+                                "isTranslated": true,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/winterkongress3/translated_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

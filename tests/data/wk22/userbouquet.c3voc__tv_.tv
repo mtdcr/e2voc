@@ -1,0 +1,19 @@
+#NAME c3voc (TV)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Aktionshalle - Lecture Rooms - Winterkongress 2022
+#DESCRIPTION Aktionshalle - Lecture Rooms - Winterkongress 2022
+#SERVICE 8739:256:0:bf8e:b667:192:9c91124d:0:0:0:https%3a//cdn.c3voc.de/hls/winterkongress1/native_hd.m3u8:Aktionshalle FullHD Video (HLS)
+#DESCRIPTION Aktionshalle FullHD Video (HLS)
+#SERVICE 8739:256:0:bf8e:b667:192:9c91124d:0:0:0:https%3a//cdn.c3voc.de/hls/winterkongress1/translated_hd.m3u8:Aktionshalle FullHD Video (Translated) (HLS)
+#DESCRIPTION Aktionshalle FullHD Video (Translated) (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Clubraum - Lecture Rooms - Winterkongress 2022
+#DESCRIPTION Clubraum - Lecture Rooms - Winterkongress 2022
+#SERVICE 8739:256:0:41ce:909f:f1f0:62a4be4d:0:0:0:https%3a//cdn.c3voc.de/hls/winterkongress2/native_hd.m3u8:Clubraum FullHD Video (HLS)
+#DESCRIPTION Clubraum FullHD Video (HLS)
+#SERVICE 8739:256:0:41ce:909f:f1f0:62a4be4d:0:0:0:https%3a//cdn.c3voc.de/hls/winterkongress2/translated_hd.m3u8:Clubraum FullHD Video (Translated) (HLS)
+#DESCRIPTION Clubraum FullHD Video (Translated) (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Proberaum - Lecture Rooms - Winterkongress 2022
+#DESCRIPTION Proberaum - Lecture Rooms - Winterkongress 2022
+#SERVICE 8739:256:0:b0bc:1f48:812a:d800a806:0:0:0:https%3a//cdn.c3voc.de/hls/winterkongress3/native_hd.m3u8:Proberaum FullHD Video (HLS)
+#DESCRIPTION Proberaum FullHD Video (HLS)
+#SERVICE 8739:256:0:b0bc:1f48:812a:d800a806:0:0:0:https%3a//cdn.c3voc.de/hls/winterkongress3/translated_hd.m3u8:Proberaum FullHD Video (Translated) (HLS)
+#DESCRIPTION Proberaum FullHD Video (Translated) (HLS)

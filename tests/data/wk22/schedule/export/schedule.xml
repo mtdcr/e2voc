@@ -1,0 +1,964 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!-- Made with love by pretalx v2.3.1post0. -->
+<schedule>
+    <generator name="pretalx" version="2.3.1post0" />
+    <version>0.9.17</version>
+    <conference>
+        <acronym>wk22</acronym>
+        <title>Winterkongress</title>
+        <start>2022-02-25</start>
+        <end>2022-02-26</end>
+        <days>2</days>
+        <timeslot_duration>00:05</timeslot_duration>
+        <base_url>https://cfp.winterkongress.ch/wk22/schedule/</base_url>
+        <time_zone_name>Europe/Zurich</time_zone_name>
+    </conference>
+    <day index='1' date='2022-02-25' start='2022-02-25T04:00:00+01:00' end='2022-02-26T03:59:00+01:00'>
+        <room name='Aktionshalle'>
+            <event guid='733fbd43-da7a-59b4-8baa-fd46b6c2b90a' id='14631'>
+                <date>2022-02-25T19:00:00+01:00</date>
+                <start>19:00</start>
+                <duration>00:15</duration>
+                <room>Aktionshalle</room>
+                <slug>wk22-14631-erffnung-freitag</slug>
+                <url>https://cfp.winterkongress.ch/wk22/talk/Y3NPDN/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Er&#246;ffnung Freitag</title>
+                <subtitle></subtitle>
+                <track>Andere</track>
+                <type>Moderation</type>
+                <language>de</language>
+                <abstract>Dies ist die Er&#246;ffnung am Freitag.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='7877'>Eliane Antonia Maurer</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='e08e5ac0-33ed-5917-abb2-63aeb41542b8' id='13474'>
+                <date>2022-02-25T19:15:00+01:00</date>
+                <start>19:15</start>
+                <duration>00:45</duration>
+                <room>Aktionshalle</room>
+                <slug>wk22-13474-schweizer-freiwild-die-whistleblowerin</slug>
+                <url>https://cfp.winterkongress.ch/wk22/talk/UQUT7T/</url>
+                <recording>
+                    <license></license>
+                    <optout>true</optout>
+                </recording>
+                <title>Schweizer Freiwild: die Whistleblowerin</title>
+                <subtitle></subtitle>
+                <track>Ethik, Wissenschaft, Kultur &amp; Gesellschaft</track>
+                <type>Vortrag</type>
+                <language>de</language>
+                <abstract>Der &#220;berwachung trotzen und Missst&#228;nde &#246;ffentlich machen: was Whistleblowerinnen erleben, und was wir tun k&#246;nnen, um sie zu sch&#252;tzen</abstract>
+                <description>Heldin oder Verr&#228;terin? Wenn es um Whistleblowing geht, gibt es oft nur schwarz oder weiss. Dabei sind liberal-demokratische Gesellschaften angewiesen auf Whistleblowerinnen, die Missst&#228;nde &#246;ffentlich machen. Nur: Wer hierzulande Missst&#228;nde &#246;ffentlich macht in Unternehmen, Beh&#246;rden und insbesondere im Sicherheitsappart, riskiert ernste Konsequenzen. 
+
+Gemeinsam mit einer Anw&#228;ltin, Whistleblowerinnen und dem Publikum diskutieren wir:
+- die Bedeutung von Whistleblowing in der Schweiz
+- wie Whistleblowerinnen trotz &#220;berwachung gesch&#252;tzt werden k&#246;nnen
+- was es heisst in die Schlagzeilen rund um den Globus zu geraten und wie es nach dem (digitalem) Sturm weitergeht
+
+Mit dabei:
+Lisa Ling. Ling diente im US-Milit&#228;r als technische Unteroffizierin f&#252;r Drohnen&#252;berwachungssysteme, bevor sie 2012 ehrenhaft entlassen wurde. Sie ist in dem 2016 erschienenen Dokumentarfilm &#171;National Bird&#187; &#252;ber die Drohnenkriege zu sehen.
+
+Kim Mauerhofer. Die Anw&#228;l&#173;tin Kim Mau&#173;er&#173;ho&#173;fer ver&#173;tei&#173;digt Whist&#173;leb&#173;lo&#173;we&#173;rin&#173;nen vor Gericht; sie berichtet im Werk&#173;statt&#173;ge&#173;spr&#228;ch mit der Inves&#173;ti&#173;ga&#173;tiv-Repor&#173;te&#173;rin Syl&#173;ke Gruhn&#173;wald aus ihrer all&#173;t&#228;g&#173;li&#173;chen Arbeit mit Whistleblowerinnen.</description>
+                <logo></logo>
+                <persons>
+                    <person id='14413'>Sylke Gruhnwald</person><person id='17089'>Kim Mauerhofer</person><person id='17090'>Lisa Ling</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='e16e3c09-98cd-502d-bd66-8903677932e7' id='14317'>
+                <date>2022-02-25T20:15:00+01:00</date>
+                <start>20:15</start>
+                <duration>00:30</duration>
+                <room>Aktionshalle</room>
+                <slug>wk22-14317-datenschutzverletzung-ich-fordere-250-000-franken-busse-</slug>
+                <url>https://cfp.winterkongress.ch/wk22/talk/ZGEX3M/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Datenschutzverletzung: Ich fordere 250&apos;000 Franken Busse!</title>
+                <subtitle></subtitle>
+                <track>Recht &amp; Politik</track>
+                <type>Vortrag kurz</type>
+                <language>de</language>
+                <abstract>In K&#252;rze tritt das neue Datenschutzgesetz in der Schweiz in Kraft. Der Vortrag zeigt, mit welchen neuen Mitteln betroffene Personen ihre Anspr&#252;che durchsetzen k&#246;nnen.</abstract>
+                <description>Du hast Auskunft &#252;ber Deine Daten verlangt, aber keine Daten erhalten. Du stellst fest, dass Deine Daten in die USA exportiert wurden, ohne Dich zu informieren. Oder Du bist das Opfer von Identit&#228;tsmissbrauch geworden. Und Du hast geh&#246;rt, dass mit dem neuen Datenschutzgesetz in der Schweiz bei Datenschutzverletzungen Bussen von bis zu 250&apos;000 Franken drohen.
+
+Aber wie musst Du vorgehen, um Deine Anspr&#252;che aus dem neuen Datenschutzgesetz durchzusetzen?
+
+Der Vortrag zeigt, welche Mittel Dir das neue Datenschutzgesetz in die Hand gibt, um Deine Anspr&#252;che durchzusetzen, auch ohne Anw&#228;ltin oder Anwalt.</description>
+                <logo></logo>
+                <persons>
+                    <person id='15358'>Martin Steiger</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='287c3193-9f7a-5013-ba08-48e5e403894b' id='14457'>
+                <date>2022-02-25T21:00:00+01:00</date>
+                <start>21:00</start>
+                <duration>00:30</duration>
+                <room>Aktionshalle</room>
+                <slug>wk22-14457-virtuelle-demokratie-ein-neues-betriebssystem-fr-unseren-planeten</slug>
+                <url>https://cfp.winterkongress.ch/wk22/talk/Y83FXU/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Virtuelle Demokratie &#8211; ein neues Betriebssystem f&#252;r unseren Planeten</title>
+                <subtitle></subtitle>
+                <track>Recht &amp; Politik</track>
+                <type>Vortrag kurz</type>
+                <language>de</language>
+                <abstract>Die Tech-Konzerne sind daran, virtuelle R&#228;ume zu bauen, die bald unser politisches Koordinatensystem &#252;berschreiben. Deshalb ist es h&#246;chste Zeit, &#252;ber ein Update nachzudenken: die globale Demokratie.</abstract>
+                <description>Politische Systeme sind verkn&#252;pft mit historisch gewachsenen R&#228;umen &#8211; wie beispielsweise die Nationalstaaten. Bereits das Internet und die sozialen Medien haben dieses Koordinatensystem durcheinander gewirbelt. Jetzt machen sich die Tech-Konzerne daran, neue virtuelle R&#228;ume zu bauen, die in wenigen Jahren mit unserem &#171;Alltag&#187; verschmelzen sollen.
+
+Mit den Meta-Welten ist es eine Frage der Zeit, bis das globale Politsystem ein Update erhalten wird. Was wird es sein? Eine Kopie der jetzigen &#171;Balance of Power&#187;? Oder setzen sich Modelle wie die EU oder China durch? 
+
+Heute haben wir die Chance, gemeinsam den Code f&#252;r einen Menschheitstraum zu schreiben: f&#252;r die Globale Demokratie. Aber die Uhr tickt. Ohne Prototypen rennen wir den Tech-Konzerne nur hinterher. Denn bereits ist klar: Wir m&#252;ssen die virtuelle Realit&#228;t zur&#252;ckerobern.</description>
+                <logo></logo>
+                <persons>
+                    <person id='6884'>Daniel Graf</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            
+        </room>
+        <room name='Clubraum'>
+            <event guid='8fdc2936-5c9e-5ec0-a7fe-068da4f68113' id='14442'>
+                <date>2022-02-25T19:15:00+01:00</date>
+                <start>19:15</start>
+                <duration>00:45</duration>
+                <room>Clubraum</room>
+                <slug>wk22-14442-glaubt-nicht-jeden-zauberspruch-aus-dem-metaverse-</slug>
+                <url>https://cfp.winterkongress.ch/wk22/talk/YNMWC7/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Glaubt nicht jeden Zauberspruch aus dem Metaverse!</title>
+                <subtitle></subtitle>
+                <track>Ethik, Wissenschaft, Kultur &amp; Gesellschaft</track>
+                <type>Vortrag</type>
+                <language>de</language>
+                <abstract>Von Matrix bis Metaverse: Geschichten &#252;ber die **Digitale Zukunft** ziehen uns alle in ihren Bann; egal, ob Marketing-Profis oder Science-Fiction Autor\*innen sie spinnen. Diese Session zeigt, wie **Erz&#228;hlmuster** zu **gef&#228;hrlichen Glaubenss&#228;tze**n werden k&#246;nnen und regt an, d&#252;stere Zukunftsszenarien **zu inspirierenden Visionen** umzubauen.</abstract>
+                <description>**&#171;Big Brother is watching you&#187;** geh&#246;rt zu den bekanntesten Zitaten der Weltliteratur. &#171;Die KI wird mindestens die H&#228;lfte aller Arbeitspl&#228;tze vernichten&#187;, rufen uns Schlagzeilen regelm&#228;ssig zu. Solche - schon fast mantra-artig wiederholten -  **Floskeln** gaukeln uns vor, es sei bereits klar, wohin &quot;die Digitalisierung&quot; unaufhaltbar f&#252;hre: Direkt in die gruselige Welt von &quot;1984&quot; oder alternativ in ein buntes &quot;Metaverse&quot; voller Konsumzombies. 
+Doch **Digitalisierung ist kein Schicksal**. Wir k&#246;nnen (und m&#252;ssen) unsere Zukunft selber gestalten. Dazu sollten wir aber **Digitale M&#252;ndigkeit** anstreben, und daf&#252;r brauchen wir **mehr als nur technische Digitalkompetenzen**. Also erkunden wir in diesem Referat:
+
+* Welches die gef&#228;hrlichsten &quot;Zauberspr&#252;che&quot; zur Digitalisierung sind
+* Wieso wir das Internet vor dem Metaverse retten m&#252;ssen
+* Wie digitale Ethik hilft, w&#252;nschenswerte Zukunfts-Visionen zu verwirklichen
+
+### **Ziele der Session**:
+
+Die Teilnehmer\*innen 
+
+* durchschauen die rhethorischen **Zaubertricks** der Big-Tech-Evangelisten
+* erkennen die **Macht von Geschichten** f&#252;r den Digitalen Wandel und k&#246;nnen sie konstruktiv nutzen.</description>
+                <logo></logo>
+                <persons>
+                    <person id='7844'>Chris B&#252;hler</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='439b7947-0335-5e0c-a3d4-4eeb49423005' id='14262'>
+                <date>2022-02-25T20:15:00+01:00</date>
+                <start>20:15</start>
+                <duration>00:30</duration>
+                <room>Clubraum</room>
+                <slug>wk22-14262-ai-fairness-erfahrungen-aus-der-praxis</slug>
+                <url>https://cfp.winterkongress.ch/wk22/talk/R97UST/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>AI Fairness - Erfahrungen aus der Praxis</title>
+                <subtitle></subtitle>
+                <track>Ethik, Wissenschaft, Kultur &amp; Gesellschaft</track>
+                <type>Vortrag kurz</type>
+                <language>de</language>
+                <abstract>Der zunehmende Einsatz von Systemen, die basierend auf K&#252;nstlicher Intelligenz (KI) (teil)automatisiert entscheiden, f&#252;hrt aktuell zu einer verst&#228;rkten &#246;ffentlichen Debatte. Einerseits wird eine &#220;berpr&#252;fung dieser Systeme auf &#171;Fairness&#187; gefordert (z.B. im Regulierungsvorschlag der EU), andererseits besteht eine Implementierungsl&#252;cke bez&#252;glich der Schaffung und &#220;berpr&#252;fung fairer KI-Systeme. Mit unserem Vortrag m&#246;chten wir die wichtigsten Erkenntnisse aus unserer Arbeit vorstellen, das Publikum f&#252;r die Komplexit&#228;t des Themas sensibilisieren und einen gesamtgesellschaftlichen Dialog anregen.</abstract>
+                <description>Aktuell beobachten wir eine verst&#228;rkte Entwicklung von Systemen, die auf K&#252;nstlicher Intelligenz (KI) basieren &#8211; u.a. aufgrund von Automatisierung in zahlreichen Lebensbereichen. Darunter sind insbesondere solche Systeme, die den Menschen in der Entscheidungsfindung unterst&#252;tzen sollen, sogenannte &#171;automated decisionmaking&#187; (ADM) Systeme. Der Prozess einer (teil)automatisierten Entscheidungsfindung basierend auf KI ist nicht immer direkt nachvollziehbar und kann zu unerw&#252;nschten Eigenschaften wie Ungerechtigkeit bzw. Ungleichbehandlung f&#252;hren. Diese Risiken wurden bereits vor einigen Jahren erkannt. So ist &#171;Fairness&#187; eines der f&#252;nf Prinzipien, welche die meisten der &#252;ber 150 AI Prinzipien, die seit ca. 2018 verfasst wurden, gemeinsam haben. Auch der Regulationsentwurf der EU (EU AI Act) sieht eine &#220;berpr&#252;fung von KI-Systemen auf Bias vor. Die Bedeutung von vertrauensw&#252;rdiger KI kommt immer mehr in der Gesellschaft und bei den Entwickler:innen von KI an, dennoch scheint an vielen Stellen unklar, wie man faire ADM Systeme schafft und bewertet. Es gibt hier eine Implementierungsl&#252;cke. 
+
+Als Beraterinnen mit Fokus auf vertrauensw&#252;rdige KI haben wir im &#246;ffentlichen und privaten Sektor KI Systeme evaluiert und m&#246;chten unsere Key Learnings teilen. Dabei fokussieren wir uns auf folgende Themen:
+
+1)	Quantifizierung von AI Fairness und Relevanz der Ergebnisse (&#171;So What?&#187;)
+2)	Die Rolle von Ethik vs. Recht in der Evaluation von AI Fairness 
+3)	Der Bedarf an interdisziplin&#228;ren Ans&#228;tzen zur Beurteilung von AI Fairness und Ausbildungskonzepten 
+
+
+Mit unserem Vortrag m&#246;chten wir das Publikum f&#252;r die Komplexit&#228;t des Themas sensibilisieren und einen gesamtgesellschaftlichen Dialog anregen.</description>
+                <logo></logo>
+                <persons>
+                    <person id='15290'>Sophia Ding</person><person id='15645'>Belinda M&#252;ller</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='2575963d-44dc-51fe-aecf-ae4fffdd708a' id='14264'>
+                <date>2022-02-25T21:00:00+01:00</date>
+                <start>21:00</start>
+                <duration>00:45</duration>
+                <room>Clubraum</room>
+                <slug>wk22-14264-ada-zangemann-ein-mrchen-ber-software-skateboards-und-himbeereis</slug>
+                <url>https://cfp.winterkongress.ch/wk22/talk/VAVEX8/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Ada &amp; Zangemann:  Ein M&#228;rchen &#252;ber Software, Skateboards und Himbeereis</title>
+                <subtitle></subtitle>
+                <track>Digitale Selbstverteidigung</track>
+                <type>Vortrag</type>
+                <language>de</language>
+                <abstract>In einer riesigen Villa hoch oben &#252;ber der Stadt lebt der ber&#252;hmte Erfinder Zangemann. Erwachsene wie Kinder lieben seine Erfindungen und wollen sie unbedingt haben. Doch dann geschieht etwas: Zangemann kommt in die Stadt, um seine Erfindungen wieder einmal aus der N&#228;he zu betrachten und &#8211; RUMMS! &#8211; ein Kind f&#228;hrt ihm mit seinem Skateboard gegen das Schienbein. Wutentbrannt trifft der Erfinder eine Entscheidung und dann passieren merkw&#252;rdige Dinge ... Aber das kluge M&#228;dchen Ada durchschaut, was vor sich geht. Gemeinsam mit ihren Freund:innen schmiedet sie einen Plan.</abstract>
+                <description>Lesung des Buches mit wundersch&#246;nen Illustrationen von Sandra Brandst&#228;tter (u.a. Character-Designerin f&#252;r die Serie &#187;Trudes Tier&#171;, Sendung mit der Maus). Das Buch ist ein modernes M&#228;rchen, das die Freude am T&#252;fteln vermittelt und zum selbstbestimmten Umgang mit Software aufruft: f&#252;r Kinder ab 6 Jahren. Eine charmante Geschichte, die auch Erwachsenen Spa&#223; macht.</description>
+                <logo></logo>
+                <persons>
+                    <person id='286'>Matthias Kirschner</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            
+        </room>
+        
+    </day>
+    <day index='2' date='2022-02-26' start='2022-02-26T04:00:00+01:00' end='2022-02-27T03:59:00+01:00'>
+        <room name='Aktionshalle'>
+            <event guid='5849f051-971d-5efa-a062-2dee73f34709' id='14632'>
+                <date>2022-02-26T11:00:00+01:00</date>
+                <start>11:00</start>
+                <duration>00:15</duration>
+                <room>Aktionshalle</room>
+                <slug>wk22-14632-erffnung-samstag</slug>
+                <url>https://cfp.winterkongress.ch/wk22/talk/ELHQ8V/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Er&#246;ffnung Samstag</title>
+                <subtitle></subtitle>
+                <track>Andere</track>
+                <type>Moderation</type>
+                <language>de</language>
+                <abstract>Dies ist die Er&#246;ffnung am Samstag.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='7877'>Eliane Antonia Maurer</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='1a5ad17e-20c3-53a9-9e26-9aab0aa0f97c' id='14630'>
+                <date>2022-02-26T11:15:00+01:00</date>
+                <start>11:15</start>
+                <duration>00:30</duration>
+                <room>Aktionshalle</room>
+                <slug>wk22-14630-algorithmische-diskriminierung-regulierung-durch-transparenz-</slug>
+                <url>https://cfp.winterkongress.ch/wk22/talk/BXPH7G/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Algorithmische Diskriminierung: Regulierung durch Transparenz?</title>
+                <subtitle></subtitle>
+                <track>Andere</track>
+                <type>Keynote</type>
+                <language>de</language>
+                <abstract>Die EU will K&#252;nstliche Intelligenz regulieren. Auch der Europarat arbeitet an Spielregeln f&#252;r algorithmische Systeme. Hierbei zeigt der Stand der Wissenschaft, dass die derzeit im Zusammenhang mit KI-Regulierung geforderte Transparenz algorithmischer Systeme als Gegenmassnahme nicht immer ausreicht. Die Keynote stellt Vorschl&#228;ge f&#252;r Prinzipien und Methoden vor, die effektiver sein k&#246;nnten, um Diskriminierung zu vermeiden oder einzud&#228;mmen.</abstract>
+                <description>Algorithmische Systeme unterscheiden, also &#171;diskriminieren&#187;, in vielerei Weise, und solche Unterscheidungen k&#246;nnen zu im rechtlichen oder ethischen Sinne unzul&#228;ssiger Diskriminierung f&#252;hren. In den vergangenen Jahren ist diese Problematik vor allem in Hinblick auf den Einsatz K&#252;nstlicher Intelligenz diskutiert worden. In diesem Vortrag gebe ich einen kurzen &#220;berblick &#252;ber technische Gr&#252;nde und auch &#252;ber das sehr aktive informatische und interdisziplin&#228;re Forschungsfeld, welches Methoden der Entdeckung und Vermeidung solch unerw&#252;nschter Unterscheidungen entwickelt. Ich stelle relevante Konzepte vor (algorithmische Diskriminierung, Bias, Fairness, ...) und zeige beispielhaft, wie Diskriminierung aus Daten, Algorithmen und sozio-technischen Systemen resultieren kann. Hierbei zeigt der Stand der Wissenschaft, dass die derzeit im Zusammenhang mit KI-Regulierung geforderte Transparenz algorithmischer Systeme als Gegenmassnahme nicht immer ausreicht. Ich stelle Vorschl&#228;ge f&#252;r Prinzipien und Methoden vor, die effektiver sein k&#246;nnten, um Diskriminierung zu vermeiden oder einzud&#228;mmen.</description>
+                <logo></logo>
+                <persons>
+                    <person id='15737'>Bettina Berendt</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='ede1d02b-ffbb-565c-8561-235e0c47b2f7' id='13695'>
+                <date>2022-02-26T12:00:00+01:00</date>
+                <start>12:00</start>
+                <duration>00:45</duration>
+                <room>Aktionshalle</room>
+                <slug>wk22-13695-automated-decision-making-der-regulierungsvorschlag-der-digitalen-gesellschaft</slug>
+                <url>https://cfp.winterkongress.ch/wk22/talk/YFVWA7/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Automated Decision-Making - Der Regulierungsvorschlag der Digitalen Gesellschaft</title>
+                <subtitle></subtitle>
+                <track>Ethik, Wissenschaft, Kultur &amp; Gesellschaft</track>
+                <type>Vortrag</type>
+                <language>de</language>
+                <abstract>Systeme f&#252;r automatisierte Entscheidungen (ADM-Systeme) sind im gesellschaftlichen Alltag angekommen. Diese Algorithmen reproduzieren die Normen und Werte jener, die sie einsetzen und programmieren und wirken dadurch als sozio-&#246;konomischer Spiegel der Gesellschaft. Sie sind also weder neutral noch objektiv. Es entsteht eine Komplexit&#228;t mit grossem Zukunftspotential aber auch nur schwer absch&#228;tzbarem Risiko. Wir illustrieren die Grundproblematiken und diskutieren den Regulierungsvorschlag der Digitalen Gesellschaft, der bei problematischen F&#228;llen ein demokratisches Eingreifen erm&#246;glicht.</abstract>
+                <description>Systeme f&#252;r automatisierte Entscheidungen (ADM-Systeme) sind im gesellschaftlichen Alltag angekommen. Individuen werden im Verlauf eines Tages immer wieder mit den Resultaten einer automatisierten Entscheidung konfrontiert &#8211; meist ohne dies aktiv zu bemerken. So handelt die Bank Aktien in meinem Portfolio auf Basis von algorithmischen Entscheiden, das Newsportal zeigt mir eine andere Front-Headline als meinem Nachbarn und Spotify schl&#228;gt auf meinen Geschmack angepasste Musik vor. All diese Abw&#228;gungsentscheide werden nicht l&#228;nger von Menschen, sondern von Computeralgorithmen getroffen. Viele dieser Algorithmen&#160;werden heute als &quot;Blackbox&quot; bezeichnet - da kaum jemand ihre genaue Funktionsweise kennt. Sie reproduzieren die Normen, Werte und Annahmen jener, die sie einsetzen und programmieren und wirken dadurch als sozio-&#246;konomischer Spiegel der Gesellschaft. Algorithmen sind also weder neutral noch objektiv. Dadurch schaffen ADM-Systeme eine neue opake &#171;[Dunkelheit in der hypermodernen Welt](https://www.nzz.ch/meinung/kuenstliche-intelligenz-neue-dunkelheit-in-der-hypermodernen-welt-ld.1635147?reduced=true)&#187;.&#160;Es entsteht eine Komplexit&#228;t mit nur schwer absch&#228;tzbarem Risiko. Auf der anderen Seite darf das enorme Potenzial von ADM-Systemen f&#252;r Wirtschaft, Gesellschaft und Verwaltung nicht untersch&#228;tzt und unn&#246;tig gebremst werden, auch um die Wettbewerbsf&#228;higkeit des Wirtschafts- und Forschungsstandortes Schweiz nicht zu gef&#228;hrden.
+
+In dieser Veranstaltung illustrieren wir die entstehenden Problematiken und diskutieren den &lt;a href=&quot;https://www.digitale-gesellschaft.ch/uploads/2022/02/Position-der-Digitalen-Gesellschaft-zur-Regulierung-von-automatisierten-Entscheidungssystemen-1.0.pdf&quot;&gt;Regulierungsvorschlag der Digitalen Gesellschaft&lt;/a&gt;, der es bei kritischen F&#228;llen erm&#246;glicht, demokratisch einzugreifen.
+
+&lt;b&gt;Material:&lt;/b&gt;
+
+Link zum Positionspapier: https://www.digitale-gesellschaft.ch/uploads/2022/02/Position-der-Digitalen-Gesellschaft-zur-Regulierung-von-automatisierten-Entscheidungssystemen-1.0.pdf</description>
+                <logo></logo>
+                <persons>
+                    <person id='7836'>David Sommer</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='96762a8d-e854-5331-ad38-3402c35fe195' id='14378'>
+                <date>2022-02-26T13:00:00+01:00</date>
+                <start>13:00</start>
+                <duration>00:45</duration>
+                <room>Aktionshalle</room>
+                <slug>wk22-14378-regulierung-von-adm-systemen-in-der-schweiz</slug>
+                <url>https://cfp.winterkongress.ch/wk22/talk/BCVCDL/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Regulierung von ADM-Systemen in der Schweiz</title>
+                <subtitle></subtitle>
+                <track>Ethik, Wissenschaft, Kultur &amp; Gesellschaft</track>
+                <type>Podiumsgespr&#228;ch</type>
+                <language>de</language>
+                <abstract>Dass Systeme f&#252;r automatisierte Entscheidungen (ADM-Systeme) einer Regulierung bed&#252;rfen, steht ausser Frage. Diskutiert wird allerdings, wie ADM-Systeme in der Schweiz zu regulieren sind. Wo steht die Schweiz? Wie positioniert sich die Schweiz hinsichtlich der europ&#228;ischen Regulierungstendenzen? 
+Zu diesen und weiteren Fragen diskutieren Prof. Nadja Braun Binder (Uni Basel), David Sommer (Digitale Gesellschaft), Angela M&#252;ller (AlgorithmWatch) und Prof. Bettina Berendt (TU Berlin). Moderation Nicole Pauli (Digitale Gesellschaft).</abstract>
+                <description>Systeme f&#252;r automatisierte Entscheidungen (ADM-Systeme) haben den gesellschaftlichen Alltag l&#228;ngst durchdrungen - dies meist ohne Bewusstsein der &#214;ffentlichkeit. B&#252;rger:innen sowie Nicht-B&#252;rger:innen sehen sich immer mehr mit auf Algorithmen basierenden Entscheiden konfrontiert. Sei dies im Kleinen, bei der Song-Auswahl auf Spotify oder aber auch im Grossen, bei der demokratischen Meinungs- und Willensbildung. Da ADM-Systeme nie objektiv sind, sondern immer die Normen und Werte jener spiegeln, die sie programmieren und/oder einsetzen, sind sie anf&#228;llig daf&#252;r diskriminierend, ausgrenzend, biased und manipulativ zu sein. 
+Dass ADM-Systeme einer Regulierung bed&#252;rfen steht entsprechend ausser Frage. So hat die Europ&#228;ische Kommission am 21. April 2021 einen Vorschlag f&#252;r eine Verordnung &#252;ber K&#252;nstliche Intelligenz (&quot;AI Act&quot;) ver&#246;ffentlicht. Auch der Europarat verabschiedete bereits eine erste Empfehlung zu k&#252;nstlicher Intelligenz.
+
+Diskutiert werden muss, wie ADM-Systeme in der Schweiz zu regulieren sind. Wie soll sich die Schweiz hinsichtlich der europ&#228;ischen Regulierungstendenzen positionieren? Wie muss ein Regulierungsvorschlag f&#252;r die Schweiz konkret aussehen? Braucht es ein Schweizer &quot;KI Gesetz&quot;? Und wie soll die Frage nach der Haftung von algorithmischen Entscheiden gekl&#228;rt werden? Diese und weitere Fragen diskutieren Prof. Nadja Braun Binder (Uni Basel), David Sommer (Digitale Gesellschaft), Angela M&#252;ller (AlgorithmWatch Switzerland) und Prof. Bettina Berendt (TU Berlin). Moderation Nicole Pauli (Digitale Gesellschaft).</description>
+                <logo></logo>
+                <persons>
+                    <person id='15441'>Nicole Pauli</person><person id='15678'>Nadja Braun Binder</person><person id='7836'>David Sommer</person><person id='15679'>Angela Mueller</person><person id='15737'>Bettina Berendt</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='92ff9599-0b7a-5634-b408-297f784777bc' id='14536'>
+                <date>2022-02-26T14:45:00+01:00</date>
+                <start>14:45</start>
+                <duration>00:30</duration>
+                <room>Aktionshalle</room>
+                <slug>wk22-14536-e-id-wo-stehen-wir-ein-jahr-nach-dem-referendum-und-wo-geht-die-reise-hin-</slug>
+                <url>https://cfp.winterkongress.ch/wk22/talk/9ZSP8U/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>E-ID: wo stehen wir ein Jahr nach dem Referendum und wo geht die Reise hin?</title>
+                <subtitle></subtitle>
+                <track>Recht &amp; Politik</track>
+                <type>Vortrag kurz</type>
+                <language>de</language>
+                <abstract>Ein Jahr ist es her, seit mit dem E-ID-Referendum heftig, aber daf&#252;r lehrreich &#252;ber die Rolle des Staates in der Digitalisierung verhandelt wurde. Die hohe Ablehnung des E-ID-Gesetzes hat in der Bundespolitik wesentliche Stellschrauben f&#252;r digitale Vorhaben neu eingestellt. 
+Das Referat zeigt einerseits auf, wie es jetzt um das Projekt einer staatlichen E-ID steht, welche Herausforderungen dabei zu bew&#228;ltigen sind und unter welchen Vorzeichen heute Digitalisierungsvorhaben der Verwaltung angegangen werden.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='15543'>Gerhard Andrey</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='c0600cf1-91b0-5c2a-af4e-3bf61a3996eb' id='14350'>
+                <date>2022-02-26T15:30:00+01:00</date>
+                <start>15:30</start>
+                <duration>00:45</duration>
+                <room>Aktionshalle</room>
+                <slug>wk22-14350-gesichtserkennung-stoppen</slug>
+                <url>https://cfp.winterkongress.ch/wk22/talk/YNVXRZ/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Gesichtserkennung stoppen</title>
+                <subtitle></subtitle>
+                <track>Recht &amp; Politik</track>
+                <type>Vortrag</type>
+                <language>de</language>
+                <abstract>W&#228;hrend sich der Einsatz automatischer Gesichtserkennung im &#246;ffentlichen Raum rasant ausbreitet, fehlen wirksame gesetzliche Schranken gegen diese Form der Massen&#252;berwachung. Daher fordern die Europ&#228;ische Initiative &#171;Reclaim Your Face&#187; und die Schweizer Kampagne &#171;Gesichtserkennung stoppen&#187; ein Verbot. Die Kampagne in der Schweiz wird von Amnesty International, AlgorithmWatch und der Digitalen Gesellschaft getragen. Im Vortrag sprechen wir &#252;ber Massen&#252;berwachung im &#246;ffentlichen Raum, Gesichtserkennung im internationalen Kontext und die (rechtliche) Situation in der Schweiz.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='7841'>Andreas Geppert</person><person id='15392'>Tobias Urech</person><person id='16517'>Liliane Obrecht</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='45153a8a-eb15-58c0-9c3f-0b6fc9df7290' id='13767'>
+                <date>2022-02-26T16:30:00+01:00</date>
+                <start>16:30</start>
+                <duration>00:30</duration>
+                <room>Aktionshalle</room>
+                <slug>wk22-13767-muss-es-denn-immer-blockchain-sein-versprechen-hype-und-bewhrte-technologien</slug>
+                <url>https://cfp.winterkongress.ch/wk22/talk/JEDYNA/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Muss es denn immer Blockchain sein? Versprechen, Hype und bew&#228;hrte Technologien</title>
+                <subtitle></subtitle>
+                <track>Netzwerke, Security, Hard- &amp; Software</track>
+                <type>Vortrag kurz</type>
+                <language>de</language>
+                <abstract>Nachvollziehbarkeit und Vertrauen sind Schl&#252;sselw&#246;rter wenn es heute um die Digitalisierung von Prozessen geht. &quot;Daf&#252;r brauchen wir unbedingt eine Blockchain&quot; ist h&#228;ufig der n&#228;chste Satz. Geht das wirklich nur mit einer Blockchain? Und nicht etwa auch ohne Ballast mit bekannten Tools mit vielseitigen und bew&#228;hrten Integrationen? Welche Eigenschaften eine Blockchain eigentlich bietet, und welche Probleme man sich im Gegenzug aufl&#228;dt, bleibt oft hinter einer Wolke von Buzzwords verborgen. Dieser Vortrag zeigt auf, dass f&#252;r viele Anwendungszwecke auch Bew&#228;hrtes und Vertrautes eine L&#246;sung bietet.</abstract>
+                <description>&quot;Wenn man seine IT-Prozesse so weit vorbereitet hat, dass man eine Blockchain nutzen k&#246;nnte, braucht man keine Blockchain mehr,&quot; lautet ein gefl&#252;geltes Wort. Diese Aussage steht im Konflikt zur Aussage, dass man Digitalisierungsherausforderungen nur mit mit Blockchain l&#246;sen kann. Dieses Spannungsfeld wird deshalb zuerst von drei Seiten her beleuchtet. Danach wird aufgezeigt, welche Aspekte davon &#252;berhaupt l&#246;sbar sind und f&#252;r welche Teile vom Rest auch altbew&#228;hrte Technologie verst&#228;ndlich und nachvollziehbar l&#246;sen k&#246;nnen.
+
+1. **Was bietet mir eine Blockchain?** In dieser kurzen Einleitung wird zusammengefasst, welche konkreten technischen und nicht-technischen Eigenschaften versprochen werden, wenn von Blockchain die Rede ist. Ebenfalls werden die Grundlagen der Umsetzung nochmals systematisch geordnet und pr&#228;sentiert.
+2. **Typische Anwendungen:** Drei Anwendungsgebiete tauchen sehr h&#228;ufig als Musterbeispiele f&#252;r Blockchain auf: Finanzwesen, Logistik und &#246;ffentliche Verwaltung. Anhand dieser drei Gebiete wird aufgezeigt, welche Anforderungen eigentlich ben&#246;tigt bzw. versprochen werden, was davon  technisch &#252;berhaupt umsetzbar ist und wo technische L&#246;sungen alleine nicht ausreichen.
+3. **Effizienz und Overhead** Die verbreitetsten Blockchain-Technologien besitzen zum Teil enorme Ineffizienzen auf mehreren Ebenen, insbesondere, wenn sie f&#252;r etwas Anderes als Geldfl&#252;sse eingesetzt werden.
+
+Als Abschluss wird an einem konkreten Beispiel vorgestellt, welche Aspekte von vertrauensw&#252;rdiger Digitalisierung auch sehr gut oder sogar besser mit bew&#228;hrten Pr&#228;-Blockchain-Werkzeugen erreicht werden kann.</description>
+                <logo></logo>
+                <persons>
+                    <person id='14865'>Marcel Waldvogel</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='39d339b2-e85a-5cb0-b644-c216436db81c' id='14478'>
+                <date>2022-02-26T18:00:00+01:00</date>
+                <start>18:00</start>
+                <duration>00:45</duration>
+                <room>Aktionshalle</room>
+                <slug>wk22-14478-warum-das-leistungsschutzrecht-ein-problem-fr-das-offene-netz-darstellt</slug>
+                <url>https://cfp.winterkongress.ch/wk22/talk/NRRWVA/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Warum das Leistungsschutzrecht ein Problem f&#252;r das offene Netz darstellt</title>
+                <subtitle></subtitle>
+                <track>Recht &amp; Politik</track>
+                <type>Vortrag</type>
+                <language>de</language>
+                <abstract>Die Verlagskonzerne arbeiten wieder daran, ein Leistungsschutzrecht f&#252;r Presseverlage in der Schweiz einzurichten. Ein solches weiteres Pseudo-Urheberrecht bringt vor allem Probleme f&#252;r die Nutzenden des Internet, sowie eine weitere Konzentration der Medien- und Techkonzerne und tr&#228;gt nichts dazu bei, die Medienvielfalt oder Qualit&#228;tsjournalismus in der Schweiz zu f&#246;rdern.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='15517'>Andreas Von Gunten</person><person id='7743'>Camille Roseau</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='6fc59e05-7e19-580c-a188-64b332a55d06' id='14077'>
+                <date>2022-02-26T19:00:00+01:00</date>
+                <start>19:00</start>
+                <duration>00:45</duration>
+                <room>Aktionshalle</room>
+                <slug>wk22-14077-quad9-rekursive-resolver-als-ziel-von-urheberrechtsinhabern</slug>
+                <url>https://cfp.winterkongress.ch/wk22/talk/JWKFMN/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Quad9: Rekursive Resolver als Ziel von Urheberrechtsinhabern</title>
+                <subtitle></subtitle>
+                <track>Netzwerke, Security, Hard- &amp; Software</track>
+                <type>Vortrag</type>
+                <language>de</language>
+                <abstract>Quad9:  Rekursive DNS services
+
+Quad9 ist eine gemeinn&#252;tzige Stiftung, die seit Anfang dieses Jahres ihren Sitz in Z&#252;rich hat. 
+Quad9 bietet Benutzern weltweit einen freien rekursiven Resolver Dienst an. Der Fokus liegt hierbei auf Privacy und dem Filtern von sch&#228;dlichen Inhalten. Unmittelbar nach der Verlegung des Sitzes in die Schweiz hat das Landgericht Hamburg Quad9 auf Antrag von Sony Music Deutschland verpflichtet, den Zugang zu einer Webseite zu sperren, auf vermeintlich das Urheberrecht von Sony an einem Musikalbum verletzt wird.</abstract>
+                <description>In einem ersten Teil stellt Michael Hausding von der Stiftung SWITCH, einer der zwei Gr&#252;nder der Quad9 Stiftung in die Schweiz, die Motivation f&#252;r den Umzug von Quad9 in die Schweiz dar und erkl&#228;rt wie der rekursive Resolver Dienst technisch erbracht wird.  Der Schutz der Privatsph&#228;re der Nutzer und das Filtern von Malware und Phishing werden erl&#228;utert und die Konflikte die sich aus den beiden Zielen ergeben werden aufgezeigt.
+
+Im zweiten Teil des Vortrags berichtet Rechtsanwalt Joschka Selinger von der Gesellschaft f&#252;r Freiheitsrechte e.V. &#252;ber das Gerichtsverfahren von Sony Music Deutschland gegen die Quad9 Stiftung vor dem Landgericht Hamburg. Anhand des Gerichtsverfahrens erl&#228;utert Joschka Selinger, welche Gefahren f&#252;r die Kommunikationsfreiheit im Internet entstehen, wenn technisch neutrale, rekursive DNS Resolver Dienste f&#252;r Urheberrechtsverletzungen Dritter in Anspruch genommen werden und zeigt m&#246;gliche Konsequenzen aus der Gerichtsentscheidung f&#252;r andere Dienste auf.</description>
+                <logo></logo>
+                <persons>
+                    <person id='15050'>Michael Hausding</person><person id='15221'>Joschka Selinger</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='cf70e546-1150-528f-9040-0c88c1415d08' id='14638'>
+                <date>2022-02-26T20:00:00+01:00</date>
+                <start>20:00</start>
+                <duration>00:15</duration>
+                <room>Aktionshalle</room>
+                <slug>wk22-14638-schlusswort</slug>
+                <url>https://cfp.winterkongress.ch/wk22/talk/A8HVUS/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Schlusswort</title>
+                <subtitle></subtitle>
+                <track>Andere</track>
+                <type>Moderation</type>
+                <language>de</language>
+                <abstract>Dies ist das Schlusswort.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='7877'>Eliane Antonia Maurer</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='d03a3ba7-a1dc-50ef-b12d-58bb9915ffc9' id='14637'>
+                <date>2022-02-26T20:15:00+01:00</date>
+                <start>20:15</start>
+                <duration>02:00</duration>
+                <room>Aktionshalle</room>
+                <slug>wk22-14637-demonight</slug>
+                <url>https://cfp.winterkongress.ch/wk22/talk/8W7FN3/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Demonight</title>
+                <subtitle></subtitle>
+                <track>Andere</track>
+                <type>Unterhaltung</type>
+                <language>de</language>
+                <abstract>Demonight von Echtzeit - Digitale Kultur</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='15651'>Echtzeit - Digitale Kultur</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            
+        </room>
+        <room name='Clubraum'>
+            <event guid='7acf2b07-2f2c-53bb-866f-c6c510f81a1a' id='13602'>
+                <date>2022-02-26T12:00:00+01:00</date>
+                <start>12:00</start>
+                <duration>00:45</duration>
+                <room>Clubraum</room>
+                <slug>wk22-13602-e-voting-in-der-schweiz-ein-fortsetzungsroman</slug>
+                <url>https://cfp.winterkongress.ch/wk22/talk/GUXELP/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>E-Voting in der Schweiz: Ein Fortsetzungsroman</title>
+                <subtitle></subtitle>
+                <track>Recht &amp; Politik</track>
+                <type>Vortrag</type>
+                <language>de</language>
+                <abstract>Dieser Vortrag fasst zun&#228;chst die zwanzigj&#228;hrige Geschichte zum Thema E-Voting in der Schweiz zusammen; ein Thema das den Diskurs zur &quot;Digitalen Demokratie&quot; hierzulande stark pr&#228;gt.
+
+Im Hauptteil betrachtet er mehrere Dokumente: 
+
+* Bericht zum Expertendialog der Bundeskanzlei aus dem Jahr 2020 
+* das Vernehmlassungsverfahren zur neuen Regulierung von 2021
+* die verschiedenen Antworten auf das Verfahren
+* den Abschlussbericht der Vernehmlassung und die voraussichtliche neue Regulierung (Sommer 2022)
+
+Zum Ende hin dann ein hoch spekulativer und deshalb latent l&#228;cherlicher Ausblick.</abstract>
+                <description>Die Schweiz experimentiert seit 20 Jahren mit der digitalen Stimmabgabe. Mehrere Anbieter scheiterten an der anspruchsvollen Technik und die Schweizerische Post musste 2019 als einzige verbleibende Anbieterin ihr Angebot stoppen, nachdem unabh&#228;ngige ForscherInnen drei gravierende Schwachstellen publiziert hatten. Der Aufbau eines funktionierenden digitalen Stimmkanals erscheint wie eine stetig l&#228;nger werdende Aneinanderreihung von Niederlagen.
+
+Aber auch die Kritiker drangen mit Ihren Anlagen nicht durch. Vielmehr scheiterte die &#228;usserst breit abgest&#252;tzte Volksinitiative f&#252;r ein Verbot der elektronischen Stimmabgabe in der Phase der Unterschriftensammlung trotz tatkr&#228;ftiger Mithilfe der Schweizerischen Post kolossal.
+
+2020 versuchte die Bundeskanzlei den Neustart und f&#252;hrte einen breit abgest&#252;tzten Dialog mit f&#252;hrenden WissenschaftlerInnen zum Thema E-Voting durch. Daraus resultierte ein 80-seitiger Bericht mit Empfehlungen der beteiligten Forscher. Der Vortrag erkl&#228;rt einige zentrale Forderungen aus diesem Bericht.
+
+Diese Empfehlungen flossen 2021 in den Entwurf f&#252;r zwei Verordnungen zum Thema E-Voting ein, die der &#214;ffentlichkeit in einem Vernehmlassungsverfahren pr&#228;sentiert wurden.
+
+Es gingen sehr umfangreiche Stellungsnahmen ein und der Vortrag betrachtet diese im Hinblick auf das Thema Open Source, das im Regulierungsentwurf ausgespart wurde.
+
+Die Betrachtung der Vernehmlassungsantworten erlaubt eine wenn auch schwache Aussage, wie sehr sich die politischen Akteure auf eine hochkomplexe Vorlage wie diejenige zur Regulierung der elektronischen Stimmabgabe einlassen und inwieweit sie qualifiziert sind, die aufgeworfenen Fragen zu beantworten.
+
+Die neue E-Voting Regulierung wird f&#252;r Sommer 2022 erwartet. Der Vortrag wird die erwartete Regulierung &#252;berblicksartig vorstellen und betrachtet einige Schwerpunkte, namentlich die Open Source Frage.
+
+Zum Schluss und zur allgemeinen Erheiterung folgt ein Ausblick, wie es mit E-Voting weitergehen k&#246;nnte. Angesichts der zahlreichen &#220;berraschungen, die das Thema bereits bot, d&#252;rfte dieser Ausblick hoch spekulativ und innert k&#252;rzester Zeit &#252;berholt sein.
+
+Aber man sollte im Leben keine Chance auslassen, sich l&#228;cherlich zu machen.</description>
+                <logo></logo>
+                <persons>
+                    <person id='14488'>Christian Folini</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='6fd5fbeb-31eb-5f37-90a4-32885e495ffa' id='14420'>
+                <date>2022-02-26T13:00:00+01:00</date>
+                <start>13:00</start>
+                <duration>00:45</duration>
+                <room>Clubraum</room>
+                <slug>wk22-14420-das-verfahren-von-init7-gegen-swisscom-zum-glasfaserausbau-ein-bericht</slug>
+                <url>https://cfp.winterkongress.ch/wk22/talk/9AMRZH/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Das Verfahren von Init7 gegen Swisscom zum Glasfaserausbau: Ein Bericht</title>
+                <subtitle></subtitle>
+                <track>Recht &amp; Politik</track>
+                <type>Vortrag</type>
+                <language>de</language>
+                <abstract>Im September 2020 reichte der Winterthurer Internetprovider Init7 eine Anzeige bei der Wettbewerbskommission ein, weil Swisscom aus seiner Sicht ihre Glasfaser-Netzwerktopologie in einer Weise ver&#228;ndert hatte, die den Zugang von Wettbewerbern auf ihr Netz erschwerte. Die Weko verbot Swisscom im Dezember 2020 vorsorglich diese Form des Ausbaus. Das Bundesverwaltungsgericht best&#228;tigte den Entscheid. Derzeit ist das Verfahren vor Bundesgericht h&#228;ngig. 
+
+Fredy K&#252;nzler, CEO von Init7, und Simon Schlauri, Rechtsanwalt von Init7, geben Einblick in das Verfahren und seine rechtlichen Hintergr&#252;nde.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='7821'>Simon Schlauri</person><person id='15515'>Fredy K&#252;nzler</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='d3645429-44eb-5fc3-bb39-17620ef495c3' id='14387'>
+                <date>2022-02-26T14:45:00+01:00</date>
+                <start>14:45</start>
+                <duration>00:30</duration>
+                <room>Clubraum</room>
+                <slug>wk22-14387-ndg-rck-und-ausblicke-zum-nachrichtendienstgesetz-des-bundes</slug>
+                <url>https://cfp.winterkongress.ch/wk22/talk/CSTG97/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>NDG: R&#252;ck- und Ausblicke zum Nachrichtendienstgesetz des Bundes</title>
+                <subtitle></subtitle>
+                <track>Recht &amp; Politik</track>
+                <type>Vortrag kurz</type>
+                <language>de</language>
+                <abstract>Am 1. September 2017 ist das neue Nachrichtendienstgesetz (NDG) in Kraft getreten, welches die &#220;berwachungsm&#246;glichkeiten des Geheimdienstes massiv ausbaute. Wegen der umfangreichen und unrechtm&#228;ssigen Sammlung von Personendaten sowie der mangelhaften Auskunftserteilung an die Betroffenen, sorgt der Nachrichtendienst des Bundes (NDB) bis heute f&#252;r Kritik. Nun ist eine erneute Revision des NDG im Gange, welche das Risiko einer &#220;berwachung von legitimen politischen T&#228;tigkeiten ein weiteres Mal verst&#228;rken k&#246;nnte.</abstract>
+                <description>Im Vortrag werden die problematische Aspekte der Informationsbeschaffung durch den Nachrichtendienst des Bundes beleuchtet. Weiter wird thematisiert, welche Risiken die geplante Revision des Nachrichtendienstgesetzes mit sich bringt und welche Forderungen die Zivilgesellschaft stellt.</description>
+                <logo></logo>
+                <persons>
+                    <person id='15448'>Valentina Stefanovi&#263;</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='1c23d175-e39b-5d81-83a3-630441f06eb5' id='14390'>
+                <date>2022-02-26T15:30:00+01:00</date>
+                <start>15:30</start>
+                <duration>00:45</duration>
+                <room>Clubraum</room>
+                <slug>wk22-14390-datengenossenschaft-fr-eine-nachhaltige-mobilitt</slug>
+                <url>https://cfp.winterkongress.ch/wk22/talk/ZN7NVA/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Datengenossenschaft  f&#252;r eine nachhaltige Mobilit&#228;t</title>
+                <subtitle></subtitle>
+                <track>Ethik, Wissenschaft, Kultur &amp; Gesellschaft</track>
+                <type>Vortrag</type>
+                <language>de</language>
+                <abstract>Die grossen Akteure der Plattformwirtschaft verf&#252;gen &#252;ber unvorstellbare Datenmengen und unterwandern die demokratischen Strukturen unserer Gesellschaft. Als Nutzer*innen von digitalen Produkten wissen wir meistens nicht, wie die bei der Nutzung generierten Daten verwendet werden.  
+
+Wir pr&#228;sentieren die Datengenossenschaft POSMO - ein Zusammenschluss von Datenproduzent*innen - als neues demokratisches Modell f&#252;r die Verwaltung und Nutzung von Mobilit&#228;tsdaten. POSMO gibt den Nutzer*innen mithilfe eines auf Mitbestimmung beruhenden Modells Kontrolle &#252;ber ihre Daten zur&#252;ck.</abstract>
+                <description>### Mobilit&#228;t verstehen, um bessere Angebote zu schaffen
+Mobilit&#228;t ist ein zentraler Teil unserer Gesellschaft: Einerseits ist sie Treiber der sozialen Vernetzung und unseres gemeinschaftlichen Wohlstandes, andererseits aber auch Quelle von Emissionen wie L&#228;rm oder CO2. Um nachhaltige Mobilit&#228;tsl&#246;sungen zu entwickeln, m&#252;ssen wir unser Mobilit&#228;tsverhalten besser verstehen und transparenter machen. Dazu brauchen wir Daten &#252;ber individuelles Mobilit&#228;tsverhalten.
+
+### Daten sind vorhanden - aber nicht zug&#228;nglich
+Die umfassendsten und qualitativ hochstehendsten Mobilit&#228;tsdaten, die heute existieren, sind unter der Kontrolle von grossen Tech-Konzernen und stehen weder &#214;ffentlichkeit, Forschung, noch der &#214;ffentlichen Hand zur Verf&#252;gung. Zum einen wissen wir als Nutzer*innen von digitalen Produkten meistens nicht, wie die bei der Nutzung generierten Daten verwendet werden. Zum anderen fehlen funktionierende Organisationsformen, die uns erlauben die Verwendung der Daten gemeinschaftlich zu kontrollieren oder diese daf&#252;r zu nutzen, die gr&#246;ssten gesellschaftlichen Probleme unserer Zeit zu l&#246;sen. 
+
+### Die Datengenossenschaft als Vehikel f&#252;r Ver&#228;nderung
+Die Datengenossenschaft POSMO setzt an diesem Punkt an. Mit der genossenschaftlichen Gesch&#228;ftsform nutzt sie die direktdemokratischen Strukturen, um den Datenproduzent:innen eine Stimme zu geben. So bleibt die Mitbestimmung &#252;ber die Mobililt&#228;tsdaten stets in der Hand derjenigen, die die Daten auch generieren. Ein Ethikrat kontrolliert dabei sowohl die Algortihmen als auch die Nutzung der Daten.</description>
+                <logo></logo>
+                <persons>
+                    <person id='9580'>Thomas Hug</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='7ef357f5-ab20-570d-a704-9aa1ef7972cb' id='14451'>
+                <date>2022-02-26T16:30:00+01:00</date>
+                <start>16:30</start>
+                <duration>00:30</duration>
+                <room>Clubraum</room>
+                <slug>wk22-14451-die-neuordnung-der-digitalen-ffentlichkeit-wie-online-plattformen-regulieren-</slug>
+                <url>https://cfp.winterkongress.ch/wk22/talk/8XMR99/</url>
+                <recording>
+                    <license></license>
+                    <optout>true</optout>
+                </recording>
+                <title>Die Neuordnung der digitalen &#214;ffentlichkeit: Wie Online-Plattformen regulieren?</title>
+                <subtitle></subtitle>
+                <track>Recht &amp; Politik</track>
+                <type>Vortrag kurz</type>
+                <language>de</language>
+                <abstract>Die demokratische &#214;ffentlichkeit verlagert sich je l&#228;nger je mehr in den digitalen Raum. Sie spielt sich dort auf Kommunikations-Plattformen ab, die das Gesch&#228;ftsmodell m&#228;chtiger Konzerne sind. Wir haben es in der Hand, die Regeln f&#252;r diese R&#228;ume neu auszuhandeln. Mit dem Digital Services Act strebt die EU eine Neuordnung der digitalen &#214;ffentlichkeit an. Und die Schweiz? Wir diskutieren die Auslegeordnung des Bundes zur Plattform-Regulierung, welche insbesondere auf Hassrede, Fake News, fehlende Nutzer:innen-Rechte und Intransparenz fokussiert.</abstract>
+                <description>Die demokratische &#214;ffentlichkeit verlagert sich je l&#228;nger je mehr in den digitalen Raum. Sie spielt sich dort sehr oft auf Plattformen ab, die das Gesch&#228;ftsmodell m&#228;chtiger Konzerne sind. Diese bestimmen die Regeln f&#252;r den Kommunikationsraum - grundrechtliche Freiheiten und Schranken aus der analogen &#214;ffentlichkeiten haben sich dabei auf digitalen Plattformen als nur als bedingt anwendbar herausgestellt.
+
+Das ist nicht nur schlecht. Denn die digitale &#214;ffentlichkeit funktioniert anders und verlangt, dass wir die Regeln neu aushandeln. Dabei stellen sich verschiedene Fragen:
+- Wie k&#246;nnen wir in einem oftmals anonymen Raum ein Gleichgewicht finden zwischen Meinungs&#228;usserungsfreiheit und Schutz vor Diskriminierung und Hass?
+- Wie k&#246;nnen wir Plattformen gestalten, welche die St&#228;rken des neuen Kommunikationszeitalters unterst&#252;tzen: Dialog, Demokratisierung der Mitsprache, Informations- und Meinungsvielfalt?
+- Wie k&#246;nnen wir Regeln finden, die auch f&#252;r crowdgest&#252;tzte Plattformen (wie Wikipedia) oder ressourcenschwache Plattformen (wie (Mastodon als Beispiel?) funktionieren?
+- An welchen Stellen m&#252;ssen wir auf Transparenz f&#252;r eine demokratische, offene Gesellschaft pochen?
+
+Die EU hat mit dem Digital Services Act einen Vorschlag f&#252;r die Neuordnung der digitalen &#214;ffentlichkeit und ihrer Plattformen vorgelegt. Verschiedene L&#228;nder erg&#228;nzen mit ihrer eigenen Governance die europ&#228;ische. Und was tut die Schweiz?
+
+Die Bundesverwaltung pr&#228;sentierte im November 2021 ihren Bericht &quot;Intermedi&#228;re und Kommunikationsplattformen - Auswirkungen auf die &#246;ffentliche Kommunikation und Ans&#228;tze einer Governance&quot; (https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-85905.html).
+Der Bericht ist eine Auslegeordnung &#252;ber die postiven und negativen Potenziale der Plattformen, beleuchtet aber vertieft die Ph&#228;nomene der Hassrede, Fake News, fehlenden Nutzer:innen-Rechte und Intransparenz. Der Bericht will eine Grundlage sein f&#252;r die bessere, demokratie-freundlichere Gestaltung der Plattformen.
+
+Wir stellen den Bericht kurz vor, sammeln Einsch&#228;tzungen und stellen Gestaltungsideen zur Diskussion.
+
+Diego und Rahel sind Teil der Arbeitsgruppe Netzpolitik der GR&#220;NEN Schweiz.</description>
+                <logo></logo>
+                <persons>
+                    <person id='7812'>Rahel Estermann</person><person id='15527'>Diego H&#228;ttenschwiler</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='df107530-dd57-533f-b66b-f4c21e1ec384' id='14017'>
+                <date>2022-02-26T18:00:00+01:00</date>
+                <start>18:00</start>
+                <duration>00:45</duration>
+                <room>Clubraum</room>
+                <slug>wk22-14017-eu-beitritt-eine-schweiz-ohne-massenberwachung-</slug>
+                <url>https://cfp.winterkongress.ch/wk22/talk/VMHXYA/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>EU-Beitritt: Eine Schweiz ohne Massen&#252;berwachung?</title>
+                <subtitle></subtitle>
+                <track>Recht &amp; Politik</track>
+                <type>Vortrag</type>
+                <language>de</language>
+                <abstract>Stellen wir uns vor, die Schweiz w&#252;rde der EU beitreten und sich damit unter das Datenschutzrecht der EU stellen. Was w&#228;ren die Konsequenzen auf die Massen&#252;berwachung der Schweiz? W&#228;re das B&#220;PF und die anderen &#220;berwachungsgesetze damit Geschichte oder stehen uns noch umfangreichere &#220;berwachungsm&#246;glichkeiten der L&#228;nder bevor? Eine Reise durch die Grundrechtecharte, der einschl&#228;gigen Urteile des EUGH und deren eventuellen Konsequenzen f&#252;r eine Schweiz in der EU.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='15089'>Nino Maspoli</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='a24a938c-dd0c-5163-b513-639f86afea71' id='13670'>
+                <date>2022-02-26T19:00:00+01:00</date>
+                <start>19:00</start>
+                <duration>00:45</duration>
+                <room>Clubraum</room>
+                <slug>wk22-13670-die-demoszene-programmieren-als-weltkulturerbe</slug>
+                <url>https://cfp.winterkongress.ch/wk22/talk/CQXCTU/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Die Demoszene - Programmieren als Weltkulturerbe</title>
+                <subtitle></subtitle>
+                <track>Ethik, Wissenschaft, Kultur &amp; Gesellschaft</track>
+                <type>Vortrag</type>
+                <language>de</language>
+                <abstract>Urspr&#252;nglich aus der Crackerszene der 1980er Jahre entstanden, baut eine Untergrundcommunity aus Programmierern, Grafikern und Musikern bis heute atemberaubende digitale Kunstwerke, sogenannte Demos. Damit wurde die Szene gerade von der UNESCO als erstes digitales Weltkulturerbe ausgezeichnet.</abstract>
+                <description>Im Vortrag stellt euch der Schweizer Demoszene-Verein &quot;Echtzeit - Digitale Kultur&quot; unsere Community, unsere Arbeitsprozesse, Demoparties, sowie einige unserer Lieblingsreleases der letzten Jahre vor.</description>
+                <logo></logo>
+                <persons>
+                    <person id='14679'>Shana Marinitsch</person><person id='15641'>Mario Spuler</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            
+        </room>
+        <room name='Proberaum'>
+            <event guid='e114295b-ab65-5ee0-b735-8389977456ec' id='14432'>
+                <date>2022-02-26T12:00:00+01:00</date>
+                <start>12:00</start>
+                <duration>00:45</duration>
+                <room>Proberaum</room>
+                <slug>wk22-14432-dezentralisierung-als-neue-alte-herausforderung</slug>
+                <url>https://cfp.winterkongress.ch/wk22/talk/UDBNCV/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Dezentralisierung als neue alte Herausforderung</title>
+                <subtitle></subtitle>
+                <track>Ethik, Wissenschaft, Kultur &amp; Gesellschaft</track>
+                <type>Vortrag</type>
+                <language>de</language>
+                <abstract>Dezentralisierung ist ein Buzzword der Blockchain-&#196;ra, aber auch grundlegender Bestandteil des Internets seit seinen Anf&#228;ngen in den 1960er Jahren. Das Fediverse will die Plattformisierung, die massgeblich durch Social Media Plattformen vorangetrieben wurde, durch dezentrale Infrastruktur ersetzen. Doch was bedeutet das in der Konsequenz? Was sind die Probleme, die Dezentralisierung l&#246;sen soll? Welche neuen Probleme ergeben sich im Fediverse und (was) k&#246;nnen wir aus dem politischen F&#246;deralismus f&#252;r das dezentrale Netz lernen?</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='15490'>Emanuel L&#246;ffler</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='422eac64-bb97-5109-949e-6d6a264f6549' id='13623'>
+                <date>2022-02-26T13:00:00+01:00</date>
+                <start>13:00</start>
+                <duration>00:45</duration>
+                <room>Proberaum</room>
+                <slug>wk22-13623-netzwerk-security-monitoring</slug>
+                <url>https://cfp.winterkongress.ch/wk22/talk/Q7FUEE/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Netzwerk Security Monitoring</title>
+                <subtitle></subtitle>
+                <track>Netzwerke, Security, Hard- &amp; Software</track>
+                <type>Workshop</type>
+                <language>de</language>
+                <abstract>Die zunehmende Vernetzung und Verbindung ins Internet ist im privaten Umfeld genau so zu erkennen wie im gesch&#228;ftlichen Alltag. Private Internetzug&#228;nge r&#252;cken durch &quot;work from home&quot;  gezielt ins Visier der Internetkriminalit&#228;t, &quot;Ransomware&quot; Angriffe sind trotz Aufkl&#228;rung und Datensicherung immer noch verheerend.  Mittels Netzwerk Security Monitoring k&#246;nnen Verbindungen und m&#246;gliche Gefahren erkennt werden. In diesem Workshop lernst du, wie du mit der Open Source Software ntopng ein Netzwerk Security Monitoring zu Hause oder in einer KMU einrichten und Gefahren erkennen kannst.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='14503'>Martin Scheu</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='63670542-820f-587c-a60a-03e12cfd847a' id='14444'>
+                <date>2022-02-26T14:45:00+01:00</date>
+                <start>14:45</start>
+                <duration>00:30</duration>
+                <room>Proberaum</room>
+                <slug>wk22-14444-ethische-aspekte-von-emotional-ai</slug>
+                <url>https://cfp.winterkongress.ch/wk22/talk/F8LLKG/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Ethische Aspekte von Emotional AI</title>
+                <subtitle></subtitle>
+                <track>Ethik, Wissenschaft, Kultur &amp; Gesellschaft</track>
+                <type>Vortrag kurz</type>
+                <language>de</language>
+                <abstract>Der Einsatz von Emotional AI wird derzeit kritisch diskutiert. Neben ethischen Prinzipien, die den Einsatz von ADM allgemein betreffen, ist insb. umstritten, ob sich Emotionen technisch erfassen lassen; es existieren bereits erste Empfehlungen (vgl. EAIChecklist McStay/Pavliscak 2019). Wenig Beachtung gefunden hat diesbzgl. die Rolle von Emotionen f&#252;r moralische Werthaltungen u. Pers&#246;nlichkeit. Welche impliziten Vorstellungen &#252;ber Authentizit&#228;t, Angemessenheit u. Kontrollierbarkeit von Emotionen liegen ihrer Operationalisierung zugrunde? Welche Konsequenzen h&#228;tte ein breiter Einsatz?</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='15494'>Tanja Klankert</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='136c8587-f620-50ef-aa5d-ccd754429db1' id='14565'>
+                <date>2022-02-26T15:30:00+01:00</date>
+                <start>15:30</start>
+                <duration>00:45</duration>
+                <room>Proberaum</room>
+                <slug>wk22-14565-warum-die-diskussion-zur-e-id-nicht-technologisch-sein-sollte-</slug>
+                <url>https://cfp.winterkongress.ch/wk22/talk/Y3DRG7/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Warum die Diskussion zur E-ID nicht technologisch sein sollte.</title>
+                <subtitle></subtitle>
+                <track>Netzwerke, Security, Hard- &amp; Software</track>
+                <type>Vortrag</type>
+                <language>de</language>
+                <abstract>In diesem Vortrag m&#246;chte ich erkl&#228;ren, warum die E-ID Diskussion so kompliziert scheint. Besonders m&#246;chte ich dabei die verschieden Einsatzbereiche (Authentifizierung, Autorisierung und Signierung) aufzeigen und wie diese zur Zeit in der Debatte unklar sind.
+
+Im weiteren m&#246;chte ich die die Unterschiede zwischen Self-Sovereign Identity (SSI), Identity Provider (IdP) und Public Key Infrastructure (PKI) erkl&#228;ren und aufzeigen, dass es kein Silver Bullet gibt.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='15557'>Florian Forster</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='2976d382-47ee-5974-a9c8-b3214bccdfff' id='14469'>
+                <date>2022-02-26T16:30:00+01:00</date>
+                <start>16:30</start>
+                <duration>00:30</duration>
+                <room>Proberaum</room>
+                <slug>wk22-14469-nationale-cyberwochen</slug>
+                <url>https://cfp.winterkongress.ch/wk22/talk/8UYQGU/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Nationale Cyberwochen</title>
+                <subtitle></subtitle>
+                <track>Recht &amp; Politik</track>
+                <type>Vortrag kurz</type>
+                <language>de</language>
+                <abstract>Im noch jungen Jahr 2022 wurde bereits ordentlich gecybert. Fast t&#228;glich erreichen uns Berichte &#252;ber Sicherheitsl&#252;cken, Angriffe und Ransomware. Die &#171;Nationalen Cyberwochen&#187; sind ausgerufen. Dieser Talk macht eine kurze &#220;bersicht der Cybervorf&#228;lle, spricht &#252;ber die Methoden der Angreifer und skizziert was verbessert werden sollte.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='7859'>Ganti</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='e3cb2fb2-5bc9-5bb2-aaef-91b828138df6' id='14443'>
+                <date>2022-02-26T18:00:00+01:00</date>
+                <start>18:00</start>
+                <duration>00:45</duration>
+                <room>Proberaum</room>
+                <slug>wk22-14443-welche-prototypen-braucht-die-schweiz-</slug>
+                <url>https://cfp.winterkongress.ch/wk22/talk/UXFH7G/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Welche Prototypen braucht die Schweiz?</title>
+                <subtitle></subtitle>
+                <track>Ethik, Wissenschaft, Kultur &amp; Gesellschaft</track>
+                <type>Workshop</type>
+                <language>de</language>
+                <abstract>Wikipedia, OpenStreetMap, GiveDirectly: Technologische Tools k&#246;nnen gesellschaftliche Probleme l&#246;sen und so Mehrwert schaffen. Um solche Anwendungen zu entwickeln, fehlen in der Schweiz Experimentierr&#228;ume und oft finanzielle Mittel. Der Prototype Fund f&#252;llt diese L&#252;cke, unterst&#252;tzt aber nur Projekte, die politische Mitwirkung f&#246;rdern. Mit Euch m&#246;chten wir den Fokus unseres Programms hinterfragen, um ihn zuk&#252;nftig erweitern oder ver&#228;ndern zu k&#246;nnen: Wir sammeln Problemfelder, bestehende Projekte und Projektideen und &#252;berlegen uns, welchen Themen und Projekten wir uns zuk&#252;nftig widmen sollten.</abstract>
+                <description>Der Prototype Fund unterst&#252;tzt Menschen dabei, die politische Mitwirkung mit Open Source Projekten zu st&#228;rken. Selbstst&#228;ndige Programmierer:innen oder Teams von technisch versierten, politisch engagierten und kreativen Mitstreiter:innen erhalten bis zu 100&#8217;000 CHF, um ihre Civic Tech-Idee w&#228;hrend sechs Monaten vom Konzept bis zum ersten Prototyp weiterzuentwickeln.
+
+Der Prototype Fund schafft dort Experimentierr&#228;ume, wo eine L&#252;cke besteht: f&#252;r die initiale Entwicklung von Tools, die gesellschaftliche Probleme l&#246;sen, f&#252;r die es aber aktuell oft weder private (u.a. fehlendes Business Model) noch staatliche Finanzierung gibt. 
+
+Aktuell f&#246;rdern wir &#8220;nur&#8221; Projekte, die im weitesten Sinne in die Schublade &#8220;Civic Tech&#8221; passen: technologische L&#246;sungen, welche die politische Mitwirkung f&#246;rdern. In diesem Workshop m&#246;chten wir den Fokus unseres F&#246;rderprogramms gemeinsam mit Euch hinterfragen, um ihn zuk&#252;nftig erweitern oder ver&#228;ndern zu k&#246;nnen: 
+
+* Welche gesellschaftlichen Probleme bestehen aktuell? Wie k&#246;nnten diese mit technologischen Anwendungen gel&#246;st werden?
+* Welche (Open Source) Tools existieren, die gesellschaftlichen Mehrwert schaffen? Sollten diese unterst&#252;tzt werden?
+* Welche Ideen habt ihr f&#252;r Tools die gesellschaftlichen Mehrwert schaffen?
+* Welchen Themen sollte sich die digitale Zivilgesellschaft st&#228;rker widmen?
+
+Thematisch ist alles m&#246;glich: z. B. Umwelt und Nachhaltigkeit, Gesundheit, Diversit&#228;t und Inklusion, aber auch Datenkompetenz, Datenschutz und nicht zuletzt Software-Infrastruktur. Im Workshop sammeln wir gemeinsam Problemfelder, bestehende Projekte und Projektideen, um Potentiale und L&#252;cken zu eruieren und &#252;berlegen uns, welchen Themen und Projekten wir uns zuk&#252;nftig widmen sollten.</description>
+                <logo></logo>
+                <persons>
+                    <person id='15493'>Florin Hasler</person><person id='7308'>Nikki</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='54d50bce-085c-5709-ac08-239b60abe4d0' id='14359'>
+                <date>2022-02-26T19:00:00+01:00</date>
+                <start>19:00</start>
+                <duration>00:45</duration>
+                <room>Proberaum</room>
+                <slug>wk22-14359-corona-das-ende-der-digitalen-zivilgesellschaft-</slug>
+                <url>https://cfp.winterkongress.ch/wk22/talk/Z3VCHP/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Corona, das Ende der digitalen Zivilgesellschaft?</title>
+                <subtitle></subtitle>
+                <track>Recht &amp; Politik</track>
+                <type>Vortrag</type>
+                <language>de</language>
+                <abstract>Die Coronakrise hat die digitale Zivilgesellschaft in der Schweiz voll ergriffen. Der Abstimmungskampf zum Covid-Gesetz entzweite unsere Community wie nie zuvor, online wurde die politische Auseinandersetzung f&#252;r manchen zum Krieg. Gleichzeitig entstanden neue Initiativen und Allianzen, Wirkung und Organisationsgrad der digitalen Zivilgesellschaft nahmen klar zu &#8212; und ebenso die Budgets. Anhand von konkreten Beispielen diskutieren wir, was die Pandemie mit uns gemacht hat und was das nun heisst f&#252;r unsere gemeinsamen  M&#246;glichkeiten, die Schweiz von Morgen mitzugestalten.</abstract>
+                <description>CH++ ist eine Pandemiefolge, der Verein entstand aus der Erkenntnis heraus, dass die Unzul&#228;nglichkeiten und Vers&#228;umnisse, dass das sprichw&#246;rtliche Fax, das Marcel Salath&#233; und Hannes Gassert in der digitalen Pandemie-Politik antrafen, nur ein Symptom sind f&#252;r viel tiefer gehende Herausforderungen. Denen will sich der junge Verein angehen, sich einsetzend f&#252;r handlungsf&#228;hige, nachhaltige und wohlhabende Schweiz durch Wissenschaft und Technologie. Vom Proximity Tracing zum Covid-Zertifikat, von der Cybersicherheit zur E-Id und dem EMBaG: CH++ nimmt wirkungsvollen, pragmatischen Einfluss. 
+Olga Baranova ist seit Dezember 2021 die Gesch&#228;ftsleiterin des Vereins und bringt als erfahrene Genfer Jungpolitikerin und Kampagnenleiterin der Ehe f&#252;r Alle eine neue Perspektive in die digitale Zivilgesellschaft der Schweiz ein.</description>
+                <logo></logo>
+                <persons>
+                    <person id='15402'>Olga Baranova</person><person id='15415'>Hannes Gassert</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            
+        </room>
+        
+    </day>
+    
+</schedule>
