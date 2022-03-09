@@ -122,6 +122,10 @@ class TestUpdateStreamsV2(unittest.TestCase):
     def test_wk22(self):
         self._test_conference("wk22")
 
+    @patch.object(c3voc, "fetch_xml", partial(local_fetch_xml, "pretalx.com"))
+    def test_fossgis2022(self):
+        self._test_conference("fossgis2022")
+
 
 if __name__ == "__main__":
     unittest.main(verbosity=2)

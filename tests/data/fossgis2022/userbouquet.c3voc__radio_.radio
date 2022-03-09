@@ -1,0 +1,17 @@
+#NAME c3voc (Radio)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Bühne 1 - Live - FOSSGIS-Konferenz 2022
+#DESCRIPTION Bühne 1 - Live - FOSSGIS-Konferenz 2022
+#SERVICE 4097:256:0:8f71:62c6:bf00:7a776ee2:0:0:0:https%3a//cdn.c3voc.de/hls/fossgis1/segment_Native.m3u8:Bühne 1 Audio (HLS)
+#DESCRIPTION Bühne 1 Audio (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Bühne 2 - Live - FOSSGIS-Konferenz 2022
+#DESCRIPTION Bühne 2 - Live - FOSSGIS-Konferenz 2022
+#SERVICE 4097:256:0:2716:c1f1:2d52:aeb9b8a3:0:0:0:https%3a//cdn.c3voc.de/hls/fossgis2/segment_Native.m3u8:Bühne 2 Audio (HLS)
+#DESCRIPTION Bühne 2 Audio (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Bühne 3 - Live - FOSSGIS-Konferenz 2022
+#DESCRIPTION Bühne 3 - Live - FOSSGIS-Konferenz 2022
+#SERVICE 4097:256:0:d2db:3146:60f9:69c44cbb:0:0:0:https%3a//cdn.c3voc.de/hls/fossgis3/segment_Native.m3u8:Bühne 3 Audio (HLS)
+#DESCRIPTION Bühne 3 Audio (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Demosession - Live - FOSSGIS-Konferenz 2022
+#DESCRIPTION Demosession - Live - FOSSGIS-Konferenz 2022
+#SERVICE 4097:256:0:f5aa:8648:cf55:89a37566:0:0:0:https%3a//cdn.c3voc.de/hls/fossgis4/segment_Native.m3u8:Demosession Audio (HLS)
+#DESCRIPTION Demosession Audio (HLS)

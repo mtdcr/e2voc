@@ -1,0 +1,332 @@
+[
+    {
+        "conference": "FOSSGIS-Konferenz 2022",
+        "slug": "fossgis2022",
+        "author": "FOSSGIS e.V.",
+        "description": "Die FOSSGIS-Konferenz ist die deutschsprachige Konferenz zu Open-Source-GIS und OpenStreetMap. Sie findet vom 9. bis 12. März 2021 in Marburg und im Netz statt.",
+        "keywords": "FOSSGIS2022, OpenStreetMap, GIS, OpenSource, Geo",
+        "schedule": "https://pretalx.com/fossgis2022/schedule/export/schedule.xml",
+        "startsAt": "2022-03-09T07:00:00+0000",
+        "endsAt": "2022-03-11T17:00:00+0000",
+        "isCurrentlyStreaming": false,
+        "groups": [
+            {
+                "group": "Live",
+                "rooms": [
+                    {
+                        "slug": "buehne1",
+                        "schedulename": "Bühne 1",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/fossgis1/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/fossgis1/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/fossgis2022/buehne1",
+                        "display": "Bühne 1",
+                        "stream": "fossgis1",
+                        "talks": {
+                            "current": {
+                                "fstart": "2022-03-09T19:00:00+01:00",
+                                "fend": "2022-03-10T09:00:00+01:00",
+                                "tstart": "19:00",
+                                "tend": "09:00",
+                                "start": 1646848800,
+                                "end": 1646899200,
+                                "offset": 3600,
+                                "duration": 3600,
+                                "special": "daychange",
+                                "title": "Daychange from Day 1 to 2"
+                            },
+                            "next": {
+                                "fstart": "2022-03-10T09:00:00+01:00",
+                                "fend": "2022-03-10T09:20:00+01:00",
+                                "tstart": "09:00",
+                                "tend": "09:20",
+                                "start": 1646899200,
+                                "end": 1646900400,
+                                "offset": 3600,
+                                "duration": 1200,
+                                "title": "lyrx2sld: Automatische Umwandlung von ArcGIS Styling zu GeoServer",
+                                "speaker": "Wolfgang Kaltz, Cécile Vuilleumier, Thomas Marti",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "hls-native",
+                                "display": "Bühne 1 ",
+                                "type": "hls",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "Bühne 1 Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "AAC, VBR",
+                                        "url": "https://cdn.c3voc.de/hls/fossgis1/segment_Native.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "Bühne 1 FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/fossgis1/native_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "buehne2",
+                        "schedulename": "Bühne 2",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/fossgis2/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/fossgis2/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/fossgis2022/buehne2",
+                        "display": "Bühne 2",
+                        "stream": "fossgis2",
+                        "talks": {
+                            "current": {
+                                "fstart": "2022-03-09T19:00:00+01:00",
+                                "fend": "2022-03-10T09:00:00+01:00",
+                                "tstart": "19:00",
+                                "tend": "09:00",
+                                "start": 1646848800,
+                                "end": 1646899200,
+                                "offset": 3600,
+                                "duration": 3600,
+                                "special": "daychange",
+                                "title": "Daychange from Day 1 to 2"
+                            },
+                            "next": {
+                                "fstart": "2022-03-10T09:00:00+01:00",
+                                "fend": "2022-03-10T09:20:00+01:00",
+                                "tstart": "09:00",
+                                "tend": "09:20",
+                                "start": 1646899200,
+                                "end": 1646900400,
+                                "offset": 3600,
+                                "duration": 1200,
+                                "title": "Herstellung der Kompatibilität der Datenlizenz Deutschland Namensnennung 2.0 zur Open Database License",
+                                "speaker": "Falk Zscheile",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "hls-native",
+                                "display": "Bühne 2 ",
+                                "type": "hls",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "Bühne 2 Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "AAC, VBR",
+                                        "url": "https://cdn.c3voc.de/hls/fossgis2/segment_Native.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "Bühne 2 FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/fossgis2/native_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "buehne3",
+                        "schedulename": "Bühne 3",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/fossgis3/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/fossgis3/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/fossgis2022/buehne3",
+                        "display": "Bühne 3",
+                        "stream": "fossgis3",
+                        "talks": {
+                            "current": {
+                                "fstart": "2022-03-09T19:00:00+01:00",
+                                "fend": "2022-03-10T09:00:00+01:00",
+                                "tstart": "19:00",
+                                "tend": "09:00",
+                                "start": 1646848800,
+                                "end": 1646899200,
+                                "offset": 3600,
+                                "duration": 3600,
+                                "special": "daychange",
+                                "title": "Daychange from Day 1 to 2"
+                            },
+                            "next": {
+                                "fstart": "2022-03-10T09:00:00+01:00",
+                                "fend": "2022-03-10T09:20:00+01:00",
+                                "tstart": "09:00",
+                                "tend": "09:20",
+                                "start": 1646899200,
+                                "end": 1646900400,
+                                "offset": 3600,
+                                "duration": 1200,
+                                "title": "Erzeugung von Indoor-Karten-Daten unter Berücksichtigung von Barrierefreiheitsinformationen",
+                                "speaker": "Jan Schmalfuß-Schwarz",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "hls-native",
+                                "display": "Bühne 3 ",
+                                "type": "hls",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "Bühne 3 Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "AAC, VBR",
+                                        "url": "https://cdn.c3voc.de/hls/fossgis3/segment_Native.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "Bühne 3 FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/fossgis3/native_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "demosession",
+                        "schedulename": "Demosession",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/fossgis4/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/fossgis4/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/fossgis2022/demosession",
+                        "display": "Demosession",
+                        "stream": "fossgis4",
+                        "talks": {
+                            "current": {
+                                "fstart": "2022-03-09T19:00:00+01:00",
+                                "fend": "2022-03-10T09:00:00+01:00",
+                                "tstart": "19:00",
+                                "tend": "09:00",
+                                "start": 1646848800,
+                                "end": 1646899200,
+                                "offset": 3600,
+                                "duration": 3600,
+                                "special": "daychange",
+                                "title": "Daychange from Day 1 to 2"
+                            },
+                            "next": {
+                                "fstart": "2022-03-10T11:00:00+01:00",
+                                "fend": "2022-03-10T11:55:00+01:00",
+                                "tstart": "11:00",
+                                "tend": "11:55",
+                                "start": 1646906400,
+                                "end": 1646909700,
+                                "offset": 3600,
+                                "duration": 3300,
+                                "title": "Geodatenverarbeitung: QGIS-Modeller und Spatial-SQL gegenübergestellt",
+                                "speaker": "Claas Leiner, Bernd Marcus",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "hls-native",
+                                "display": "Demosession ",
+                                "type": "hls",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "Demosession Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "AAC, VBR",
+                                        "url": "https://cdn.c3voc.de/hls/fossgis4/segment_Native.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "Demosession FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/fossgis4/native_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

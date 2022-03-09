@@ -1,0 +1,17 @@
+#NAME c3voc (TV)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Bühne 1 - Live - FOSSGIS-Konferenz 2022
+#DESCRIPTION Bühne 1 - Live - FOSSGIS-Konferenz 2022
+#SERVICE 8739:256:0:8f71:62c6:bf00:7a776ee2:0:0:0:https%3a//cdn.c3voc.de/hls/fossgis1/native_hd.m3u8:Bühne 1 FullHD Video (HLS)
+#DESCRIPTION Bühne 1 FullHD Video (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Bühne 2 - Live - FOSSGIS-Konferenz 2022
+#DESCRIPTION Bühne 2 - Live - FOSSGIS-Konferenz 2022
+#SERVICE 8739:256:0:2716:c1f1:2d52:aeb9b8a3:0:0:0:https%3a//cdn.c3voc.de/hls/fossgis2/native_hd.m3u8:Bühne 2 FullHD Video (HLS)
+#DESCRIPTION Bühne 2 FullHD Video (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Bühne 3 - Live - FOSSGIS-Konferenz 2022
+#DESCRIPTION Bühne 3 - Live - FOSSGIS-Konferenz 2022
+#SERVICE 8739:256:0:d2db:3146:60f9:69c44cbb:0:0:0:https%3a//cdn.c3voc.de/hls/fossgis3/native_hd.m3u8:Bühne 3 FullHD Video (HLS)
+#DESCRIPTION Bühne 3 FullHD Video (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Demosession - Live - FOSSGIS-Konferenz 2022
+#DESCRIPTION Demosession - Live - FOSSGIS-Konferenz 2022
+#SERVICE 8739:256:0:f5aa:8648:cf55:89a37566:0:0:0:https%3a//cdn.c3voc.de/hls/fossgis4/native_hd.m3u8:Demosession FullHD Video (HLS)
+#DESCRIPTION Demosession FullHD Video (HLS)
