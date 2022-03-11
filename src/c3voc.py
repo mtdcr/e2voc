@@ -16,10 +16,9 @@ from distutils.version import LooseVersion
 from xml.etree import ElementTree
 
 import requests
-
-import epgdb
 from enigma import eDVBDB, eServiceReference, getEnigmaVersionString
 
+import epgdb
 
 known_modes = {
     1: {
