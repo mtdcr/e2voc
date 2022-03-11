@@ -134,7 +134,7 @@ def parse_schedule_xml(root):
         db = epgdb.EpgDatabase(os.path.join(pkgsysconfdir, "epg.db"))
     except ValueError as exc:
         logging.error(exc)
-        return
+        return False
 
     for tag in ("acronym", "title"):
         source_name = root.find("conference/{}".format(tag))
@@ -259,9 +259,12 @@ def parse_schedule_xml(root):
                 )
 
     db.commit()
+    return True
 
 
 def fetch_and_parse_schedules(data):
+    changed = False
+
     for event in data:
         schedule_url = event.get("schedule")
         if not schedule_url:
@@ -274,13 +277,16 @@ def fetch_and_parse_schedules(data):
             )
             root = fetch_xml(schedule_url)
             if root is not None and root.tag == "schedule":
-                parse_schedule_xml(root)
+                if parse_schedule_xml(root):
+                    changed = True
         else:
             logging.warning(
                 "Ignoring unsafe schedule URL for event {}: {}".format(
                     event.get("conference"), schedule_url
                 )
             )
+
+    return changed
 
 
 def parse_streams_v2(
@@ -382,11 +388,11 @@ def service_type_for_enigma_version(dvb_service_type):
 
 
 def update_streams_v2(url="https://streaming.media.ccc.de/streams/v2.json"):
-    changed = False
-
     streams = fetch_json(url)
+    if not streams:
+        return False
 
-    fetch_and_parse_schedules(streams)
+    changed = fetch_and_parse_schedules(streams)
 
     for dvb_service_type, mode in known_modes.items():
         lines = parse_streams_v2(
