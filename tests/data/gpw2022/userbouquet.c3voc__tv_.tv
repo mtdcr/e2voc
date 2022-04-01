@@ -1,0 +1,7 @@
+#NAME c3voc (TV)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::GPW 2022 Vorträge - Lecture Rooms - Deutscher Perl/Raku Workshop 2022
+#DESCRIPTION GPW 2022 Vorträge - Lecture Rooms - Deutscher Perl/Raku Workshop 2022
+#SERVICE 8739:256:0:52e8:8d63:d0e0:bdbe9feb:0:0:0:https%3a//cdn.c3voc.de/dash/gpw/manifest.mpd:GPW 2022 Vorträge Dash (DASH, baby)
+#DESCRIPTION GPW 2022 Vorträge Dash (DASH, baby)
+#SERVICE 8739:256:0:52e8:8d63:d0e0:bdbe9feb:0:0:0:https%3a//cdn.c3voc.de/hls/gpw/native_hd.m3u8:GPW 2022 Vorträge FullHD Video (HLS)
+#DESCRIPTION GPW 2022 Vorträge FullHD Video (HLS)

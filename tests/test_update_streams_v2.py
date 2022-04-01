@@ -38,11 +38,14 @@ logging.basicConfig(level=logging.DEBUG)
 DATADIR = os.path.join(os.path.dirname(__file__), "data")
 
 
-def local_fetch_xml(hostname, url):
+def local_fetch_xml(conference, hostname, url):
     u = urlparse(url)
     if u.hostname == hostname:
         assert u.path.startswith("/")
-        filename = os.path.join(DATADIR, u.path[1:])
+        if u.path[1:].startswith(conference + "/"):
+            filename = os.path.join(DATADIR, u.path[1:])
+        else:
+            filename = os.path.join(DATADIR, conference, u.path[1:])
 
         if xmlschema is not None:
             xsd = os.path.join(os.path.dirname(filename), "schedule.xml.xsd")
@@ -53,7 +56,10 @@ def local_fetch_xml(hostname, url):
             else:
                 logging.warning("No XML schema for {}".format(filename))
 
-        return ElementTree.parse(filename).getroot()
+        try:
+            return ElementTree.parse(filename).getroot()
+        except ElementTree.ParseError as exc:
+            return None
 
 
 class TestUpdateStreamsV2(unittest.TestCase):
@@ -106,26 +112,29 @@ class TestUpdateStreamsV2(unittest.TestCase):
                 assert not mismatch, repr(mismatch)
                 assert set(match) == files
 
-    @patch.object(c3voc, "fetch_xml", partial(local_fetch_xml, "data.c3voc.de"))
+    @patch.object(c3voc, "fetch_xml", partial(local_fetch_xml, "33C3", "data.c3voc.de"))
     def test_33C3(self):
         self._test_conference("33C3")
 
-    @patch.object(c3voc, "fetch_xml", partial(local_fetch_xml, "data.c3voc.de"))
+    @patch.object(c3voc, "fetch_xml", partial(local_fetch_xml, "rC3", "data.c3voc.de"))
     def test_rC3(self):
         self._test_conference("rC3")
 
-    @patch.object(c3voc, "fetch_xml", partial(local_fetch_xml, "data.c3voc.de"))
+    @patch.object(c3voc, "fetch_xml", partial(local_fetch_xml, "rC3_21", "data.c3voc.de"))
     def test_rC3_21(self):
         self._test_conference("rC3_21")
 
-    @patch.object(c3voc, "fetch_xml", partial(local_fetch_xml, "cfp.winterkongress.ch"))
+    @patch.object(c3voc, "fetch_xml", partial(local_fetch_xml, "wk22", "cfp.winterkongress.ch"))
     def test_wk22(self):
         self._test_conference("wk22")
 
-    @patch.object(c3voc, "fetch_xml", partial(local_fetch_xml, "pretalx.com"))
+    @patch.object(c3voc, "fetch_xml", partial(local_fetch_xml, "fossgis2022", "pretalx.com"))
     def test_fossgis2022(self):
         self._test_conference("fossgis2022")
 
+    @patch.object(c3voc, "fetch_xml", partial(local_fetch_xml, "gpw2022", "datenzoo.de"))
+    def test_gpw2022(self):
+        self._test_conference("gpw2022")
 
 if __name__ == "__main__":
     unittest.main(verbosity=2)

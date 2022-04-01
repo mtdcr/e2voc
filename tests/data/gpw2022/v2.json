@@ -1,0 +1,66 @@
+[
+    {
+        "conference": "Deutscher Perl/Raku Workshop 2022",
+        "slug": "gpw2022",
+        "author": "Frankfurt Perlmongers e.V.",
+        "description": "",
+        "keywords": "gpw2022, perl, leipzig",
+        "schedule": "https://datenzoo.de/schedule.xml",
+        "startsAt": "2022-03-30T08:00:00+0000",
+        "endsAt": "2022-04-01T19:00:00+0000",
+        "isCurrentlyStreaming": false,
+        "groups": [
+            {
+                "group": "Lecture Rooms",
+                "rooms": [
+                    {
+                        "slug": "GPW2022",
+                        "schedulename": "Vortrag",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/gpw/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/gpw/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/gpw2022/GPW2022",
+                        "display": "GPW 2022 Vorträge",
+                        "stream": "gpw",
+                        "talks": {
+                            "current": null,
+                            "next": null
+                        },
+                        "streams": [
+                            {
+                                "slug": "dash-native",
+                                "display": "GPW 2022 Vorträge Dash",
+                                "type": "dash",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "dash": {
+                                        "display": "DASH, baby",
+                                        "tech": "Adaptive multi-format-multi-bitrate-Stream to rule the World!!1elf",
+                                        "url": "https://cdn.c3voc.de/dash/gpw/manifest.mpd"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "GPW 2022 Vorträge FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/gpw/native_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
