@@ -66,15 +66,17 @@ class TestUpdateStreamsV2(unittest.TestCase):
     def _test_conference(self, conference):
         conference_dir = os.path.join(DATADIR, conference)
         with tempfile.TemporaryDirectory() as tmpdir:
-            epg_db = os.path.join(tmpdir, "epg.db")
-            shutil.copyfile(os.path.join(DATADIR, "epg.db"), epg_db)
+            for fn in ("bouquets.radio", "bouquets.tv", "epg.db"):
+                path = os.path.join(tmpdir, fn)
+                shutil.copyfile(os.path.join(DATADIR, fn), path)
+
             with patch.object(c3voc, "pkgsysconfdir", tmpdir):
                 with time_machine.travel("2000-02-02 00:00 +0000", tick=False):
                     c3voc.update_streams_v2(f"file://{conference_dir}/v2.json")
 
                 assert enigma.eDVBDB.reloadBouquets.called
 
-                con = sqlite3.connect(epg_db)
+                con = sqlite3.connect(os.path.join(tmpdir, "epg.db"))
                 with open(os.path.join(tmpdir, "epg.sql"), "w") as f:
                     f.writelines(map(lambda s: s + "\n", con.iterdump()))
                 con.close()
