@@ -1,0 +1,7 @@
+#NAME c3voc (Radio)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Mainstream - Live - DiVOC - Bridging Bubbles
+#DESCRIPTION Mainstream - Live - DiVOC - Bridging Bubbles
+#SERVICE 4097:256:0:b7df:3a16:c876:92fefdea:0:0:0:https%3a//cdn.c3voc.de/hls/csh/segment_Native.m3u8:Mainstream Audio (HLS)
+#DESCRIPTION Mainstream Audio (HLS)
+#SERVICE 4097:256:0:b7df:3a16:c876:92fefdea:0:0:0:https%3a//cdn.c3voc.de/hls/csh/segment_Translated.m3u8:Mainstream Audio (Translated) (HLS)
+#DESCRIPTION Mainstream Audio (Translated) (HLS)

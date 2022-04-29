@@ -1,0 +1,15 @@
+#NAME c3voc (TV)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Revision Main Stream - Main Stream - Revision 2022
+#DESCRIPTION Revision Main Stream - Main Stream - Revision 2022
+#SERVICE 8739:256:0:2e51:6d68:f42f:3e351f27:0:0:0:https%3a//cdn.c3voc.de/hls/revision/native_hd.m3u8:Revision Main Stream FullHD Video (HLS)
+#DESCRIPTION Revision Main Stream FullHD Video (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Revision Extras - Extras - Revision 2022
+#DESCRIPTION Revision Extras - Extras - Revision 2022
+#SERVICE 8739:256:0:747e:14f1:b020:672a96dc:0:0:0:https%3a//cdn.c3voc.de/hls/revisionextras/native_hd.m3u8:Revision Extras FullHD Video (HLS)
+#DESCRIPTION Revision Extras FullHD Video (HLS)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Mainstream - Live - DiVOC - Bridging Bubbles
+#DESCRIPTION Mainstream - Live - DiVOC - Bridging Bubbles
+#SERVICE 8739:256:0:b7df:3a16:c876:92fefdea:0:0:0:https%3a//cdn.c3voc.de/hls/csh/native_hd.m3u8:Mainstream FullHD Video (HLS)
+#DESCRIPTION Mainstream FullHD Video (HLS)
+#SERVICE 8739:256:0:b7df:3a16:c876:92fefdea:0:0:0:https%3a//cdn.c3voc.de/hls/csh/translated_hd.m3u8:Mainstream FullHD Video (Translated) (HLS)
+#DESCRIPTION Mainstream FullHD Video (Translated) (HLS)

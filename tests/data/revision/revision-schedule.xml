@@ -1,0 +1,1190 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<schedule>
+  <generator name='lukas lustiges script' version='0.1'></generator>
+  <version>0.1 a schedule</version>
+  <conference>
+    <acronym>revision</acronym>
+    <title>Revision 2022</title>
+    <start>2022-04-15</start>
+    <end>2022-04-18</end>
+    <days>4</days>
+    <timeslot_duration>00:05</timeslot_duration>
+    <base_url>https://2022.revision-party.net/events/timetable/</base_url>
+  </conference>
+  <day date='2022-04-15' start='2022-04-15T23:59:59+02:00' end='2022-04-15T23:59:59+02:00' index='1'>
+    <room name='Revision'>
+      <event guid='75287ff3-67f0-b468-b91a-e18d3d8a4330' id='1'>
+        <title>Photo, Animation/Video, ASCII/ANSI/PETSC...</title>
+        <slug>revision-1-deadline-photo-animation-video-ascii-ansi-petscii-3d-graphics-oldskool-music-oldskool-demo-amiga-intro-pc-256byte-pc-4k-pc-64k-tracked-music</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>DEADLINE</track>
+        <date>2022-04-15T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>04:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='9e234ddf-ac42-a0c7-346e-33e7d380ad1c' id='2'>
+        <title>Opening ceremony</title>
+        <slug>revision-2-event-opening-ceremony</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>EVENT</track>
+        <date>2022-04-15T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>00:30</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='c726dfa6-015e-0dc6-99e1-49f044d4bcdc' id='3'>
+        <title>Announcement of Fast Compos</title>
+        <slug>revision-3-event-announcement-of-fast-compos</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>EVENT</track>
+        <date>2022-04-15T16:30:00+02:00</date>
+        <start>16:30</start>
+        <duration>00:30</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='7f2b9bb9-175b-bc4e-940b-924a7c5fa41b' id='4'>
+        <title>Introduction to the demoscene</title>
+        <slug>revision-4-seminar-introduction-to-the-demoscene</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>SEMINAR</track>
+        <date>2022-04-15T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>02:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='86efd4f3-1421-a3db-8af6-891ff5ff17a9' id='5'>
+        <title>Satellite hopping</title>
+        <slug>revision-5-event-satellite-hopping</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>EVENT</track>
+        <date>2022-04-15T19:00:00+02:00</date>
+        <start>19:00</start>
+        <duration>01:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='79e93200-ace9-80ca-eac2-28488ff79e93' id='6'>
+        <title>Meteoriks</title>
+        <slug>revision-6-event-meteoriks</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>EVENT</track>
+        <date>2022-04-15T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>01:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='f2355886-4ad8-2da1-3691-460ca418ad09' id='7'>
+        <title>Womp is the most powerful web-based cont...</title>
+        <slug>revision-7-seminar-womp-is-the-most-powerful-web-based-content-builder-for-modern-creators-intuitive-and-easy-to-use</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>SEMINAR</track>
+        <date>2022-04-15T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>01:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='18a78f32-c66c-89dc-b058-8a8981bd3f77' id='8'>
+        <title>Franky's traditional beer seminar. The b...</title>
+        <slug>revision-8-2nd-stream-franky-s-traditional-beer-seminar-the-best-of-the-worst-belgian-beers-edition</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>2nd STREAM</track>
+        <date>2022-04-15T22:00:00+02:00</date>
+        <start>22:00</start>
+        <duration>00:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='8162e282-012a-c82f-7401-cfc843c4ce60' id='9'>
+        <title>Shader Showdown Quarter Finals</title>
+        <slug>revision-9-event-shader-showdown-quarter-finals</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>EVENT</track>
+        <date>2022-04-15T22:00:00+02:00</date>
+        <start>22:00</start>
+        <duration>02:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+  </day>
+  <day date='2022-04-16' start='2022-04-16T23:59:59+02:00' end='2022-04-16T23:59:59+02:00' index='2'>
+    <room name='Revision'>
+      <event guid='d0cc9ccb-7900-2943-5216-bf9041731d75' id='10'>
+        <title>ghost</title>
+        <slug>revision-10-concert-ghost</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>CONCERT</track>
+        <date>2022-04-16T00:00:00+02:00</date>
+        <start>00:00</start>
+        <duration>01:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='cf55f808-29b3-4ed4-4278-352a5040e6fa' id='11'>
+        <title>Morning coffee with DFox &amp; dojoe: maj7 j...</title>
+        <slug>revision-11-event-morning-coffee-with-dfox-dojoe-maj7-jam-session</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>EVENT</track>
+        <date>2022-04-16T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>01:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='6fdde59a-98b3-492f-76dd-361f8fdf9440' id='12'>
+        <title>Revision 5k Run</title>
+        <slug>revision-12-event-revision-5k-run</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>EVENT</track>
+        <date>2022-04-16T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>00:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='98d9c5f7-c874-15f1-c85f-1c0ed5355e31' id='13'>
+        <title>Modern Graphics, 4K Executable Graphics,...</title>
+        <slug>revision-13-deadline-modern-graphics-4k-executable-graphics-animated-gif-wild-game-executable-music-streaming-music-oldskool-graphics-oldskool-4k-intro-amiga-demo-pc-8k-pc-demo</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>DEADLINE</track>
+        <date>2022-04-16T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>00:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='f60abf78-ac98-c887-6e26-cc74b644501d' id='14'>
+        <title>A casual discussion about diffuse lighting</title>
+        <slug>revision-14-2nd-stream-a-casual-discussion-about-diffuse-lighting</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>2nd STREAM</track>
+        <date>2022-04-16T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>01:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='42f9efda-ec04-b63e-c386-ad11f6a99f92' id='15'>
+        <title>Tracked Music</title>
+        <slug>revision-15-compo-tracked-music</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>COMPO</track>
+        <date>2022-04-16T13:00:00+02:00</date>
+        <start>13:00</start>
+        <duration>01:30</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='19a4de63-dbf3-f842-4c3b-215c0afa960e' id='16'>
+        <title>Shader Showdown Semi Finals</title>
+        <slug>revision-16-event-shader-showdown-semi-finals</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>EVENT</track>
+        <date>2022-04-16T14:30:00+02:00</date>
+        <start>14:30</start>
+        <duration>01:30</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='662fac5f-5164-3083-3309-e729da0eb895' id='17'>
+        <title>Meteoriks Laureates Screening</title>
+        <slug>revision-17-event-meteoriks-laureates-screening</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>EVENT</track>
+        <date>2022-04-16T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>00:30</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='9e25ce66-66cb-e817-b90d-4d40657b8bae' id='18'>
+        <title>Fast Music, Paintover</title>
+        <slug>revision-18-deadline-fast-music-paintover</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>DEADLINE</track>
+        <date>2022-04-16T16:30:00+02:00</date>
+        <start>16:30</start>
+        <duration>00:30</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='154e3608-a38c-fb16-e9a5-62660fdd4456' id='19'>
+        <title>Shader Showdown Final</title>
+        <slug>revision-19-event-shader-showdown-final</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>EVENT</track>
+        <date>2022-04-16T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>00:30</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='615c8599-352d-fbbb-8045-979463393d5f' id='20'>
+        <title>Business Forum</title>
+        <slug>revision-20-event-business-forum</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>EVENT</track>
+        <date>2022-04-16T17:30:00+02:00</date>
+        <start>17:30</start>
+        <duration>00:30</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='1a2772d0-bdec-85ed-bbea-bd7484e5ca93' id='21'>
+        <title>Bloop Museum tour</title>
+        <slug>revision-21-2nd-stream-bloop-museum-tour</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>2nd STREAM</track>
+        <date>2022-04-16T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>00:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='9ef2e4fc-328e-4d59-10f0-8e82278ff462' id='22'>
+        <title>ASCII/ANSI/PETSCII</title>
+        <slug>revision-22-compo-ascii-ansi-petscii</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>COMPO</track>
+        <date>2022-04-16T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>00:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='78917d16-7d80-57e8-8ad6-c5632c6cb1c7' id='23'>
+        <title>Oldskool Music</title>
+        <slug>revision-23-compo-oldskool-music</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>COMPO</track>
+        <date>2022-04-16T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>00:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='e8706450-dad5-05b5-465c-f90a77b26c1f' id='24'>
+        <title>Photo</title>
+        <slug>revision-24-compo-photo</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>COMPO</track>
+        <date>2022-04-16T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>00:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='530a80f5-d94c-7abe-785f-63e85addde35' id='25'>
+        <title>3D</title>
+        <slug>revision-25-compo-3d</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>COMPO</track>
+        <date>2022-04-16T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>01:30</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='d59caf96-484d-a5cc-bd1d-ad7c743bd53f' id='26'>
+        <title>Animation/Video</title>
+        <slug>revision-26-compo-animation-video</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>COMPO</track>
+        <date>2022-04-16T19:30:00+02:00</date>
+        <start>19:30</start>
+        <duration>00:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='e23a010b-f8f6-caae-189f-e61380db581e' id='27'>
+        <title>PC 64k</title>
+        <slug>revision-27-compo-pc-64k</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>COMPO</track>
+        <date>2022-04-16T19:30:00+02:00</date>
+        <start>19:30</start>
+        <duration>01:30</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='2f08737f-aa17-b5bf-617a-f370c94c4e2b' id='28'>
+        <title>lug00ber</title>
+        <slug>revision-28-concert-lug00ber</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>CONCERT</track>
+        <date>2022-04-16T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>01:30</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='11192f85-effe-1eba-5b8a-5333036a717f' id='29'>
+        <title>Amiga Intro</title>
+        <slug>revision-29-compo-amiga-intro</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>COMPO</track>
+        <date>2022-04-16T22:30:00+02:00</date>
+        <start>22:30</start>
+        <duration>00:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='061a98a0-3553-4426-af18-946678aff939' id='30'>
+        <title>PC 4k Intro</title>
+        <slug>revision-30-compo-pc-4k-intro</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>COMPO</track>
+        <date>2022-04-16T22:30:00+02:00</date>
+        <start>22:30</start>
+        <duration>00:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='5ae29412-7514-8bbf-8137-72a5a095b6eb' id='31'>
+        <title>256 Byte Intro</title>
+        <slug>revision-31-compo-256-byte-intro</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>COMPO</track>
+        <date>2022-04-16T22:30:00+02:00</date>
+        <start>22:30</start>
+        <duration>00:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='e04943ea-abd6-f928-0277-abe2c91228b8' id='32'>
+        <title>Oldskool Demo</title>
+        <slug>revision-32-compo-oldskool-demo</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>COMPO</track>
+        <date>2022-04-16T22:30:00+02:00</date>
+        <start>22:30</start>
+        <duration>02:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+  </day>
+  <day date='2022-04-17' start='2022-04-17T23:59:59+02:00' end='2022-04-17T23:59:59+02:00' index='3'>
+    <room name='Revision'>
+      <event guid='7555b3e5-cf81-896d-80f3-ea2bd6354554' id='33'>
+        <title>Compo Studio</title>
+        <slug>revision-33-event-compo-studio</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>EVENT</track>
+        <date>2022-04-17T00:30:00+02:00</date>
+        <start>00:30</start>
+        <duration>00:30</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='a58c87e4-15d4-106d-085a-d83f34fdd6c7' id='34'>
+        <title>Mäck</title>
+        <slug>revision-34-concert-mack</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>CONCERT</track>
+        <date>2022-04-17T01:00:00+02:00</date>
+        <start>01:00</start>
+        <duration>01:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='c6523894-24b7-279d-6d67-6abc4b4ab32e' id='35'>
+        <title>Morning coffee with DFox &amp; dojoe</title>
+        <slug>revision-35-event-morning-coffee-with-dfox-dojoe</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>EVENT</track>
+        <date>2022-04-17T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>00:30</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='e7c5f128-23af-1f0c-0ae0-6acbda8dc56b' id='36'>
+        <title>History and outlook on the Data Protecti...</title>
+        <slug>revision-36-2nd-stream-history-and-outlook-on-the-data-protection-territory-dilemma</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>2nd STREAM</track>
+        <date>2022-04-17T11:30:00+02:00</date>
+        <start>11:30</start>
+        <duration>01:30</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='cbaed160-85fe-75e4-8c50-f8e6d7e5d53d' id='37'>
+        <title>Executable Music</title>
+        <slug>revision-37-compo-executable-music</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>COMPO</track>
+        <date>2022-04-17T13:00:00+02:00</date>
+        <start>13:00</start>
+        <duration>00:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='edf66429-00aa-1cb4-e161-bdf786c5b83a' id='38'>
+        <title>Streaming Music</title>
+        <slug>revision-38-compo-streaming-music</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>COMPO</track>
+        <date>2022-04-17T13:00:00+02:00</date>
+        <start>13:00</start>
+        <duration>00:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='e6364bb1-1fd4-3f14-a3f2-e28db2e242cf' id='39'>
+        <title>Modern Graphics</title>
+        <slug>revision-39-compo-modern-graphics</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>COMPO</track>
+        <date>2022-04-17T13:00:00+02:00</date>
+        <start>13:00</start>
+        <duration>02:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='8ea06d95-d1aa-bd57-28a4-e1d2430711fd' id='40'>
+        <title>Ideas, Tech and Goals behind TAOHC - Can...</title>
+        <slug>revision-40-2nd-stream-ideas-tech-and-goals-behind-taohc-can-geeks-dance</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>2nd STREAM</track>
+        <date>2022-04-17T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='8ad0207a-8f10-bab9-56a4-ac943ad90d4e' id='41'>
+        <title>Fast Music</title>
+        <slug>revision-41-compo-fast-music</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>COMPO</track>
+        <date>2022-04-17T15:30:00+02:00</date>
+        <start>15:30</start>
+        <duration>00:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='29ed8893-47d4-900d-1587-d879f9a46b51' id='42'>
+        <title>4k Executable Graphics</title>
+        <slug>revision-42-compo-4k-executable-graphics</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>COMPO</track>
+        <date>2022-04-17T15:30:00+02:00</date>
+        <start>15:30</start>
+        <duration>00:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='2cc2058f-e6b8-8aab-30df-00c54e69eba4' id='43'>
+        <title>Oldskool Graphics</title>
+        <slug>revision-43-compo-oldskool-graphics</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>COMPO</track>
+        <date>2022-04-17T15:30:00+02:00</date>
+        <start>15:30</start>
+        <duration>00:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='87e724b6-cccf-1493-d0d2-4c134092c8bb' id='44'>
+        <title>WILD</title>
+        <slug>revision-44-compo-wild</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>COMPO</track>
+        <date>2022-04-17T15:30:00+02:00</date>
+        <start>15:30</start>
+        <duration>01:45</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='782f115b-2595-2a10-6351-72bf41c21de2' id='45'>
+        <title>Animated GIF</title>
+        <slug>revision-45-compo-animated-gif</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>COMPO</track>
+        <date>2022-04-17T17:15:00+02:00</date>
+        <start>17:15</start>
+        <duration>00:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='76446074-e8ba-787a-838b-64354add5885' id='46'>
+        <title>Paintover</title>
+        <slug>revision-46-compo-paintover</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>COMPO</track>
+        <date>2022-04-17T17:15:00+02:00</date>
+        <start>17:15</start>
+        <duration>00:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='1a1917cd-1b57-32a6-2233-6ce2b0c2389b' id='47'>
+        <title>Game</title>
+        <slug>revision-47-compo-game</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>COMPO</track>
+        <date>2022-04-17T17:15:00+02:00</date>
+        <start>17:15</start>
+        <duration>00:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='c3361cab-c105-633a-5c59-63b84517eb00' id='48'>
+        <title>Oldskool 4k Intro</title>
+        <slug>revision-48-compo-oldskool-4k-intro</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>COMPO</track>
+        <date>2022-04-17T17:15:00+02:00</date>
+        <start>17:15</start>
+        <duration>02:45</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='954c589e-20c2-fdfc-4112-c5a1e5054b85' id='49'>
+        <title>wayfinder</title>
+        <slug>revision-49-concert-wayfinder</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>CONCERT</track>
+        <date>2022-04-17T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>02:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='cb814443-d785-850b-5f49-346d22e3fc29' id='50'>
+        <title>PC 8k Intro</title>
+        <slug>revision-50-compo-pc-8k-intro</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>COMPO</track>
+        <date>2022-04-17T22:00:00+02:00</date>
+        <start>22:00</start>
+        <duration>00:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='9895eeb1-dbe1-d8f0-8da9-94402c587e8f' id='51'>
+        <title>Amiga Demo</title>
+        <slug>revision-51-compo-amiga-demo</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>COMPO</track>
+        <date>2022-04-17T22:00:00+02:00</date>
+        <start>22:00</start>
+        <duration>00:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='c8b3d5d9-b66d-aa44-7f84-204785447b4c' id='52'>
+        <title>PC Demo</title>
+        <slug>revision-52-compo-pc-demo</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>COMPO</track>
+        <date>2022-04-17T22:00:00+02:00</date>
+        <start>22:00</start>
+        <duration>02:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+  </day>
+  <day date='2022-04-18' start='2022-04-18T23:59:59+02:00' end='2022-04-18T23:59:59+02:00' index='4'>
+    <room name='Revision'>
+      <event guid='5daffc4c-6106-e843-76a7-17645c736bb1' id='53'>
+        <title>Compo Studio</title>
+        <slug>revision-53-event-compo-studio</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>EVENT</track>
+        <date>2022-04-18T00:00:00+02:00</date>
+        <start>00:00</start>
+        <duration>00:30</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='e9d11ac7-a224-9241-d81b-55c3c97d3ab7' id='54'>
+        <title>dojoe</title>
+        <slug>revision-54-concert-dojoe</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>CONCERT</track>
+        <date>2022-04-18T00:30:00+02:00</date>
+        <start>00:30</start>
+        <duration>01:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='1ea32ef9-6601-211f-e93b-add6bba93fec' id='55'>
+        <title>Voting</title>
+        <slug>revision-55-deadline-voting</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>DEADLINE</track>
+        <date>2022-04-18T10:00:00+02:00</date>
+        <start>10:00</start>
+        <duration>01:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='9eab4089-5bcb-c338-6046-99a99726b06d' id='56'>
+        <title>Morning coffee with DFox &amp; dojoe: AMA</title>
+        <slug>revision-56-event-morning-coffee-with-dfox-dojoe-ama</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>EVENT</track>
+        <date>2022-04-18T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>01:00</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='45d8685a-c161-2065-cef1-c0021176d5c7' id='57'>
+        <title>Prizegiving</title>
+        <slug>revision-57-event-prizegiving</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>EVENT</track>
+        <date>2022-04-18T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>01:30</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid='6285ed16-163e-1ff8-b4f6-890ea5bbfdc9' id='58'>
+        <title>Stream ends</title>
+        <slug>revision-58-event-stream-ends</slug>
+        <subtitle></subtitle>
+        <room>Revision</room>
+        <track>EVENT</track>
+        <date>2022-04-18T13:30:00+02:00</date>
+        <start>13:30</start>
+        <duration>00:15</duration>
+        <language>en</language>
+        <type>lecture</type>
+        <recording><license/><optout>false</optout></recording>
+        <url>https://2022.revision-party.net</url>
+        <abstract/>
+        <description/>
+        <logo/>
+        <persons><person id='1'>Revision</person></persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+  </day>
+</schedule>

@@ -1,0 +1,818 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!-- Made with love by pretalx v2.3.1. -->
+<schedule>
+    <generator name="pretalx" version="2.3.1" />
+    <version>0.23</version>
+    <conference>
+        <acronym>divoc-bb3</acronym>
+        <title>DiVOC - Bridging Bubbles</title>
+        <start>2022-04-15</start>
+        <end>2022-04-18</end>
+        <days>4</days>
+        <timeslot_duration>00:05</timeslot_duration>
+        <base_url>https://pretalx.c3voc.de/divoc-bb3/schedule/</base_url>
+        <time_zone_name>Europe/Berlin</time_zone_name>
+    </conference>
+    <day index='1' date='2022-04-15' start='2022-04-15T04:00:00+02:00' end='2022-04-16T03:59:00+02:00'>
+        <room name='Mainstream' guid='a288e167-b7d2-426f-a87f-5fb503601d61'>
+            <event guid='448959aa-e78a-5dc2-b9f3-9e613f66d9bb' id='48946'>
+                <date>2022-04-15T14:00:00+02:00</date>
+                <start>14:00</start>
+                <duration>01:00</duration>
+                <room>Mainstream</room>
+                <slug>divoc-bb3-48946-briefgeheimnis-wahren-chatkontrolle-stoppen-</slug>
+                <url>https://pretalx.c3voc.de/divoc-bb3/talk/ZHSERQ/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Briefgeheimnis wahren - Chatkontrolle stoppen!</title>
+                <subtitle></subtitle>
+                <track>Politics &amp; Society</track>
+                <type>Talk/Performance (30 minutes plus Q&amp;A)</type>
+                <language>de</language>
+                <abstract>Kampagne gegen die EU-Pl&#228;ne zur Chatkontrolle.</abstract>
+                <description>Im Mai plant die EU-Kommission einen Verordnungsentwurf vorzulegen, der Anbieter von Kommunikationsdiensten verpflichtet, s&#228;mtliche - insbesondere auch verschl&#252;sselte - Kommunikation auf Darstellungen von Kindesmissbrauch zu durchsuchen. Das wird auf ein Verbot von Ende-zu-Ende-Verschl&#252;sselung oder deren Untergraben durch den verpflichtenden Einsatz von Client-Side-Scanning hinauslaufen, bei dem die Kommunikation auf den Endger&#228;ten umfassend kontrolliert wird. Noch haben wir die M&#246;glichkeit, die Pl&#228;ne im Keim zu ersticken. Wenn das EU-Parlament irgendwann dar&#252;ber entscheidet, wird es zu sp&#228;t sein. Daher: #Chatkontrolle stoppen!</description>
+                <logo></logo>
+                <persons>
+                    <person id='302'>Konstantin Macher (Digitalcourage)</person><person id='246'>khaleesi</person><person id='3046'>Tom (Digitale Gesellschaft)</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='061fc16c-9f05-55ba-b70f-3c69f3ded333' id='48299'>
+                <date>2022-04-15T15:30:00+02:00</date>
+                <start>15:30</start>
+                <duration>01:15</duration>
+                <room>Mainstream</room>
+                <slug>divoc-bb3-48299-digitale-manipulationsresilienz-so-fallen-wir-nicht-auf-manipulative-kommunikation-rein</slug>
+                <url>https://pretalx.c3voc.de/divoc-bb3/talk/XGAX8E/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Digitale Manipulationsresilienz: So fallen wir nicht auf manipulative Kommunikation rein</title>
+                <subtitle></subtitle>
+                <track>Resiliency &amp; Intelligence</track>
+                <type>Talk/Performance (30 minutes plus Q&amp;A)</type>
+                <language>de</language>
+                <abstract>Psychologische Andockstellen machen uns empf&#228;nglich f&#252;r Populismus, Propaganda, Radikalisierung und Verschw&#246;rungsideologie. Zeit, sie kennenzulernen.</abstract>
+                <description>Manipulative Kommunikation macht uns im digitalen Raum das Leben schwer. Problematische Ph&#228;nomene wie Populismus, Propaganda, Radikalisierung und Verschw&#246;rungsideologie nutzen unter anderem psychologische Andockstellen aus, die wir alle in uns tragen. H&#246;chste Zeit also, mit dem Fingerzeigen auf andere aufzuh&#246;ren und uns damit zu besch&#228;ftigen, was uns alle (!) f&#252;r Manipulation potenziell empf&#228;nglich macht. Wir k&#246;nnen nicht &#228;ndern, dass wir diese Andockpunkte haben. Doch sie zu kennen hei&#223;t, sich und andere sch&#252;tzen zu k&#246;nnen.</description>
+                <logo>/media/divoc-bb3/submissions/XGAX8E/TqUW2DoR_400x400_84Bi1r2.jpg</logo>
+                <persons>
+                    <person id='2528'>Lea Richter</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='9abad567-d5eb-5e39-b2c2-0d3fb36e5a6e' id='48295'>
+                <date>2022-04-15T17:00:00+02:00</date>
+                <start>17:00</start>
+                <duration>00:45</duration>
+                <room>Mainstream</room>
+                <slug>divoc-bb3-48295-zutaten-der-fairen-elektronik</slug>
+                <url>https://pretalx.c3voc.de/divoc-bb3/talk/WG7AKU/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Zutaten der (fairen) Elektronik</title>
+                <subtitle></subtitle>
+                <track>Science &amp; Technology</track>
+                <type>Talk/Performance (30 minutes plus Q&amp;A)</type>
+                <language>de</language>
+                <abstract>Wir zeigen, wie sich mit Hilfe &#246;ffentlich verf&#252;gbarer Daten der Material-Fu&#223;abdruck eines Elektronikger&#228;ts berechnen l&#228;sst.</abstract>
+                <description>Um die Nachhaltigkeit von Elektronikger&#228;ten bewerten zu k&#246;nnen, muss mensch wissen, was drin ist. Denn anhand der enthaltenen Rohstoffe l&#228;sst sich z.B. einsch&#228;tzen, ob beim Rohstoffabbau mit Menschenrechtsverletzungen zu rechnen ist.
+
+Die Rohstoffzusammensetzung eines Ger&#228;ts herauszufinden ist gar nicht so einfach, wenn es aus vielen Einzelkomponenten besteht, &#252;ber die nur teilweise Daten vorhanden sind. Um diese L&#252;cke zu schlie&#223;en, haben wir &#246;ffentlich verf&#252;gbare Daten gecrawlt und mit Hilfe eines Clustering-Algorithmus ein Verfahren entwickelt, um auf die Zusammensetzung unbekannter Bauteile zu schlie&#223;en. So k&#246;nnen wir das Wissen aus den &#246;ffentlich verf&#252;gbaren Datens&#228;tzen auf weitere Bauteile &#252;bertragen und den Zutaten fairer Elektronik auf die Spur kommen.</description>
+                <logo></logo>
+                <persons>
+                    <person id='3039'>Sebastian Jekutsch</person><person id='3042'>Lara Pfennigschmidt</person><person id='2525'>xian</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='d374f589-fd66-5a8f-80dc-f95f2567667d' id='48297'>
+                <date>2022-04-15T18:00:00+02:00</date>
+                <start>18:00</start>
+                <duration>00:45</duration>
+                <room>Mainstream</room>
+                <slug>divoc-bb3-48297-zensur-wehrhafte-demokratie-und-meinungsfreiheit-nach-24-2</slug>
+                <url>https://pretalx.c3voc.de/divoc-bb3/talk/QKAZMM/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Zensur, wehrhafte Demokratie und Meinungsfreiheit nach 24/2</title>
+                <subtitle></subtitle>
+                <track>Politics &amp; Society</track>
+                <type>Talk/Performance (30 minutes plus Q&amp;A)</type>
+                <language>de</language>
+                <abstract>Was ist Zensur? Wer sollte was wo sagen d&#252;rfen? K&#246;nnen wir Kriterien finden, f&#252;r wehrhafe Demokratien in Zeiten von Informationskriegen?</abstract>
+                <description>Westliche L&#228;nder verbieten RT und Sputnik. Google, Facebook, Twitter &amp; Co stellen ihre Dienste in Russland ein. Russland verbietet das Wort &quot;Krieg&quot;. Gleichzeitig werden auf allen m&#246;glichen Kan&#228;len wiederspr&#252;chliche Faktenwelten verbreitet. Zumindest in Europa waren wir noch nie so nah an 1984. 
+
+Neben dem menschlichen Leid und den &#246;konomischen Wellen, d&#252;rften diese Entwicklungen und Eingriffe uns noch lange begleiten. Themen die nah an Diskussionen sind, die wir &#252;ber Jahre immer wieder hatten.
+
+Viele Positionen mussten in den letzten Wochen ger&#228;umt, umgeschmissen oder korrigiert werden. Die Themen &quot;Zensur&quot; sind greifbar auf dem Tisch. Bevor wir das Feld anderen lassen, sollten wir &#252;berpr&#252;fen, was f&#252;r uns nach dem 24. Februar gilt, weiter gilt oder erst recht gilt.
+
+Was ist Zensur? Wer sollte was wo sagen d&#252;rfen? Wer sollte dar&#252;ber entscheiden? Gibt es Grenzen? Wenn ja, wer sollte diese benennen, wer sie umsetzen? K&#246;nnen wir greifbare, allgemeing&#252;ltige Kriterien finden, die unsere Demokratien werhaft halten und auch in einem Informationskrieg bestehen k&#246;nnen?
+
+Dies ist weniger als Vortrag denn als Diskussion gedacht. Ich habe keine endg&#252;ltigen Antworten, aber Fragen, die hoffentlich nicht nur ich mir stelle.</description>
+                <logo></logo>
+                <persons>
+                    <person id='2526'>katzazi</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='6afa33da-805e-52be-bde9-05775c67c968' id='48908'>
+                <date>2022-04-15T18:45:00+02:00</date>
+                <start>18:45</start>
+                <duration>00:14</duration>
+                <room>Mainstream</room>
+                <slug>divoc-bb3-48908-abendmusik-teaser-radio-darmstadt</slug>
+                <url>https://pretalx.c3voc.de/divoc-bb3/talk/XQQP3S/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Abendmusik Teaser Radio Darmstadt</title>
+                <subtitle></subtitle>
+                <track>Music</track>
+                <type>Music 120min</type>
+                <language>en</language>
+                <abstract>Ein Musikteaser f&#252;r das Musikprogramm am Abend als &#220;bergang vom Radio.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='19'>DJ Spock</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='df830808-cfbf-5a9c-9dad-a24fc1504aa0' id='48292'>
+                <date>2022-04-15T19:00:00+02:00</date>
+                <start>19:00</start>
+                <duration>00:45</duration>
+                <room>Mainstream</room>
+                <slug>divoc-bb3-48292-the-last-frontier-on-icc-profiles</slug>
+                <url>https://pretalx.c3voc.de/divoc-bb3/talk/BP8NKN/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>The Last Frontier on ICC Profiles</title>
+                <subtitle></subtitle>
+                <track>Science &amp; Technology</track>
+                <type>Talk/Performance (30 minutes plus Q&amp;A)</type>
+                <language>en</language>
+                <abstract>In this talk, I will walk you over the essentials of colour management, and how to implement a color space from its standards into an ICC profile.</abstract>
+                <description>*Colour management* is a key component of imaging applications. Generally speaking, it consists of tools to unambiguously reproduce and transform colour image data between input devices, storage facilities, and output devices. The data is usually (though not always) described as coordinates in a given *colour space*. *ICC profiles* specify how to transform them between this colour space (e.g. one describing your camera&apos;s gamut) and an intermediate, device-independent colour space.
+
+A staple of analog and digital broadcasting, the YCbCr colour space is defined in three distinct International Telecommunications Union recommendations (ITU-R): BT.601-7, BT.709-6, and BT.2020-2. Colour management systems such as Little CMS have long supported it, even though it may well be the only colour space that cannot be tested properly. This is because there are no ICC profiles in the wild that target it; except for two such copyrighted specimens, scraped a long time ago from Sun machines, and lost to the mists of time.
+
+This talk will show you how I fixed this. I will showcase the essentials of colour management, the standards describing the YCbCr colour space, and how to go from its specification to an ICC profile implementing such a transformation.
+
+*(Image is [Simon A. Eugster, Public domain, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:YCbCr-CbCr_Scaled_Y50.png).)*</description>
+                <logo>/media/divoc-bb3/submissions/BP8NKN/1024px-YCbCr-CbCr_Scaled_Y50_ze153HT.png</logo>
+                <persons>
+                    <person id='2522'>Amyspark</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='659a40ff-dab4-537e-af6d-2bbbded2248d' id='48905'>
+                <date>2022-04-15T20:00:00+02:00</date>
+                <start>20:00</start>
+                <duration>00:45</duration>
+                <room>Mainstream</room>
+                <slug>divoc-bb3-48905-creative-bubbles-betalars-meets-dj-spock</slug>
+                <url>https://pretalx.c3voc.de/divoc-bb3/talk/HHEWEW/</url>
+                <recording>
+                    <license></license>
+                    <optout>true</optout>
+                </recording>
+                <title>creative bubbles - betalars meets dj-spock</title>
+                <subtitle></subtitle>
+                <track>Arts &amp; Culture</track>
+                <type>Talk/Performance (30 minutes plus Q&amp;A)</type>
+                <language>de</language>
+                <abstract>Betalars bastelt mit Musikunterst&#252;tzung von DJ-Spock live an einem Album-Cover.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='26'>betalars</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='87f29cae-b711-5c95-89b4-4f0b53b90103' id='48904'>
+                <date>2022-04-15T21:00:00+02:00</date>
+                <start>21:00</start>
+                <duration>01:00</duration>
+                <room>Mainstream</room>
+                <slug>divoc-bb3-48904-socially-aardvark-eigenform-konzert-</slug>
+                <url>https://pretalx.c3voc.de/divoc-bb3/talk/XBUAXE/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Socially Aardvark &amp; Eigenform - Konzert -</title>
+                <subtitle></subtitle>
+                <track>Music</track>
+                <type>Music 30min</type>
+                <language>en</language>
+                <abstract>&quot;Socially Aardvark &amp; Eigenform&#8221; live auf der c-base.</abstract>
+                <description>Live improvised electro experience shuffling sounds around for maximized audio pleasure.
+Nerd made, nerd approved. For your safety.</description>
+                <logo></logo>
+                <persons>
+                    <person id='211'>artfwo</person><person id='298'>excds</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='ec222c7b-0594-5dd1-b861-83a8bbdbb103' id='48903'>
+                <date>2022-04-15T22:00:00+02:00</date>
+                <start>22:00</start>
+                <duration>01:00</duration>
+                <room>Mainstream</room>
+                <slug>divoc-bb3-48903-systemabsturz-konzert</slug>
+                <url>https://pretalx.c3voc.de/divoc-bb3/talk/RSCPUJ/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Systemabsturz - Konzert</title>
+                <subtitle></subtitle>
+                <track>Music</track>
+                <type>Music 30min</type>
+                <language>en</language>
+                <abstract>Systemabsturz, live auf der c-base.
+Die verd&#228;chtig gute Pop-Band mit ChipTune einschl&#228;gen, mit Texten rund um Netzkultur und Privatsph&#228;re.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='3048'>Systemabsturz</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='1e7668fb-577a-5462-80da-182a854b6016' id='48943'>
+                <date>2022-04-15T23:00:00+02:00</date>
+                <start>23:00</start>
+                <duration>02:00</duration>
+                <room>Mainstream</room>
+                <slug>divoc-bb3-48943-kriz-lafraize-dj-set</slug>
+                <url>https://pretalx.c3voc.de/divoc-bb3/talk/PERXAA/</url>
+                <recording>
+                    <license></license>
+                    <optout>true</optout>
+                </recording>
+                <title>Kriz LaFraize - DJ Set</title>
+                <subtitle></subtitle>
+                <track>Music</track>
+                <type>Music 120min</type>
+                <language>en</language>
+                <abstract>&#8220;The greatest gift I can give to my audience, is the feeling of joy, happiness and a moment of dreaming&#8221;</abstract>
+                <description>&#8220;The greatest gift I can give to my audience, is the feeling of joy, happiness and a moment of dreaming&#8221; - introduces native Kyrgyz DJ/ producer Kriz LaFraize. Bringing together deep groove, hypotonic melodies, organic rhythms, perfectly mixed with electronic beats and experimental spice is what her approach is about.
+
+Kriz LaFraize intuitively steps in between different beats, from downbeat to techno, genres, worlds, cultures to share the momentum and stimulate reflection through irritation. The DJ/ producer has already spun records at various events worldwide.
+
+She encourages people to cross borders, connect contrasts, forget about the differences and opposites to give the audience the full experience of empowering adventure and discovery.
+
+https://soundcloud.com/krizlafraize
+https://www.beatport.com/release/blurred-human/3249539
+https://open.spotify.com/artist/2Z3E0Slg8ed9akiHNORyXV?si=fI8kjZ2rTMKZiKBlqmFEIg&amp;nd=1
+https://www.youtube.com/watch?v=GOlm5IAktN0
+https://music.apple.com/de/album/blurred-human-single/1545225960</description>
+                <logo>/media/divoc-bb3/submissions/PERXAA/unbenannt-8832_CHUFIPh.JPG</logo>
+                <persons>
+                    <person id='3053'>Kriz LaFraize</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='40f7da41-7593-5dd9-a79d-f8b76b8836aa' id='48942'>
+                <date>2022-04-16T01:00:00+02:00</date>
+                <start>01:00</start>
+                <duration>02:00</duration>
+                <room>Mainstream</room>
+                <slug>divoc-bb3-48942-peter-sniffin-dj-set</slug>
+                <url>https://pretalx.c3voc.de/divoc-bb3/talk/7LZ8EA/</url>
+                <recording>
+                    <license></license>
+                    <optout>true</optout>
+                </recording>
+                <title>PETER SNIFFIN - DJ Set</title>
+                <subtitle></subtitle>
+                <track>Music</track>
+                <type>Music 120min</type>
+                <language>en</language>
+                <abstract>Dj and producer duo based in Leipzig
+
+https://soundcloud.com/peter_sniffin</abstract>
+                <description></description>
+                <logo>/media/divoc-bb3/submissions/7LZ8EA/peter_LMDtRks.jpg</logo>
+                <persons>
+                    <person id='3054'>PETER SNIFFIN</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            
+        </room>
+        
+    </day>
+    <day index='2' date='2022-04-16' start='2022-04-16T04:00:00+02:00' end='2022-04-17T03:59:00+02:00'>
+        <room name='Mainstream' guid='a288e167-b7d2-426f-a87f-5fb503601d61'>
+            <event guid='2d6ede78-4c31-5aec-b051-d6d52fccef0f' id='48298'>
+                <date>2022-04-16T14:30:00+02:00</date>
+                <start>14:30</start>
+                <duration>01:00</duration>
+                <room>Mainstream</room>
+                <slug>divoc-bb3-48298-der-allrussische-traum-oder-was-treibt-putin-wirklich-an</slug>
+                <url>https://pretalx.c3voc.de/divoc-bb3/talk/RVTPNL/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Der allrussische Traum oder Was treibt Putin wirklich an</title>
+                <subtitle></subtitle>
+                <track>Politics &amp; Society</track>
+                <type>Talk/Performance (30 minutes plus Q&amp;A)</type>
+                <language>de</language>
+                <abstract>Eine tiefergehende &#8211; auch historische &#8211; Auseinandersetzung mit der russischen Gesellschaft.</abstract>
+                <description>Seit Iwan der Schreckliche vor 500 Jahren von Moskau aus aufbrach, die Tartaren zu besiegen und damit den Grundstein f&#252;r das russische Gro&#223;reich legte, hat sich in der russischen Gesellschaft nicht sehr viel ver&#228;ndert: Wer die Macht hat, hat Recht, das gilt auch heute noch. Aufkl&#228;rung, Entwicklung einer Zivilgesellschaft, Gewaltentrennung &#8211; all das fand in Russland nie statt. Selbst die Industrialisierung setzte erst mit der Sowjetherrschaft ein. Im 19. Jahrhundert entwickelte sich, als Antwort auf andere europ&#228;ische nationale Bestrebungen, der Panslawismus: Alle Slawen sind ein Volk, und Russland ist ihr Gro&#223;er Besch&#252;tzer. In den 70er Jahren des 20. Jahrhunderts wurde diese Idee weiter entwickelt und wird heute als Eurasianismus vom Kreml offen bef&#252;rwortet. Russlands neuer Machtanspruch, von Gibraltar bis an den Ural, und nat&#252;rlich unter der F&#252;hrung Russlands. Ein Panorama.</description>
+                <logo></logo>
+                <persons>
+                    <person id='12'>Andr&#233;</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='0495a868-6f93-50a9-9917-bda0ea9ca5fe' id='48907'>
+                <date>2022-04-16T16:00:00+02:00</date>
+                <start>16:00</start>
+                <duration>00:45</duration>
+                <room>Mainstream</room>
+                <slug>divoc-bb3-48907-das-cybercrime-von-anonymous-</slug>
+                <url>https://pretalx.c3voc.de/divoc-bb3/talk/MMTXYJ/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Das Cybercrime von Anonymous?</title>
+                <subtitle></subtitle>
+                <track>Politics &amp; Society</track>
+                <type>Talk/Performance (30 minutes plus Q&amp;A)</type>
+                <language>de</language>
+                <abstract>&quot;Nicht &#252;berall, wo Cyberwar draufsteht, ist auch Cyberwar drin.&quot;</abstract>
+                <description>Anonymous erkl&#228;rt Russland den Krieg, nachdem sich die Kreml-F&#252;hrung zum rechtswidrigen Angriffskrieg gegen die Ukraine entschlossen hat. Die Ukraine ruft gleichzeitig zur Rekrutierung einer &#8222;Cyberarmee&#8220; auf, um russischen Hackerangriffen zu begegnen. Es wird viel Solidarit&#228;t gezeigt und Unterst&#252;tzung geleistet. Doch wie sieht das Ganze eigentlich (v&#246;lker)rechtlich aus? Kann Anonymous &#252;berhaupt jemandem den Krieg erkl&#228;ren? Bin ich Mitglied des ukrainischen Milit&#228;rs, wenn ich mich der Cyberarmee anschlie&#223;e? Und &#252;berhaupt &#8211; welche Anforderungen stellt das V&#246;lkerrecht f&#252;r digitale Kombattanten? Fragen &#252;ber Fragen. Das und mehr wollen wir in der Session &#8222;Das Cybercrime von Anonymous?&#8220; nach einem Impulsvortrag unter rechtlichen, ethischen und technischen Gesichtspunkten diskutieren.</description>
+                <logo></logo>
+                <persons>
+                    <person id='3041'>cyberlaw</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='79b1c7bd-13c7-5563-9fe4-6ebc953df690' id='48906'>
+                <date>2022-04-16T17:00:00+02:00</date>
+                <start>17:00</start>
+                <duration>00:45</duration>
+                <room>Mainstream</room>
+                <slug>divoc-bb3-48906-geschtzt-oder-gejagt-hacker-im-ukraine-krieg-eine-vlkerrechtliche-analyse</slug>
+                <url>https://pretalx.c3voc.de/divoc-bb3/talk/QG7T88/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Gesch&#252;tzt oder Gejagt? Hacker im Ukraine-Krieg - Eine v&#246;lkerrechtliche Analyse</title>
+                <subtitle></subtitle>
+                <track>Politics &amp; Society</track>
+                <type>Talk/Performance (30 minutes plus Q&amp;A)</type>
+                <language>de</language>
+                <abstract>Dieser Beitrag analysiert den v&#246;lkerrechtliche Status von nicht-staatlichen Hackern im aktuellen russisch-ukrainischen Krieg.</abstract>
+                <description>Der gegenw&#228;rtige Krieg in der Ukraine wird auch im digitalen Raum ausgetragen. So nutzen Russland wie auch die Ukraine den Cyberraum, um wechselseitig Ziele der anderen Seite anzugreifen. Kurz nach der russischen Invasion rief die ukrainische Regierung dazu auf, sich an dem bewaffneten Konflikt zu beteiligen, sich einer &#8222;IT-Armee&#8220; anzuschlie&#223;en und/oder Cyberangriffe gegen russische Ziele auszuf&#252;hren. Seither sind viele verschiedene nicht-staatliche Hackergruppen, Kollektive und Freiwillige digital in den Ukraine-Krieg involviert und versuchen, Russland zu bek&#228;mpfen. Allerdings hat solch eine Beteiligung nicht-staatlicher Hacker v&#246;lkerrechtliche Konsequenzen, wie dieser Beitrag aufzeigt. Denn alle an einem bewaffneten Konflikt beteiligten Hacker unterliegen dem humanit&#228;ren V&#246;lkerrecht und erhalten einen prim&#228;ren v&#246;lkerrechtlichen Status, mit welchem entsprechende Rechte, Handlungen und Pflichte verbunden sind. So k&#246;nnen sie entweder selbst ein legitimes Ziel von Kriegshandlungen werden oder werden vor Kriegshandlungen gesch&#252;tzt. Dieser Beitrag untersucht den v&#246;lkerrechtlichen Status dieser am Ukraine-Krieg beteiligten, freiwilligen Hacker.</description>
+                <logo>/media/divoc-bb3/submissions/QG7T88/Bewerbungsbild_II_2_w88sFbs.jpg</logo>
+                <persons>
+                    <person id='3040'>Janine Schmoldt</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='38e34bec-c9ab-532b-8409-28c80507d517' id='48898'>
+                <date>2022-04-16T18:00:00+02:00</date>
+                <start>18:00</start>
+                <duration>01:00</duration>
+                <room>Mainstream</room>
+                <slug>divoc-bb3-48898-keynote-krieg-in-ukraine-bomben-statt-cyber</slug>
+                <url>https://pretalx.c3voc.de/divoc-bb3/talk/8UVDHX/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Keynote Krieg in Ukraine - Bomben statt Cyber</title>
+                <subtitle></subtitle>
+                <track>Politics &amp; Society</track>
+                <type>Talk/Performance (30 minutes plus Q&amp;A)</type>
+                <language>de</language>
+                <abstract>Es ist Cyberwar!
+Kritische Infrastrukturen jetzt weggecybert. &#220;berall. Auch in Deutschland. Weil es &quot;massive Cyberangriffe&quot; gab. Oder doch nicht?</abstract>
+                <description>Der Ukraine-Krieg zeigt, dass wir nicht mehr in Friedenszeiten leben. Aber leben wir auch nicht mehr im Friedenscyber?
+
+Jahrelang wurde &#8222;Cyberwar&#8220; auf bunten Powerpoint-Folien von Milit&#228;rberaterinnen, Wirtschaftspr&#252;ferinnen, der R&#252;stungsindustrie und den ethisch fr&#252;h falsch abgebogenen IT-Sicherheitsprodukt-Anbietern als der ultimative offensive Weg aufgezeigt, wie sich alle Nationen gegenseitig im digitalen Raum wegcybern. Hackback l&#228;sst gr&#252;&#223;en.
+
+Putin hat hingegen prim&#228;r Waffen, Bomben und Raketen nach Ukraine geschickt und damit &#8222;konservative und klassische&#8220; kinetische Wirkmittel eingesetzt. Ist CyberCyber jetzt doch nicht relevant? Oder doch, aber nur ein bisschen?
+
+Die Keynote von HonkHase wird auf folgende Fragestellungen eingehen:
+
+Ist der Cyberraum ein Kriegsschauplatz?
+Wer sind die beteiligten staatlichen und nicht-staatlichen Akteure?
+Bedroht dies kritische Infrastrukturen?
+Sind auch KRITIS in Deutschland bedroht?
+Wenn ja, wie genau sieht so ein Angriff aus und was kann passieren?
+Haben wir Gegenma&#223;nahmen und wie s&#228;hen geeignete Ma&#223;nahmen aus?</description>
+                <logo></logo>
+                <persons>
+                    <person id='31'>Manuel (HonkHase) Atug</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='8816d2e3-0514-5dae-bf83-68d6a81c2e47' id='48902'>
+                <date>2022-04-16T19:00:00+02:00</date>
+                <start>19:00</start>
+                <duration>01:30</duration>
+                <room>Mainstream</room>
+                <slug>divoc-bb3-48902-bridging-bubbles-in-ukraine-diskussion</slug>
+                <url>https://pretalx.c3voc.de/divoc-bb3/talk/ZHLD7S/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Bridging Bubbles in Ukraine - Diskussion</title>
+                <subtitle></subtitle>
+                <track>Resiliency &amp; Intelligence</track>
+                <type>Talk/Performance (30 minutes plus Q&amp;A)</type>
+                <language>de</language>
+                <abstract>Wir reden &#252;ber den Ukraine Konflikt und stellen uns dabei nicht nur Fragen nach den Machtsph&#228;ren, die diesen Krieg gepr&#228;gt haben.</abstract>
+                <description>Allgemeine Diskussionen hat es im linearen Fernsehen schon oft genug gegeben. Es geht uns vor allem auch darum, was Hackende mit zivilen Mitteln gemacht haben und immer noch machen k&#246;nnen, um der ukrainischen Bev&#246;lkerung zu helfen. Und - im Sinne von Bridging Bubbles - auch darum, wie wir einem gleichsam notwendigen und unvorstellbaren Vers&#246;hnungsprozess helfen k&#246;nnen.</description>
+                <logo></logo>
+                <persons>
+                    <person id='3055'>DiVOC Panel</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='590d9740-9d25-5ff2-925c-ea2e8bebfab3' id='48909'>
+                <date>2022-04-16T20:45:00+02:00</date>
+                <start>20:45</start>
+                <duration>00:45</duration>
+                <room>Mainstream</room>
+                <slug>divoc-bb3-48909-betalars-bastelt-3d</slug>
+                <url>https://pretalx.c3voc.de/divoc-bb3/talk/R9ZS8E/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>betalars bastelt 3D</title>
+                <subtitle></subtitle>
+                <track>Arts &amp; Culture</track>
+                <type>Talk/Performance (30 minutes plus Q&amp;A)</type>
+                <language>de</language>
+                <abstract>Betalars bastelt tolle Dinge in 3D.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='26'>betalars</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='64781fd2-b77e-5679-87a7-4b0cc0713476' id='48944'>
+                <date>2022-04-16T23:50:00+02:00</date>
+                <start>23:50</start>
+                <duration>04:00</duration>
+                <room>Mainstream</room>
+                <slug>divoc-bb3-48944-morellion-s-dj-nacht-open-end</slug>
+                <url>https://pretalx.c3voc.de/divoc-bb3/talk/TVTBTB/</url>
+                <recording>
+                    <license></license>
+                    <optout>true</optout>
+                </recording>
+                <title>Morellion&apos;s DJ-Nacht - Open End</title>
+                <subtitle></subtitle>
+                <track>Music</track>
+                <type>Music 120min</type>
+                <language>en</language>
+                <abstract>Morellion und seine Crew pr&#228;sentiert Euch feinsten elektronischen Kl&#228;nge live aus dem Kachelraum.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='3052'>Morellion</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            
+        </room>
+        
+    </day>
+    <day index='3' date='2022-04-17' start='2022-04-17T04:00:00+02:00' end='2022-04-18T03:59:00+02:00'>
+        <room name='Mainstream' guid='a288e167-b7d2-426f-a87f-5fb503601d61'>
+            <event guid='9986b76f-6663-5d5a-8e93-13841279f715' id='48895'>
+                <date>2022-04-17T15:00:00+02:00</date>
+                <start>15:00</start>
+                <duration>00:45</duration>
+                <room>Mainstream</room>
+                <slug>divoc-bb3-48895-plantwatch-fossile-kraftwerke-unter-der-lupe</slug>
+                <url>https://pretalx.c3voc.de/divoc-bb3/talk/WWTCVC/</url>
+                <recording>
+                    <license></license>
+                    <optout>true</optout>
+                </recording>
+                <title>plantwatch - Fossile Kraftwerke unter der Lupe</title>
+                <subtitle></subtitle>
+                <track>Politics &amp; Society</track>
+                <type>Talk/Performance (30 minutes plus Q&amp;A)</type>
+                <language>de</language>
+                <abstract>Russlands Ukrainekrieg zeigt einmal mehr, warum wir aus fossilen Energietr&#228;gern aussteigen sollten. Doch wie sieht unser Kraftwerkspark derzeit aus?</abstract>
+                <description>[plantwatch.de](https://plantwatch.de &quot;plantwatch.de&quot;) ist ein Projekt, in dem ich die Kraftwerksliste der Bundesnetzagentur (BNetzA) mit den Daten des EU Schadstoffregister PRTR verkn&#252;pfe. Ergebnis ist eine &#220;bersicht &#252;ber den deutschen konventionellen, fossilen Kraftwerksmarkt.
+
+Neben der bisweilen fraglichen Qualit&#228;t der Ausgangsdaten werden wir einige Kraftwerke n&#228;her betrachten. Teils milliarden-teurer fail, teils bizarre Folgen des Steinkohleausstiegsteils, teils Paradebeispiel eines modernen Kraftwerks.
+
+Anschlie&#223;end werden wir uns die Herkunft unserer Steinkohle ansehen und damit den Bezug zu Russlands Krieg in der Ukraine herstellen.
+[Update: Inzwischen hat die EU beschlossen russische Steinkohle zu boykottieren.]
+Abschlie&#223;end geht es noch darum, wie wir die Energiewende beschleunigen k&#246;nn(t)en.</description>
+                <logo>/media/divoc-bb3/submissions/WWTCVC/Screenshot_2022-04-07_at_22-38-30_plantwatch_z4RYeAw.png</logo>
+                <persons>
+                    <person id='2523'>dietzi96</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='40331814-47e5-5e66-8c37-5f63c7b083d4' id='48901'>
+                <date>2022-04-17T16:00:00+02:00</date>
+                <start>16:00</start>
+                <duration>00:45</duration>
+                <room>Mainstream</room>
+                <slug>divoc-bb3-48901-antennen-vermessen</slug>
+                <url>https://pretalx.c3voc.de/divoc-bb3/talk/BGQMZC/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Antennen vermessen</title>
+                <subtitle></subtitle>
+                <track>Science &amp; Technology</track>
+                <type>Talk/Performance (30 minutes plus Q&amp;A)</type>
+                <language>de</language>
+                <abstract>Antennen von Amazon und AliExpress vermessen</abstract>
+                <description>WLAN, LoRa, ADS-B, LTE, SDR, ... &#220;berall braucht es Antennen, Kabel und DingeTM. Wie finde ich heraus was eine Antenne kann und wie kann ich meine Antenne anpassen? Wie unterscheidet sich ein Klingeldraht von einem guten Kabel und was machen Filter?</description>
+                <logo></logo>
+                <persons>
+                    <person id='184'>JJX</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='f31ce132-1953-53da-86f1-5cf68d85a6c7' id='48300'>
+                <date>2022-04-17T17:00:00+02:00</date>
+                <start>17:00</start>
+                <duration>00:45</duration>
+                <room>Mainstream</room>
+                <slug>divoc-bb3-48300-datenethik-in-der-smart-city-</slug>
+                <url>https://pretalx.c3voc.de/divoc-bb3/talk/YH9VPJ/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Datenethik in der &#187;Smart City&#171;</title>
+                <subtitle></subtitle>
+                <track>Politics &amp; Society</track>
+                <type>Talk/Performance (30 minutes plus Q&amp;A)</type>
+                <language>de</language>
+                <abstract>Was tun Kommunen in Deutschland gegen Diskriminierung durch ihre Digitalstrategien? &#8211; Ein datenethischer &#220;berblick</abstract>
+                <description>Algorithmen beginnen gerade unser allt&#228;gliches Leben &#252;ber digitale Sph&#228;ren hinaus zu beeinflussen: Auf gro&#223;r&#228;umigem Ma&#223;stab finden sie Anwendung &lt;abbr title=&quot;siehe etwa das saudi-arabische Megaprojekt &#187;The Line&#171;: neom.com&quot;&gt;um St&#228;dte zu planen&lt;/abbr&gt; oder &lt;abbr title=&quot;so etwa in der &#187;Woven City&#171; des Toyota-Konzerns: www.woven-city.global&quot;&gt;den st&#228;dtischen Betrieb zu optimieren und zu steuern&lt;/abbr&gt;. Auch in den st&#228;dtischen Alltag finden digitale Planung und Steuerung Eingang, etwa durch die LoRaWAN-Funktechnologie, um &lt;abbr title=&quot;Beispiele gibt es hierf&#252;r zahlreiche, so etwa geschehen in Karlsruhe: Hofheinz, Melanie: &#187;Karlsruhe wird zur Smart City: M&#252;lleimer sollen k&#252;nftig selbst denken&#171;&quot;&gt;das Internet der Dinge auf Stadtmobiliar zu erweitern&lt;/abbr&gt;.
+
+In der Informatik sind den F&#228;llen diskriminierender Programmierung &lt;abbr title=&quot;um nur einige Beispiele zu nennen:
+O&#8217;Neill, Cathy: &#187;Weapons of Math Destruction&#171;, 2. Auflage, M&#252;nchen, Deutschland: Carl Hanser Verlag, 2018
+Criado Perez, Caroline: &#187;Invisible Women &#8211; Exposing Data Bias in a World Designed for Men&#171;, London, United Kingdom: Chatto &amp; Windus, 2019 Kantayya, Shalini: &#187;Coded Bias&#171;, 2020, https://www.codedbias.com
+Endler, Rebekka: &#187;Das Patriarchat der Dinge&#171;, 1. Ausgabe, K&#246;ln, Deutschland: DuMont Buchverlag, 2021&quot;&gt;zahlreiche B&#252;cher und Dokumentationen&lt;/abbr&gt; gewidmet worden. Die Beispiele reichen von &lt;abbr title=&quot;vgl. Criado Perez, 2019, S. 29&#8211;32&quot;&gt;sexistischen Schneer&#228;umpraktiken&lt;/abbr&gt;, &#252;ber &lt;abbr title=&quot;vgl. O&#8217;Neill, 2018, S. 100&#8211;111&quot;&gt;rassistische Kreditvergabe&lt;/abbr&gt;, hin zu Gesichtserkennung, die zu &lt;abbr title=&quot;vgl. Kantayya, 2020&quot;&gt;unrechtm&#228;&#223;igen Verhaftungen&lt;/abbr&gt; f&#252;hren. Viele dieser Praktiken betreffen direkt oder indirekt den st&#228;dtischen Alltag. Zur&#252;ckzuf&#252;hren sind sie in vielen F&#228;llen auf unzul&#228;ngliche Datenerhebung oder -verarbeitung, die durch die Arbeitsumgebung des Entwicklungsteams beg&#252;nstigt wurde.
+
+Was passiert nun also, wenn Stadtplanung und Informatik aufeinander treffen? Haben deutsche Kommunen ein Bewusstsein f&#252;r die Risiken, die mit ihren Digitalisierungsvorhaben verbunden sind? Welche Ma&#223;nahmen ergreifen sie gegen Diskriminierung?</description>
+                <logo></logo>
+                <persons>
+                    <person id='2529'>Leonard Follner</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='1d1c0c4d-2fdc-5e57-84a4-476219d22559' id='48896'>
+                <date>2022-04-17T18:00:00+02:00</date>
+                <start>18:00</start>
+                <duration>00:45</duration>
+                <room>Mainstream</room>
+                <slug>divoc-bb3-48896-einfhrung-in-die-awareness-in-der-clubkultur</slug>
+                <url>https://pretalx.c3voc.de/divoc-bb3/talk/BRHWKA/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Einf&#252;hrung in die Awareness in der Clubkultur</title>
+                <subtitle></subtitle>
+                <track>Politics &amp; Society</track>
+                <type>Talk/Performance (30 minutes plus Q&amp;A)</type>
+                <language>de</language>
+                <abstract>Awareness wird in der Partyszene ein immer gr&#246;&#223;eres Thema. Aber was ist das eigentlich? Warum macht man das und wie funktioniert die Arbeit?</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='3036'>Cocny</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='1ba59f78-397f-56d5-8840-6dd461cf504c' id='48897'>
+                <date>2022-04-17T19:00:00+02:00</date>
+                <start>19:00</start>
+                <duration>00:45</duration>
+                <room>Mainstream</room>
+                <slug>divoc-bb3-48897-die-verengung-der-journalistischen-welt</slug>
+                <url>https://pretalx.c3voc.de/divoc-bb3/talk/3CMSXG/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Die Verengung der journalistischen Welt</title>
+                <subtitle></subtitle>
+                <track>Politics &amp; Society</track>
+                <type>Talk/Performance (30 minutes plus Q&amp;A)</type>
+                <language>en</language>
+                <abstract>Wie kommt der Journalismus aus der Blase, um endlich wieder seinen Job ordentlich zumachen</abstract>
+                <description>Der Journalismus verharre teilweise zu sehr im Status quo und zementiere einen Bodensatz an Stammtischmeinungen, kritisiert die Journalismus-Professorin Sabine Rollberg. Die journalistische Berichterstattung habe sich in der Corona-Pandemie verengt, stellten die Kommunikationswissenschaftler Dennis Gr&#228;f und Martin Hennig in einer Studie fest. Die Watchdogs seien schlafen gegangen, urteilt die Medienforscherin Daria Gordeeva. Gleichzeitig wirb das Journalistenzentrum damit, sie w&#252;rden in der Tradition des Gesinnungsjournalisten Emil Dovifat ausbilden. Journalisten selbst haben sogar die Aufgabe von Neutralit&#228;t und Objektitit&#228;t als Leitidee f&#252;r die Berichterstattung gefordert. Werden wir k&#252;nftig nur noch mit journalistischen Gesinnungsblasen bedient und bekommen Propagandah&#228;ppchen statt Fakten vorgesetzt? Darum geht es n diesem Talk.</description>
+                <logo></logo>
+                <persons>
+                    <person id='3037'>Peter Welchering</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='0e693d67-194e-5e5d-8048-b97a66b61224' id='48894'>
+                <date>2022-04-17T20:00:00+02:00</date>
+                <start>20:00</start>
+                <duration>00:45</duration>
+                <room>Mainstream</room>
+                <slug>divoc-bb3-48894-die-softwarekrise-v4-0</slug>
+                <url>https://pretalx.c3voc.de/divoc-bb3/talk/MBLCRK/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Die Softwarekrise v4.0</title>
+                <subtitle></subtitle>
+                <track>Science &amp; Technology</track>
+                <type>Talk/Performance (30 minutes plus Q&amp;A)</type>
+                <language>de</language>
+                <abstract>Seit Mitte der 1960er Jahre wird &#252;ber &quot;Softwarekrisen&quot; unterschiedlicher Ursachen, Auswirkungen und Erscheinungsformen berichtet und diskutiert.</abstract>
+                <description>Seit Mitte der 1960er Jahre wird &#252;ber &quot;Softwarekrisen&quot; unterschiedlicher Ursachen, Auswirkungen und Erscheinungsformen berichtet und diskutiert.  Die ersten Phasen  bzw. Iterationen sind gut verstanden und Bestandteil von Lehrveranstaltungen. Es handelt sich um feststehende Begriffe im Software Engineering.
+
+Derzeit wird, je nach Lesart, die dritte Krise abgearbeitet, die sich gegenw&#228;rtig in immer langwierigeren, teuereren und im Ergebnis unter den Erwartungen bleibenden Softwareprojekten ausdr&#252;ckt.
+
+Was kommt danach? Damit besch&#228;ftigen sich nicht nur Informatiker, Softwarepraktiker und Betriebswirte in Konzernen, sondern es geschieht auch Begleitforschung aus anderen Disziplinen.
+
+Dieser kurze Talk will kurz erkl&#228;ren, was die Technikphilosophie m&#246;glicherweise beizutragen haben k&#246;nnte und wie dort der Stand der Dinge ist und was man unter Version 4.0 der &quot;Softwarekrise&quot; zu verstehen h&#228;tte.
+
+Es gibt ein wenig Zeit f&#252;r Diskussion und Nachfragen.</description>
+                <logo>/media/divoc-bb3/submissions/MBLCRK/ajuvo_x6uT9tz.jpeg</logo>
+                <persons>
+                    <person id='318'>ajuvo</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='6c498c24-729a-5b76-be18-6059542b36f9' id='48293'>
+                <date>2022-04-17T21:00:00+02:00</date>
+                <start>21:00</start>
+                <duration>00:15</duration>
+                <room>Mainstream</room>
+                <slug>divoc-bb3-48293-the-curse-of-slide-making</slug>
+                <url>https://pretalx.c3voc.de/divoc-bb3/talk/CYKFMB/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>The Curse of Slide-making</title>
+                <subtitle></subtitle>
+                <track>Science &amp; Technology</track>
+                <type>Talk/Performance (10 minutes + Q&amp;A)</type>
+                <language>en</language>
+                <abstract>This talk will showcase slide-making tools-- and how each can fail when faced with special requirements.</abstract>
+                <description>_&quot;I&apos;ll give a talk at `$con`!&quot;_
+
+You start writing down the requirements for your slides, and you soon realise your tool of choice is not enough anymore. Do you cut your losses and move to a new tool, or do you monkey-patch the existing one?
+
+This talk is about about my experience looking for upgrades to my slides toolchain. I will show you my usual requirements for slide-making, and showcase some tools I tried. I&apos;ll illustrate how each tool has its strengths and weaknesses, depending on what you may need.</description>
+                <logo></logo>
+                <persons>
+                    <person id='2522'>Amyspark</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='136d8d73-f156-5ea5-8e75-886cefa22d5f' id='48941'>
+                <date>2022-04-17T21:30:00+02:00</date>
+                <start>21:30</start>
+                <duration>01:15</duration>
+                <room>Mainstream</room>
+                <slug>divoc-bb3-48941-change-is-the-only-constant-thing-documentary</slug>
+                <url>https://pretalx.c3voc.de/divoc-bb3/talk/BC7BVS/</url>
+                <recording>
+                    <license></license>
+                    <optout>true</optout>
+                </recording>
+                <title>Change Is The Only Constant Thing - Documentary</title>
+                <subtitle></subtitle>
+                <track>Arts &amp; Culture</track>
+                <type>Music 120min</type>
+                <language>de</language>
+                <abstract>Change Is The Only Constant Thing - Doku</abstract>
+                <description>The film accompanies the life of an artist in Barcelona and Leipzig, who lives, works and organizes parties in former industrial buildings. She improvises and designs these industrial spaces from things that others throw away. The result is a life-size collage that serves to bring people together and unite them. Filled with electronic music and dance, these spaces help her to satisfy the desire for a primal sense of community. &#8220;Places where people fall in love and finally find peace in this world&#8221;, says Naroma. But these places are always the target of urban upheaval processes and tend to disappear. How do we want to live and what remains of our ideals and dreams? In the end, do we need someone to take these ideals and dreams by the hand, even if they seem to be unreachable?</description>
+                <logo>/media/divoc-bb3/submissions/BC7BVS/naroma_0pZowAS.jpg</logo>
+                <persons>
+                    <person id='3050'>Christoph Fleischer</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='a37fdf60-eaa6-5e54-a26f-6231f434c2d9' id='48945'>
+                <date>2022-04-17T22:45:00+02:00</date>
+                <start>22:45</start>
+                <duration>01:00</duration>
+                <room>Mainstream</room>
+                <slug>divoc-bb3-48945-dj-spock-dj-set</slug>
+                <url>https://pretalx.c3voc.de/divoc-bb3/talk/FRVQBT/</url>
+                <recording>
+                    <license></license>
+                    <optout>true</optout>
+                </recording>
+                <title>dj-spock - DJ Set</title>
+                <subtitle></subtitle>
+                <track>Music</track>
+                <type>Music 120min</type>
+                <language>en</language>
+                <abstract>live long and prosper    \\//_</abstract>
+                <description></description>
+                <logo>/media/divoc-bb3/submissions/FRVQBT/dj-spock_SsPElHE.jpg</logo>
+                <persons>
+                    <person id='19'>DJ Spock</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='fdf9f29a-4ee2-53eb-a5a1-b488d48a47b3' id='48947'>
+                <date>2022-04-17T23:45:00+02:00</date>
+                <start>23:45</start>
+                <duration>01:00</duration>
+                <room>Mainstream</room>
+                <slug>divoc-bb3-48947-mijk-van-dijk-dj-set</slug>
+                <url>https://pretalx.c3voc.de/divoc-bb3/talk/9BRWFU/</url>
+                <recording>
+                    <license></license>
+                    <optout>true</optout>
+                </recording>
+                <title>Mijk van Dijk - DJ Set</title>
+                <subtitle></subtitle>
+                <track>Music</track>
+                <type>Music 120min</type>
+                <language>en</language>
+                <abstract>DJ, Liveact, Producer &amp; Remixer from Berlin, Germany.
+Purveyor of Techno and House Music since 1990.</abstract>
+                <description>Seine Diskographie umfasst mehrere Seiten. F&#252;gt man die zahlreichen Kollaborationen, Remixe und Beitr&#228;ge zu Compilations hinzu, so nimmt die Liste schnell den Umfang eines kleinen Buches an. Mijk Van Dijk, seit 1988 als Producer, sp&#228;ter dann als Live Act und DJ der Techno Szene von Anfang an verbunden, darf mit Sicherheit zu den umtriebigsten Ideengebern des Genres gez&#228;hlt werden.
+
+A collection of links:
+Homepage http://microglobe.de
+Facebook https://www.facebook.com/mijkvandijk
+Twitter http://twitter.com/mijkvandijk
+YouTube http ://www.youtube.com/mijkvandijk
+Mixcloud http://www.mixcloud.com/mijkvandijk
+HearThis https://hearthis.at/mijkvandijk/
+Radio http://microglobe.de/radio/m4tm/
+mijkvandijk</description>
+                <logo>/media/divoc-bb3/submissions/9BRWFU/mijk-0055mariestaggat-scaled_h9I42hy.jpg</logo>
+                <persons>
+                    <person id='3051'>Mijk van Dijk</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            
+        </room>
+        
+    </day>
+    <day index='4' date='2022-04-18' start='2022-04-18T04:00:00+02:00' end='2022-04-19T03:59:00+02:00'>
+        
+    </day>
+    
+</schedule>

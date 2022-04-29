@@ -138,5 +138,14 @@ class TestUpdateStreamsV2(unittest.TestCase):
     def test_gpw2022(self):
         self._test_conference("gpw2022")
 
+    @patch.object(c3voc, "fetch_xml", partial(local_fetch_xml, "revision", "bats.science"))
+    def test_revision(self):
+        self._test_conference("revision")
+
+    @patch.object(c3voc, "fetch_xml", partial(local_fetch_xml, "divoc", "pretalx.c3voc.de"))
+    def test_divoc(self):
+        self._test_conference("divoc")
+
+
 if __name__ == "__main__":
     unittest.main(verbosity=2)

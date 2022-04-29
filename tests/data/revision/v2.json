@@ -1,0 +1,268 @@
+[
+    {
+        "conference": "Revision 2022",
+        "slug": "revision",
+        "author": "Revision 2022",
+        "description": "Revision 2022",
+        "keywords": "Revision Demo Party 2022",
+        "schedule": "https://bats.science/revision-schedule.xml",
+        "startsAt": "2022-04-15T13:00:00+0000",
+        "endsAt": "2022-04-18T14:00:00+0000",
+        "isCurrentlyStreaming": true,
+        "groups": [
+            {
+                "group": "Main Stream",
+                "rooms": [
+                    {
+                        "slug": "revision",
+                        "schedulename": "Revision",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/revision/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/revision/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/revision/revision",
+                        "display": "Revision Main Stream",
+                        "stream": "revision",
+                        "talks": {
+                            "current": {
+                                "fstart": "2022-04-15T21:00:00+02:00",
+                                "fend": "2022-04-15T22:00:00+02:00",
+                                "tstart": "21:00",
+                                "tend": "22:00",
+                                "start": 1650049200,
+                                "end": 1650052800,
+                                "offset": 7200,
+                                "duration": 3600,
+                                "title": "Womp is the most powerful web-based cont...",
+                                "speaker": "Revision",
+                                "room_known": true,
+                                "optout": false
+                            },
+                            "next": {
+                                "fstart": "2022-04-15T22:00:00+02:00",
+                                "fend": "2022-04-15T22:00:00+02:00",
+                                "tstart": "22:00",
+                                "tend": "22:00",
+                                "start": 1650052800,
+                                "end": 1650052800,
+                                "offset": 7200,
+                                "duration": 0,
+                                "title": "Franky's traditional beer seminar. The b...",
+                                "speaker": "Revision",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "hls-native",
+                                "display": "Revision Main Stream ",
+                                "type": "hls",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "Revision Main Stream FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/revision/native_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "group": "Extras",
+                "rooms": [
+                    {
+                        "slug": "revisionextras",
+                        "schedulename": "Revision Extras",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/revisionextras/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/revisionextras/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/revision/revisionextras",
+                        "display": "Revision Extras",
+                        "stream": "revisionextras",
+                        "talks": {
+                            "current": null,
+                            "next": null
+                        },
+                        "streams": [
+                            {
+                                "slug": "hls-native",
+                                "display": "Revision Extras ",
+                                "type": "hls",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "Revision Extras FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/revisionextras/native_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "conference": "DiVOC - Bridging Bubbles",
+        "slug": "divoc",
+        "author": "DiVOC",
+        "description": "Livestream des Digital verteilten Online-Chaos",
+        "keywords": "DiVOC, Hacking, Chaos Computer Club, Video, Music, Podcast, Media, Streaming, Hacker, Everywhere, Bridging Bubbles, bb3, Ukraine, Peace",
+        "schedule": "https://pretalx.c3voc.de/divoc-bb3/schedule/export/schedule.xml",
+        "startsAt": "2022-04-15T10:00:00+0000",
+        "endsAt": "2022-04-17T21:50:00+0000",
+        "isCurrentlyStreaming": true,
+        "groups": [
+            {
+                "group": "Live",
+                "rooms": [
+                    {
+                        "slug": "bb3",
+                        "schedulename": "Mainstream",
+                        "thumb": "https://cdn.c3voc.de/thumbnail/csh/thumb.jpeg",
+                        "poster": "https://cdn.c3voc.de/thumbnail/csh/poster.jpeg",
+                        "link": "https://streaming.media.ccc.de/divoc/bb3",
+                        "display": "Mainstream",
+                        "stream": "csh",
+                        "talks": {
+                            "current": {
+                                "fstart": "2022-04-15T21:00:00+02:00",
+                                "fend": "2022-04-15T22:00:00+02:00",
+                                "tstart": "21:00",
+                                "tend": "22:00",
+                                "start": 1650049200,
+                                "end": 1650052800,
+                                "offset": 7200,
+                                "duration": 3600,
+                                "title": "Socially Aardvark & Eigenform - Konzert -",
+                                "speaker": "artfwo, excds",
+                                "room_known": true,
+                                "optout": false
+                            },
+                            "next": {
+                                "fstart": "2022-04-15T22:00:00+02:00",
+                                "fend": "2022-04-15T23:00:00+02:00",
+                                "tstart": "22:00",
+                                "tend": "23:00",
+                                "start": 1650052800,
+                                "end": 1650056400,
+                                "offset": 7200,
+                                "duration": 3600,
+                                "title": "Systemabsturz - Konzert",
+                                "speaker": "Systemabsturz",
+                                "room_known": true,
+                                "optout": false
+                            }
+                        },
+                        "streams": [
+                            {
+                                "slug": "hls-native",
+                                "display": "Mainstream ",
+                                "type": "hls",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "hls-translated",
+                                "display": "Mainstream  (Translated)",
+                                "type": "hls",
+                                "isTranslated": true,
+                                "videoSize": null,
+                                "urls": {}
+                            },
+                            {
+                                "slug": "audio-native",
+                                "display": "Mainstream Audio",
+                                "type": "audio",
+                                "isTranslated": false,
+                                "videoSize": null,
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "AAC, VBR",
+                                        "url": "https://cdn.c3voc.de/hls/csh/segment_Native.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "audio-translated",
+                                "display": "Mainstream Audio (Translated)",
+                                "type": "audio",
+                                "isTranslated": true,
+                                "videoSize": null,
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "AAC, VBR",
+                                        "url": "https://cdn.c3voc.de/hls/csh/segment_Translated.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-native",
+                                "display": "Mainstream FullHD Video",
+                                "type": "video",
+                                "isTranslated": false,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/csh/native_hd.m3u8"
+                                    }
+                                }
+                            },
+                            {
+                                "slug": "hd-translated",
+                                "display": "Mainstream FullHD Video (Translated)",
+                                "type": "video",
+                                "isTranslated": true,
+                                "videoSize": [
+                                    1920,
+                                    1080
+                                ],
+                                "urls": {
+                                    "hls": {
+                                        "display": "HLS",
+                                        "tech": "1920x1080, h264+AAC im MPEG-TS-Container via HTTP, 3 MBit/s",
+                                        "url": "https://cdn.c3voc.de/hls/csh/translated_hd.m3u8"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
